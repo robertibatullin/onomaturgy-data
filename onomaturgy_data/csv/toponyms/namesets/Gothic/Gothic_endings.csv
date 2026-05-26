@@ -1,0 +1,310 @@
+place_category,ending
+basin,des
+basin,ges
+basin,kes
+basin,ka
+basin,enes
+basin,ssea
+basin,mees
+basin,ckan
+basin,esea
+basin,ksea
+basin,idtes
+basin,lines
+basin,insea
+basin,puhl
+basin,stsea
+basin,dtsea
+basin,lensea
+basin,densea
+basin,kowes
+basin,gersea
+basin,towsea
+basin,gelsea
+basin,ldeik
+basin,feldes
+basin,sdorfes
+basin,endeik
+basin,lweihes
+basin,enweihes
+convex shoreline,ord
+depression,ngrund
+depression,gendal
+elevated area,nes
+elevated area,berg
+elevated area,opa
+elevated area,enberga
+elevation,des
+elevation,les
+elevation,els
+elevation,ers
+elevation,san
+elevation,gan
+elevation,dan
+elevation,mes
+elevation,ain
+elevation,rds
+elevation,tes
+elevation,mel
+elevation,rst
+elevation,and
+elevation,ssa
+elevation,ses
+elevation,ppel
+elevation,aues
+elevation,ckel
+elevation,dtan
+elevation,rges
+elevation,burg
+elevation,ckan
+elevation,wald
+elevation,kes
+elevation,horn
+elevation,pidt
+elevation,akt
+elevation,enes
+elevation,mberg
+elevation,dberg
+elevation,shaua
+elevation,hugel
+elevation,kberg
+elevation,hubel
+elevation,gberg
+elevation,fberg
+elevation,aberg
+elevation,inges
+elevation,skan
+elevation,leida
+elevation,skeid
+elevation,nsberg
+elevation,dsberg
+elevation,hlberg
+elevation,seberg
+elevation,erhaua
+elevation,enhaua
+elevation,ndberg
+elevation,alberg
+elevation,erkop
+elevation,dsberg
+elevation,rnberg
+elevation,lstein
+elevation,neberg
+elevation,elkop
+elevation,skuppa
+elevation,deberg
+elevation,usberg
+elevation,esberg
+elevation,senberg
+elevation,ersberg
+elevation,benberg
+elevation,tenberg
+elevation,derberg
+elevation,senkop
+elevation,denberg
+elevation,idtberg
+elevation,einberg
+elevation,states
+elevation,denkop
+elevation,menberg
+elevation,eerberg
+elevation,elskop
+elevation,ngsberg
+elevation,erskop
+elevation,felberg
+elevation,okberg
+elevation,erstein
+elevation,dtenberg
+elevation,hlenberg
+elevation,llenberg
+elevation,kenberg
+elevation,nnenberg
+elevation,nkenberg
+elevation,ngenberg
+elevation,kelberg
+elevation,lenstein
+elevation,selsberg
+elevation,uskberg
+elevation,aarenberg
+island,erdes
+marsh,moos
+marsh,bruk
+populated place,pan
+populated place,lin
+populated place,del
+populated place,ham
+populated place,lan
+populated place,dal
+populated place,eln
+populated place,tin
+populated place,ang
+populated place,des
+populated place,ein
+populated place,kel
+populated place,nau
+populated place,van
+populated place,mas
+populated place,all
+populated place,ock
+populated place,lau
+populated place,rt
+populated place,bes
+populated place,uk
+populated place,orn
+populated place,lda
+populated place,and
+populated place,kau
+populated place,kes
+populated place,rda
+populated place,holt
+populated place,shof
+populated place,ding
+populated place,ling
+populated place,eeis
+populated place,nsan
+populated place,rik
+populated place,wald
+populated place,eban
+populated place,rat
+populated place,lidt
+populated place,dern
+populated place,ckan
+populated place,hofa
+populated place,tal
+populated place,lak
+populated place,esk
+populated place,kau
+populated place,grun
+populated place,esan
+populated place,didt
+populated place,ella
+populated place,isk
+populated place,ska
+populated place,erhof
+populated place,sfeld
+populated place,rbak
+populated place,ewidt
+populated place,tdorp
+populated place,lberg
+populated place,ezidt
+populated place,enhof
+populated place,lbak
+populated place,ezoda
+populated place,hudta
+populated place,ikan
+populated place,reut
+populated place,brunn
+populated place,nroda
+populated place,steda
+populated place,indan
+populated place,mbeck
+populated place,dbak
+populated place,cking
+populated place,nheim
+populated place,sreud
+populated place,kofan
+populated place,efeld
+populated place,szell
+populated place,ndrup
+populated place,ezot
+populated place,horst
+populated place,enbak
+populated place,enburg
+populated place,erberg
+populated place,isdorp
+populated place,enhain
+populated place,lingan
+populated place,dingan
+populated place,enfeld
+populated place,nsdorp
+populated place,nhofan
+populated place,nsbak
+populated place,fingan
+populated place,bergan
+populated place,esberg
+populated place,wardan
+populated place,ernidt
+populated place,enbeck
+populated place,skeid
+populated place,lstein
+populated place,wangan
+populated place,gardan
+populated place,erfeld
+populated place,ersdorp
+populated place,sendorp
+populated place,enstet
+populated place,sweiles
+populated place,denberg
+populated place,stedtan
+populated place,dendorp
+populated place,enhagan
+populated place,rendorp
+populated place,kirkan
+populated place,ersheim
+populated place,lhausan
+populated place,enhausan
+populated place,enweiles
+populated place,nnhausan
+populated place,olthausan
+populated place,linghausan
+populated place,erdshausan
+strait,alja
+stream,nes
+stream,des
+stream,les
+stream,kes
+stream,lba
+stream,sta
+stream,eka
+stream,mes
+stream,aka
+stream,sk
+stream,hla
+stream,ses
+stream,ssa
+stream,lta
+stream,sel
+stream,nidt
+stream,aina
+stream,ndel
+stream,kes
+stream,aues
+stream,tes
+stream,ezau
+stream,deif
+stream,ecka
+stream,mbak
+stream,gbak
+stream,inges
+stream,dbak
+stream,ubak
+stream,kanal
+stream,dbak
+stream,abak
+stream,elbak
+stream,sebak
+stream,rnbak
+stream,esbak
+stream,itbak
+stream,denbak
+stream,derbak
+stream,skbak
+stream,brunnan
+stream,egraban
+stream,senbak
+stream,einbak
+stream,henbak
+stream,ikbak
+stream,derbak
+stream,denbak
+stream,ggraban
+stream,eirbak
+stream,elsbak
+stream,engraban
+stream,nnenbak
+stream,lersbak
+stream,llenbak
+stream,nidtbak
+stream,ckenbak
+stream,nkenbak
+stream,ksgraban
+underwater elevation,grund

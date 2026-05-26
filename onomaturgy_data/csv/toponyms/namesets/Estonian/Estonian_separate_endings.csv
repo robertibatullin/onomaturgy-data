@@ -1,0 +1,63 @@
+place_category,separate_ending,frequency
+basin,<NONE>,54
+stream,<NONE>,158
+strait,<NONE>,5
+populated place,<NONE>,1006
+marsh,<NONE>,24
+island,<NONE>,257
+elevation,<NONE>,31
+convex shoreline,<NONE>,130
+underwater elevation,<NONE>,8
+concave shoreline,<NONE>,20
+populated place,Asundus,4
+stream,Iygi,3
+basin,Järv,84
+basin,Järved,4
+stream,Jõgi,119
+strait,Kurk,5
+concave shoreline,Laht,49
+basin,Laht,3
+island,Laid,18
+basin,Lakht,3
+concave shoreline,Lakht,25
+island,Layd,26
+island,Ma,3
+island,Maa,5
+island,Malos,3
+island,Malusi,3
+elevation,Munamägi,2
+elevation,Mägi,5
+convex shoreline,Neem,28
+convex shoreline,Neyem,3
+convex shoreline,Nina,65
+convex shoreline,Ninna,2
+convex shoreline,Nukk,6
+populated place,Nõmme,2
+stream,Oja,55
+convex shoreline,Ots,10
+island,Pakri,5
+elevation,Pank,7
+convex shoreline,Pank,3
+convex shoreline,Poolsaar,27
+marsh,Raba,53
+elevation,Rahu,2
+island,Rakhu,2
+island,Rooge,2
+populated place,Roosa,2
+island,Rågö,2
+island,Saar,47
+island,Sala,8
+island,Sar,30
+island,Sari,2
+marsh,So,12
+marsh,Soo,38
+basin,Soo,2
+convex shoreline,Säär,3
+island,Uhti,2
+island,Uhtju,2
+island,Ukhti,2
+concave shoreline,Vik,3
+strait,Väin,4
+basin,Yarv,27
+stream,Yegi,2
+stream,Yygi,20

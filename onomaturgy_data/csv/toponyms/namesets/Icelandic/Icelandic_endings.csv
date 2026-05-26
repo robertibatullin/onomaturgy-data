@@ -1,0 +1,271 @@
+place_category,ending
+basin,aós
+basin,alón
+basin,avötn
+basin,svötn
+basin,uvatn
+basin,stjörn
+basin,ravatn
+basin,lavatn
+basin,gavatn
+basin,atjörn
+basin,utjörn
+basin,pavatn
+basin,arvötn
+basin,kavatn
+basin,tavatn
+basin,isvatn
+basin,navatn
+basin,nsvatn
+basin,ðarvatn
+basin,ólsvatn
+basin,tjarnir
+basin,sárvatn
+basin,fjörður
+basin,ilsvatn
+basin,iðavatn
+basin,rdalsvatn
+concave shoreline,als
+concave shoreline,vik
+concave shoreline,dar
+concave shoreline,kur
+concave shoreline,höfn
+concave shoreline,bugt
+concave shoreline,lavík
+concave shoreline,arvík
+concave shoreline,navík
+concave shoreline,aflói
+concave shoreline,lsvík
+concave shoreline,rsvík
+concave shoreline,isvík
+concave shoreline,árvík
+concave shoreline,nsvík
+concave shoreline,avogur
+concave shoreline,svogur
+concave shoreline,fjördur
+concave shoreline,sfjördr
+concave shoreline,sfjörður
+concave shoreline,afjörður
+concave shoreline,arfjörður
+convex shoreline,snes
+convex shoreline,arnes
+convex shoreline,höfði
+convex shoreline,rhorn
+convex shoreline,ganes
+convex shoreline,atangi
+convex shoreline,artangi
+depression,rgil
+depression,sgil
+depression,lagil
+depression,askarð
+depression,udalur
+depression,nadalur
+depression,lsdalur
+depression,urdalur
+depression,ðardalur
+depression,sárdalur
+elevated area,háls
+elevated area,úkar
+elevated area,fjöll
+elevated area,hólar
+elevated area,kambur
+elevated area,hryggur
+elevated area,fjallgarður
+elevation,öxl
+elevation,ður
+elevation,lur
+elevation,iði
+elevation,kki
+elevation,mar
+elevation,ðir
+elevation,lir
+elevation,hóll
+elevation,múli
+elevation,horn
+elevation,ahæð
+elevation,llar
+elevation,afla
+elevation,holt
+elevation,ttar
+elevation,asker
+elevation,bunga
+elevation,salda
+elevation,ahlíð
+elevation,sfell
+elevation,aborg
+elevation,ingur
+elevation,núpur
+elevation,ufell
+elevation,björg
+elevation,höfði
+elevation,rboði
+elevation,usker
+elevation,hólar
+elevation,bjarg
+elevation,hraun
+elevation,öldur
+elevation,hyrna
+elevation,ssker
+elevation,tungur
+elevation,arháls
+elevation,arfell
+elevation,lafell
+elevation,sfjöll
+elevation,lsháls
+elevation,árfell
+elevation,gafell
+elevation,tindar
+elevation,tafell
+elevation,ahnúkur
+elevation,atindur
+elevation,lafjall
+elevation,gafjall
+elevation,ahnúkar
+elevation,utindur
+elevation,ihnúkur
+elevation,lufjall
+elevation,lstindur
+elevation,ahnjúkur
+elevation,lshnúkur
+elevation,arhnúkur
+elevation,aklettur
+elevation,rarfjall
+elevation,ndafjall
+elevation,artindur
+elevation,arhnjúkur
+elevation,anesfjall
+elevation,adalsfjall
+elevation,staðafjall
+elevation,dalshnjúkur
+glacier,ujökull
+glacier,ajökull
+glacier,lsjökull
+glacier,árjökull
+glacier,arjökull
+glacier,urjökull
+island,aey
+island,sker
+island,fles
+island,ilsey
+island,hólmi
+island,hólmar
+island,seyjar
+marsh,gar
+marsh,flói
+marsh,aver
+marsh,amýri
+marsh,tunga
+marsh,amýrar
+marsh,botnar
+populated place,kur
+populated place,rar
+populated place,vik
+populated place,nir
+populated place,arð
+populated place,oll
+populated place,oss
+populated place,agi
+populated place,hús
+populated place,orn
+populated place,avík
+populated place,ibær
+populated place,hlíð
+populated place,svík
+populated place,múli
+populated place,raun
+populated place,jörn
+populated place,rðar
+populated place,úpur
+populated place,sker
+populated place,hóll
+populated place,ótur
+populated place,bakki
+populated place,tunga
+populated place,teyri
+populated place,hólar
+populated place,vogur
+populated place,gerði
+populated place,rdhur
+populated place,lanes
+populated place,amýri
+populated place,avatn
+populated place,lholt
+populated place,nanes
+populated place,ðeyri
+populated place,sdalur
+populated place,kirkja
+populated place,strönd
+populated place,arholt
+populated place,flötur
+populated place,hólmur
+populated place,arhöfn
+populated place,nseyri
+populated place,idalur
+populated place,gafell
+populated place,arfell
+populated place,sandur
+populated place,astaðir
+populated place,ardalur
+populated place,shverfi
+populated place,ahverfi
+populated place,astaður
+populated place,uvellir
+populated place,rðarnes
+populated place,ðareyri
+populated place,ustaðir
+populated place,fjorður
+populated place,sfjörður
+populated place,afjörður
+populated place,arstaðir
+populated place,arstaður
+populated place,lsstaðir
+populated place,lsstaður
+populated place,arfjörður
+populated place,kaupstaður
+populated place,jarklaustur
+stream,nsá
+stream,gsá
+stream,tsá
+stream,lsa
+stream,naá
+stream,lir
+stream,lar
+stream,agil
+stream,andi
+stream,tará
+stream,angá
+stream,ilsá
+stream,ólsá
+stream,rgil
+stream,afoss
+stream,svötn
+stream,sdrög
+stream,ifoss
+stream,adalsá
+stream,alækur
+stream,arfoss
+stream,fellsá
+stream,slækur
+stream,rfljót
+stream,botnar
+stream,ilækur
+stream,árfoss
+stream,rkvísl
+stream,radrag
+stream,ardalsá
+stream,sstaðaá
+stream,nsdalsá
+stream,lukvísl
+stream,takvísl
+stream,fjarðará
+stream,allakvísl
+stream,fellskvísl
+underwater elevation,gur
+underwater elevation,rif
+underwater elevation,raun
+underwater elevation,aboði
+underwater elevation,uboði
+underwater elevation,sboði
+underwater elevation,asker
+underwater elevation,agrunn
+underwater elevation,nesgrunn

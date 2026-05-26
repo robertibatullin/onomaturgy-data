@@ -1,0 +1,35 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,55
+underwater elevation,<NONE>,122
+strait,<NONE>,12
+shoreline,<NONE>,8
+populated place,<NONE>,1107
+marsh,<NONE>,21
+island,<NONE>,233
+elevation,<NONE>,359
+elevated area,<NONE>,23
+depression,<NONE>,12
+stream,<NONE>,78
+convex shoreline,<NONE>,145
+concave shoreline,<NONE>,29
+underwater elevation,Egholm,3
+populated place,Gammel,4
+stream,Køge,3
+populated place,Lille,13
+elevated area,Mols,3
+populated place,Neder,4
+populated place,Nørre,11
+populated place,Over,3
+underwater elevation,Romsø,3
+underwater elevation,Sejerø,3
+elevation,Store,10
+island,Store,2
+populated place,Store,6
+stream,Sunds,2
+populated place,Sønder,16
+underwater elevation,Søndre,3
+populated place,Vester,10
+basin,Vester,2
+stream,Voers,2
+stream,Vors,2
+populated place,Øster,13

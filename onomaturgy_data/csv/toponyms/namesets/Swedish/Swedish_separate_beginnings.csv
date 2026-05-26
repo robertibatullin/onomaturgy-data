@@ -1,0 +1,54 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,502
+underwater elevation,<NONE>,125
+stream,<NONE>,135
+strait,<NONE>,15
+shoreline,<NONE>,2
+populated place,<NONE>,1132
+marsh,<NONE>,37
+island,<NONE>,305
+elevation,<NONE>,456
+elevated area,<NONE>,10
+convex shoreline,<NONE>,82
+concave shoreline,<NONE>,74
+basin,Inre,3
+underwater elevation,Inre,3
+underwater elevation,Lilla,2
+island,Lilla,14
+basin,Lilla,17
+populated place,Lilla,12
+elevation,Lilla,10
+basin,Mellan,2
+basin,Nedre,5
+populated place,Nedre,5
+elevation,Norra,6
+underwater elevation,Norra,2
+stream,Norra,2
+island,Norra,3
+populated place,Norra,21
+basin,Norra,8
+elevation,Stor,2
+basin,Stor,7
+basin,Stora,17
+island,Stora,29
+populated place,Stora,9
+elevation,Stora,8
+basin,Store,2
+populated place,Södra,17
+underwater elevation,Södra,3
+island,Södra,2
+elevation,Södra,5
+basin,Södra,7
+stream,Västra,2
+populated place,Västra,8
+elevation,Västra,5
+basin,Västra,8
+island,Västra,3
+island,Yttre,2
+elevation,Yttre,2
+basin,Yttre,2
+basin,Öfvre,2
+basin,Östra,5
+populated place,Östra,13
+island,Östra,6
+basin,Övre,3

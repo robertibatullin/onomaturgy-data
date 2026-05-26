@@ -1,0 +1,81 @@
+place_category,separate_ending,frequency
+basin,<NONE>,55
+island,<NONE>,233
+elevation,<NONE>,359
+elevated area,<NONE>,23
+depression,<NONE>,12
+populated place,<NONE>,1107
+strait,<NONE>,12
+stream,<NONE>,78
+convex shoreline,<NONE>,145
+underwater elevation,<NONE>,122
+shoreline,<NONE>,8
+marsh,<NONE>,21
+concave shoreline,<NONE>,29
+stream,Aa,74
+populated place,Aaby,3
+elevation,Bakke,8
+elevated area,Bakker,8
+elevation,Banke,3
+underwater elevation,Banke,5
+elevated area,Banker,2
+elevation,Bavnehøj,3
+strait,Belt,3
+elevation,Bjerg,7
+elevated area,Bjerge,3
+elevation,Bjærg,6
+elevated area,Bjærge,3
+concave shoreline,Bredning,6
+concave shoreline,Bugt,38
+populated place,By,5
+stream,Bæk,5
+depression,Dal,2
+island,Egholm,2
+convex shoreline,Ende,2
+basin,Fiord,2
+basin,Fjord,8
+concave shoreline,Fjord,13
+underwater elevation,Flach,2
+underwater elevation,Flak,36
+underwater elevation,Grund,27
+convex shoreline,Hage,11
+underwater elevation,Hage,14
+concave shoreline,Havn,4
+island,Holm,2
+populated place,Holme,2
+convex shoreline,Hoved,20
+populated place,Huse,8
+elevation,Höj,2
+elevation,Høj,12
+elevation,Høje,3
+island,Kalv,6
+populated place,Kirkeby,3
+elevation,Klint,12
+underwater elevation,Knob,2
+convex shoreline,Knude,2
+populated place,Kær,2
+marsh,Kær,2
+convex shoreline,Land,2
+populated place,Mark,3
+marsh,Mose,18
+populated place,Mølle,2
+convex shoreline,Nakke,9
+basin,Nor,2
+concave shoreline,Nor,3
+convex shoreline,Næs,6
+convex shoreline,Odde,31
+underwater elevation,Puller,7
+convex shoreline,Pynt,7
+underwater elevation,Rev,27
+island,Røn,2
+underwater elevation,Sand,8
+shoreline,Sand,2
+populated place,Strand,6
+strait,Sund,2
+basin,Sö,5
+basin,Sø,31
+populated place,Torup,3
+populated place,Tårup,2
+concave shoreline,Vig,25
+concave shoreline,Wiek,3
+stream,Å,77

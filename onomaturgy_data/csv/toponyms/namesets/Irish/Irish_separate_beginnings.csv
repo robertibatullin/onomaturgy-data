@@ -1,0 +1,45 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,16
+convex shoreline,<NONE>,38
+island,<NONE>,67
+concave shoreline,<NONE>,5
+elevation,<NONE>,278
+populated place,<NONE>,714
+depression,<NONE>,6
+stream,<NONE>,164
+stream,Abhainn,3
+populated place,An,24
+island,An,7
+stream,An,6
+elevation,An,4
+convex shoreline,An,5
+populated place,Baile,6
+underwater elevation,Bar,2
+elevation,Ben,4
+populated place,Béal,3
+convex shoreline,Ceann,3
+populated place,Cill,9
+stream,Clady,3
+populated place,Cluain,4
+island,Dinish,3
+convex shoreline,Doon,3
+populated place,Dún,3
+depression,Glen,3
+elevation,Hill,3
+island,Inis,14
+populated place,Lios,4
+basin,Loch,15
+basin,Lough,218
+basin,Loughs,4
+populated place,Na,3
+island,Oileán,6
+stream,Owenbeg,6
+stream,Owenduff,4
+stream,Owengarve,4
+stream,Owenwee,5
+stream,River,26
+basin,Roosky,3
+convex shoreline,Ross,4
+elevation,Sliabh,5
+elevation,Slieve,5
+populated place,Áth,3

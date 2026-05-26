@@ -1,0 +1,47 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,336
+stream,<NONE>,125
+strait,<NONE>,12
+shoreline,<NONE>,13
+populated place,<NONE>,1224
+marsh,<NONE>,81
+underwater elevation,<NONE>,137
+elevation,<NONE>,468
+elevated area,<NONE>,20
+depression,<NONE>,79
+convex shoreline,<NONE>,129
+island,<NONE>,265
+concave shoreline,<NONE>,168
+populated place,Indre,5
+concave shoreline,Indre,2
+island,Indre,3
+basin,Lille,2
+island,Lille,2
+basin,Litle,2
+island,Litle,4
+basin,Nedre,2
+populated place,Nes,2
+populated place,Nord,4
+concave shoreline,Nordre,3
+populated place,Nordre,3
+underwater elevation,Nordre,3
+convex shoreline,Nordre,2
+elevation,Nordre,2
+basin,Nordre,4
+concave shoreline,Store,3
+elevation,Store,5
+basin,Store,5
+populated place,Store,2
+island,Store,11
+populated place,Söndre,2
+populated place,Søndre,5
+island,Søndre,2
+elevation,Søndre,2
+basin,Søre,2
+populated place,Vik,2
+populated place,Ytre,6
+concave shoreline,Ytre,2
+elevation,Ytre,2
+island,Ytre,2
+populated place,Østre,2
+populated place,Øvre,4

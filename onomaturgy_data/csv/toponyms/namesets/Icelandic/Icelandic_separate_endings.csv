@@ -1,0 +1,26 @@
+place_category,separate_ending,frequency
+area,<NONE>,9
+stream,<NONE>,409
+strait,<NONE>,4
+shoreline,<NONE>,3
+populated place,<NONE>,587
+marsh,<NONE>,64
+island,<NONE>,65
+elevation,<NONE>,567
+elevated area,<NONE>,53
+depression,<NONE>,174
+glacier,<NONE>,23
+underwater elevation,<NONE>,67
+basin,<NONE>,283
+convex shoreline,<NONE>,76
+concave shoreline,<NONE>,168
+concave shoreline,Fiord,17
+concave shoreline,Fjord,12
+concave shoreline,Fjörd,9
+concave shoreline,Flói,3
+stream,Jökulsá,3
+populated place,Njarðvík,2
+stream,Sauðá,2
+stream,Ytri,2
+elevation,Árskarðsfjall,2
+stream,Ásgarðsá,2

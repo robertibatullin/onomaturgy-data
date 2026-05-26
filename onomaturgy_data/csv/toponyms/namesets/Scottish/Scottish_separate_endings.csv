@@ -1,0 +1,91 @@
+place_category,separate_ending,frequency
+basin,<NONE>,15
+depression,<NONE>,12
+island,<NONE>,49
+populated place,<NONE>,870
+elevation,<NONE>,81
+convex shoreline,<NONE>,4
+concave shoreline,<NONE>,2
+stream,<NONE>,104
+underwater elevation,<NONE>,2
+underwater elevation,Bank,3
+concave shoreline,Bay,67
+depression,Beag,2
+elevation,Beag,4
+basin,Beag,2
+basin,Beannach,3
+depression,Beg,2
+concave shoreline,Beg,2
+elevation,Bheag,5
+elevation,Bheinn,11
+populated place,Bridge,3
+underwater elevation,Briggs,2
+populated place,Buchan,3
+stream,Burn,107
+elevation,Bàn,4
+basin,Caorach,3
+basin,Craggie,3
+elevation,Craig,3
+elevation,Dearg,7
+stream,Dee,3
+elevation,Dhubh,3
+depression,Dubh,2
+basin,Dubh,3
+island,Eilean,3
+basin,Fada,5
+elevation,Fada,2
+stream,Falls,4
+convex shoreline,Fearn,2
+populated place,Fearn,3
+elevation,Fell,3
+elevation,Gillean,3
+depression,Glen,2
+concave shoreline,Harbour,2
+concave shoreline,Haven,4
+populated place,Haven,2
+convex shoreline,Head,51
+elevation,Hill,29
+elevation,Hillock,2
+elevated area,Hills,4
+island,Island,39
+convex shoreline,Isle,2
+island,Isles,2
+elevation,Lapaich,3
+populated place,Largo,3
+elevation,Law,6
+basin,Loch,31
+basin,Lochain,2
+elevation,Mhor,7
+elevation,Mhòr,3
+populated place,Mill,2
+basin,Mor,2
+basin,More,3
+elevation,More,6
+depression,More,4
+concave shoreline,More,3
+island,More,5
+elevated area,Mountains,2
+depression,Muic,3
+depression,Muice,3
+basin,Muick,2
+elevation,Mòr,8
+stream,Mòr,3
+depression,Mòr,2
+island,Mòr,6
+basin,Mòr,3
+convex shoreline,Ness,19
+convex shoreline,Peninsula,2
+convex shoreline,Point,85
+populated place,Quay,2
+elevated area,Range,2
+stream,River,20
+elevation,Rock,20
+underwater elevation,Rock,2
+elevation,Rocks,9
+underwater elevation,Sand,3
+underwater elevation,Sands,7
+underwater elevation,Scalp,3
+strait,Sound,3
+elevation,Tharsuinn,6
+populated place,Town,3
+stream,Water,81

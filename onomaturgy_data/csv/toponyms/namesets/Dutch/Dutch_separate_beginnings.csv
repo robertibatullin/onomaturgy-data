@@ -1,0 +1,58 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,70
+stream,<NONE>,99
+strait,<NONE>,10
+shoreline,<NONE>,2
+populated place,<NONE>,906
+marsh,<NONE>,8
+island,<NONE>,25
+elevation,<NONE>,73
+elevated area,<NONE>,2
+convex shoreline,<NONE>,12
+underwater elevation,<NONE>,14
+concave shoreline,<NONE>,5
+populated place,Aan,3
+convex shoreline,De,2
+stream,De,18
+basin,De,10
+elevation,De,7
+concave shoreline,De,3
+island,De,4
+marsh,De,3
+populated place,De,38
+populated place,Den,7
+populated place,Eerste,2
+basin,Groot,2
+populated place,Groot,4
+basin,Groote,4
+stream,Groote,3
+populated place,Groote,2
+basin,Grote,3
+island,Het,3
+stream,Het,2
+populated place,Het,8
+convex shoreline,Hoek,7
+populated place,Hoge,2
+populated place,Hoog,4
+populated place,Hooge,3
+populated place,Klein,2
+stream,Kleine,7
+island,Kleine,2
+populated place,Kleine,2
+stream,Kromme,3
+populated place,Lage,5
+populated place,Nieuw,8
+populated place,Noord,4
+populated place,Oud,3
+populated place,Oude,4
+stream,Oude,7
+shoreline,Strandslag,5
+populated place,Ten,2
+populated place,Ter,2
+populated place,Voorste,3
+stream,Zuidergat,2
+convex shoreline,Zwarte,2
+basin,Zwarte,2
+populated place,’s,8
+populated place,’t,19
+basin,’t,3

@@ -1,0 +1,116 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,15
+populated place,<NONE>,870
+island,<NONE>,49
+stream,<NONE>,104
+elevation,<NONE>,81
+concave shoreline,<NONE>,2
+depression,<NONE>,12
+underwater elevation,<NONE>,2
+convex shoreline,<NONE>,4
+stream,Abhainn,7
+stream,Abhuinn,2
+stream,Allt,22
+stream,Amhainn,7
+island,An,3
+elevation,An,7
+convex shoreline,An,2
+elevation,Aonach,3
+convex shoreline,Ardmore,3
+elevation,A’,4
+concave shoreline,Bay,3
+elevation,Bein,2
+elevated area,Beinn,2
+elevation,Beinn,47
+elevated area,Ben,2
+elevation,Ben,72
+convex shoreline,Black,2
+stream,Black,10
+island,Black,2
+populated place,Bridge,6
+elevated area,Buachaille,2
+stream,Burn,9
+elevation,Cairn,5
+concave shoreline,Camas,7
+concave shoreline,Camus,5
+strait,Caol,2
+strait,Caolas,2
+elevation,Carn,7
+basin,Castle,3
+elevation,Ceann,2
+populated place,Chapel,2
+elevation,Cnoc,6
+elevation,Craig,3
+elevation,Creag,5
+elevated area,Cuillin,2
+elevation,Càrn,12
+populated place,East,8
+convex shoreline,East,3
+populated place,Easter,3
+island,Eilean,30
+stream,Falls,5
+elevation,Glas,5
+depression,Gleann,27
+depression,Glen,84
+convex shoreline,Head,3
+populated place,High,2
+elevation,Hill,5
+strait,Inner,2
+island,Island,3
+island,Isle,3
+populated place,Kirkton,8
+populated place,Kirktown,4
+populated place,Kyle,2
+strait,Kyle,3
+concave shoreline,Kyle,2
+populated place,Little,2
+elevation,Little,3
+stream,Little,2
+basin,Loch,248
+concave shoreline,Loch,53
+basin,Lochan,7
+populated place,Lower,5
+strait,Lynn,2
+elevation,Maol,2
+elevation,Meall,9
+island,Meall,2
+populated place,Mid,2
+elevation,Na,3
+convex shoreline,Ness,4
+populated place,New,7
+elevation,North,2
+stream,North,3
+populated place,North,5
+stream,Old,3
+elevation,Ord,2
+populated place,Port,4
+convex shoreline,Red,4
+stream,River,87
+convex shoreline,Ru,7
+convex shoreline,Rubha,8
+convex shoreline,Rudha,12
+convex shoreline,Rudh’,3
+elevation,Scour,2
+elevation,Scuir,5
+elevation,Sgeir,4
+elevation,Sgur,4
+elevation,Sgùrr,15
+strait,Sound,6
+convex shoreline,South,2
+populated place,South,2
+island,South,2
+stream,South,2
+depression,Strath,33
+convex shoreline,The,6
+stream,The,2
+underwater elevation,The,4
+island,The,2
+elevation,The,7
+populated place,Upper,4
+stream,Water,16
+elevation,West,2
+populated place,West,9
+stream,Wester,2
+populated place,Wester,5
+elevation,White,2
+stream,White,2

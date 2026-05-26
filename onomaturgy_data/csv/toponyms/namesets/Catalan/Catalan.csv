@@ -1,0 +1,1025 @@
+name,frequency,place_type,place_category
+Alto de la Trona,1,peak,elevation
+Ampurdán,1,plain,area
+Arroyo Boella Grande,1,river,stream
+Arroyo Brugent,1,river,stream
+Arroyo Cairot,1,river,stream
+Arroyo de Adan,1,river,stream
+Arroyo de Albet,1,river,stream
+Arroyo de Bañeras,1,river,stream
+Arroyo de Boella,1,river,stream
+Arroyo de Camarles,1,river,stream
+Arroyo de Canyellas,1,river,stream
+Arroyo de Cartró,1,river,stream
+Arroyo de Casa Cairot,1,river,stream
+Arroyo de Casanovas,1,river,stream
+Arroyo de Casas Novas,1,river,stream
+Arroyo de Comapruneda,1,river,stream
+Arroyo de Corps,1,river,stream
+Arroyo de Juncosa,1,river,stream
+Arroyo de la Baorada,1,river,stream
+Arroyo de la Chamora,1,river,stream
+Arroyo de la Cisquella,1,river,stream
+Arroyo de la Cisqueta,1,river,stream
+Arroyo de la Facina,1,river,stream
+Arroyo de la Femosa,1,river,stream
+Arroyo de la Figueras,1,river,stream
+Arroyo de la Mina,1,river,stream
+Arroyo de las Canales,1,river,stream
+Arroyo de las Covas,1,river,stream
+Arroyo de les Valls de las Boberolas,1,river,stream
+Arroyo de Lledó,1,river,stream
+Arroyo de los Bribones,1,river,stream
+Arroyo de Macherri,1,river,stream
+Arroyo de Majó de Vall del’s Horts,1,river,stream
+Arroyo de Montbellet,1,river,stream
+Arroyo de Pontons,1,river,stream
+Arroyo de Saladern,1,river,stream
+Arroyo de San Francisco,1,river,stream
+Arroyo de San Juan,1,river,stream
+Arroyo de San Mauricio,1,river,stream
+Arroyo de San Nicolás,1,river,stream
+Arroyo de Solanell,1,river,stream
+Arroyo de Val de Adá,1,river,stream
+Arroyo de Vall Checa,1,river,stream
+Arroyo de Vall de Artés,1,river,stream
+Arroyo de Vall de Figueras,1,river,stream
+Arroyo de Vall de Horts,1,river,stream
+Arroyo de Vall de Melóns,1,river,stream
+Arroyo de Vall des Olives,1,river,stream
+Arroyo de Vall Escorres,1,river,stream
+Arroyo de Vall Mayor,1,river,stream
+Arroyo de Vallcansada,1,river,stream
+Arroyo de Valle Mayor,1,river,stream
+Arroyo de Vallfogona,1,river,stream
+Arroyo de Vianya,1,river,stream
+Arroyo de Vilovi,1,river,stream
+Arroyo de Vinaixa,1,river,stream
+Arroyo del Llop de Chebeli,1,river,stream
+Arroyo del Pixador,1,river,stream
+Arroyo del Puente de la Fusta,1,river,stream
+Arroyo del Regué,1,river,stream
+Arroyo del Siscal,1,river,stream
+Arroyo dels Bribons,1,river,stream
+Arroyo Fudaró,1,river,stream
+Arroyo Grande,1,river,stream
+Arroyo Plat de Meda,1,river,stream
+Arroyo Pont de la Fusta,1,river,stream
+Arroyo Regus Salad,1,river,stream
+Arroyo Saladenr,1,river,stream
+Arroyo Salud,1,river,stream
+Arroyo Vall Comas de Vinaixa,1,river,stream
+Arroyo Vall de Adá,1,river,stream
+Arroyo Vall de Comas de Vinaixa,1,river,stream
+Arroyo Vall de Vigas,1,river,stream
+Aumenara,1,mountain,elevation
+Bahía de Cap-Ras,1,cove,concave shoreline
+Bahía de Llansá,1,cove,concave shoreline
+Bahía de Rosas,1,bay,concave shoreline
+Balsa de Anfacadas,1,lagoon,basin
+Balsa de la Arena,1,lagoon,basin
+Balsa de la Creu,1,lagoon,basin
+Balsa de la Flora,1,pond,basin
+Balsa de la Plalchola,1,lagoon,basin
+Balsa de la Platchola,1,lagoon,basin
+Balsa de La Platjola,1,lagoon,basin
+Balsa de las Ollas,1,lagoon,basin
+Balsa de Pradet,1,lagoon,basin
+Balsa de Pradot,1,lagoon,basin
+Balsa del Pall,1,lagoon,basin
+Balsa L’Illot,1,lagoon,basin
+Banco de Santa Susana,1,shoal,underwater elevation
+Barranco Cap de Terme,1,river,stream
+Barranco Chalanera,1,river,stream
+Barranco de Albiol,1,river,stream
+Barranco de Algerri,1,river,stream
+Barranco de Auchs,1,river,stream
+Barranco de Bañeras,1,river,stream
+Barranco de Barball,1,river,stream
+Barranco de Berasti,1,river,stream
+Barranco de Bolelleres,1,river,stream
+Barranco de Camilo,1,river,stream
+Barranco de Canuto,1,river,stream
+Barranco de Caregné,1,river,stream
+Barranco de Castellbó,1,river,stream
+Barranco de Cervera,1,river,stream
+Barranco de Chalamera,1,river,stream
+Barranco de Chup,1,river,stream
+Barranco de Clot d’en Pastor,1,river,stream
+Barranco de Coma de Vacas,1,river,stream
+Barranco de Comapruneda,1,river,stream
+Barranco de Comas,1,river,stream
+Barranco de Comas de Maldá,1,river,stream
+Barranco de Compte,1,river,stream
+Barranco de Corps,1,river,stream
+Barranco de Delqué,1,river,stream
+Barranco de Esplugafreda,1,river,stream
+Barranco de Farrubío,1,river,stream
+Barranco de Gandesa,1,river,stream
+Barranco de Garceran,1,river,stream
+Barranco de Godall,1,river,stream
+Barranco de Gorraptes,1,river,stream
+Barranco de Gotelleres,1,river,stream
+Barranco de Greixa,1,river,stream
+Barranco de L’Ull L’Asma,1,river,stream
+Barranco de L’Uls,1,river,stream
+Barranco de la Argentera,1,river,stream
+Barranco de la Canaleta,1,river,stream
+Barranco de la Chamora,1,river,stream
+Barranco de la Cunca,1,river,stream
+Barranco de la Fo,1,river,stream
+Barranco de la Fon del Aliga,1,river,stream
+Barranco de la Font del Aliga,1,river,stream
+Barranco de la Fullota,1,river,stream
+Barranco de la Galera,2,river,stream
+Barranco de la Garrancha,1,river,stream
+Barranco de la Grallera,1,river,stream
+Barranco de la Mansera,1,river,stream
+Barranco de la Pinatellas,1,river,stream
+Barranco de la Porquerola,1,river,stream
+Barranco de la Rabasao,1,river,stream
+Barranco de la Riera,1,river,stream
+Barranco de la Sardana,1,river,stream
+Barranco de la Sisca,1,river,stream
+Barranco de la Sucarrada,1,river,stream
+Barranco de la Vall,1,river,stream
+Barranco de la Victoria,1,river,stream
+Barranco de la Vila,1,river,stream
+Barranco de las Cansadas,1,river,stream
+Barranco de las Capsadas,1,river,stream
+Barranco de las Cobas Negras,1,river,stream
+Barranco de las Comas,1,river,stream
+Barranco de las Comes,1,river,stream
+Barranco de las Covas Negras,1,river,stream
+Barranco de las Esclotas de Seguras,1,river,stream
+Barranco de las Escolas,1,river,stream
+Barranco de las Forques,1,river,stream
+Barranco de las Fuentes,1,river,stream
+Barranco de las Huertas,1,river,stream
+Barranco de las Matas,1,river,stream
+Barranco de las Mora,1,river,stream
+Barranco de las Pedratetes,1,river,stream
+Barranco de las Valls Volá,1,river,stream
+Barranco de les Pedraletes,1,river,stream
+Barranco de Llebreta,1,river,stream
+Barranco de Lledó,1,river,stream
+Barranco de Lleriola,1,river,stream
+Barranco de los Cinco Caminos,1,river,stream
+Barranco de los Clots,1,river,stream
+Barranco de los Mangranés,1,river,stream
+Barranco de los Molinos,1,river,stream
+Barranco de los Pechines,1,river,stream
+Barranco de Luna,1,river,stream
+Barranco de Marellas,1,river,stream
+Barranco de Mas Calbó,1,river,stream
+Barranco de Mas del Roviru,1,river,stream
+Barranco de Mas Gibert,1,river,stream
+Barranco de Masacola,1,river,stream
+Barranco de Masaloca,1,river,stream
+Barranco de Monsant,1,river,stream
+Barranco de Montsant,1,river,stream
+Barranco de Musilló,1,river,stream
+Barranco de Novés,1,river,stream
+Barranco de Odén,1,river,stream
+Barranco de Ourrit,1,river,stream
+Barranco de Pavet,1,river,stream
+Barranco de Peranera,1,river,stream
+Barranco de Piñol-Riu,1,river,stream
+Barranco de Pirro,1,river,stream
+Barranco de Planellas,1,river,stream
+Barranco de Ponquerisa,1,river,stream
+Barranco de Portaulet,1,river,stream
+Barranco de Raconet,1,river,stream
+Barranco de Reca,1,river,stream
+Barranco de Rech Devals,1,river,stream
+Barranco de Riu de Llastres,1,river,stream
+Barranco de Rumanil,1,river,stream
+Barranco de San Antonio,1,river,stream
+Barranco de San Francisco,1,river,stream
+Barranco de San Juan,2,river,stream
+Barranco de San Magin,1,river,stream
+Barranco de Sanahuja,1,river,stream
+Barranco de Santa Eulalia,1,river,stream
+Barranco de Santas Creus,1,river,stream
+Barranco de Sellent,1,river,stream
+Barranco de Serradell,1,river,stream
+Barranco de Serradillo,1,river,stream
+Barranco de Sillerels,1,river,stream
+Barranco de Sola,1,river,stream
+Barranco de Tornés,1,river,stream
+Barranco de Torreblanca,1,river,stream
+Barranco de Tudores,1,river,stream
+Barranco de Vall Orega,1,river,stream
+Barranco de Valldebons,1,river,stream
+Barranco de Valle Mayor,1,river,stream
+Barranco de Vallibierna,1,river,stream
+Barranco de Vallivés,1,river,stream
+Barranco de Vallmala,1,river,stream
+Barranco de Vandellós,1,river,stream
+Barranco de Vila,1,river,stream
+Barranco de Vilanova,1,river,stream
+Barranco de Vilans,1,river,stream
+Barranco de Vinaixa,1,river,stream
+Barranco de Víu,1,river,stream
+Barranco de Viure,1,river,stream
+Barranco del Avellá,1,river,stream
+Barranco del Avellanar,1,river,stream
+Barranco del Cap de Termes,1,river,stream
+Barranco del Chaco,1,river,stream
+Barranco del Clot de las Comas,1,river,stream
+Barranco del Coll de Vaques,1,river,stream
+Barranco del Comú,1,river,stream
+Barranco del Escorial,1,river,stream
+Barranco del Estany,1,river,stream
+Barranco del Estany Gelat,1,river,stream
+Barranco del Ilón,1,river,stream
+Barranco del Llop,1,river,stream
+Barranco del Mas de Chup,1,river,stream
+Barranco del Papiolet,1,river,stream
+Barranco del Pont,1,river,stream
+Barranco del Pont de Erta,1,river,stream
+Barranco del Rifá,1,river,stream
+Barranco del Rubials,1,river,stream
+Barranco del Torreno,1,river,stream
+Barranco del Torrent de Gene,1,river,stream
+Barranco del Torrent del Pi,1,river,stream
+Barranco del Tosal Gros,1,river,stream
+Barranco del Turull,1,river,stream
+Barranco del Vall de Bus,1,river,stream
+Barranco del Viudo,1,river,stream
+Barranco Esblada,1,river,stream
+Barranco Gibert,1,river,stream
+Barranco Gridells,1,river,stream
+Barranco Las Forques,1,river,stream
+Barranco Mas Carbo,1,river,stream
+Barranco Masos,1,river,stream
+Barranco Paret,1,river,stream
+Barranco Pinell,1,river,stream
+Barranco Rabasae,1,river,stream
+Barranco Riera Compte,1,river,stream
+Barranco Sec,1,river,stream
+Barranco Sec Pirro,1,river,stream
+Barranco Valdebelles,1,river,stream
+Barranco Vall de la Granada,1,river,stream
+Barranco Vall de Matallonga,1,river,stream
+Barranco Vallespinosa,1,river,stream
+Barranco Valmorta,1,river,stream
+Bassa de l’Arena,1,lagoon,basin
+Bassa de l’Illot,1,lagoon,basin
+Bassa de la Creu,1,lagoon,basin
+Bassa de la Platjola,1,lagoon,basin
+Bassa de les Aufacades,1,lagoon,basin
+Bassa de Pradot,1,lagoon,basin
+Besóns,1,hill,elevation
+Boca del Norte,1,mouth,concave shoreline
+Boca del Sur,1,mouth,concave shoreline
+Boumort,1,mountain,elevation
+Brazo del Sur,1,river,stream
+Buen del Collar,1,peak,elevation
+Cabeza de Baniblá,1,peak,elevation
+Cabeza de Coll,1,peak,elevation
+Cabeza de Coma de Parrós,1,peak,elevation
+Cabeza de la Serra,1,peak,elevation
+Cabeza de Marimaña,1,peak,elevation
+Cabo Bagur,1,cape,convex shoreline
+Cabo Creus,1,cape,convex shoreline
+Cabo de Salou,1,cape,convex shoreline
+Cabo de San Jorge,1,cape,convex shoreline
+Cabo de San Sebastián,1,cape,convex shoreline
+Cabo de Tossa,1,cape,convex shoreline
+Cabo del Term,1,cape,convex shoreline
+Cabo del Término,1,cape,convex shoreline
+Cabo Gros,1,cape,convex shoreline
+Cabo Negre,1,cape,convex shoreline
+Cabo Norfeo,1,cape,convex shoreline
+Cabo Ras,1,cape,convex shoreline
+Cabo Raso,1,cape,convex shoreline
+Cabo Roig,1,cape,convex shoreline
+Cabo Solou,1,cape,convex shoreline
+Cabo Tortosa,1,cape,convex shoreline
+Cabo Tortosam,1,cape,convex shoreline
+Cadí,1,mountain,elevation
+Cala Bona,1,cove,concave shoreline
+Cala Conca,1,cove,concave shoreline
+Cala de Conca,1,cove,concave shoreline
+Cala de Forn,1,cove,concave shoreline
+Cala de Mongó,1,cove,concave shoreline
+Cala de San Jorge,1,cove,concave shoreline
+Cala de Tamariu,1,cove,concave shoreline
+Cala de Vallcarca,1,cove,concave shoreline
+Cala Figuera,1,cove,concave shoreline
+Cala Garbet,1,cove,concave shoreline
+Cala Jostell,1,cove,concave shoreline
+Cala Justell,1,cove,concave shoreline
+Cala Monjoy,1,cove,concave shoreline
+Cala Montjoys,1,cove,concave shoreline
+Caleta de Vallcarca,1,cove,concave shoreline
+Cap de Banibla,1,peak,elevation
+Cap de Coll,1,peak,elevation
+Cap de Coma de Parros,1,peak,elevation
+Cap de la Pale de la Goute,1,peak,elevation
+Cap de la Serra,1,peak,elevation
+Cap de Marimaña,1,peak,elevation
+Cap de Tortosa,1,cape,convex shoreline
+Cap de Tossa,1,cape,convex shoreline
+Cap del Portet,1,peak,elevation
+Cap dera Sèrra,1,peak,elevation
+Cap Nègre,1,cape,convex shoreline
+Cap Rás,1,cape,convex shoreline
+Cerras de la Piedad,1,hills,elevated area
+Cerro de la Rota,1,mountain,elevation
+Cerro el Tosal,1,mountain,elevation
+Cerro San Vicens,1,hill,elevation
+Cerro Solanas,1,peak,elevation
+Clot d’en Pastor,1,river,stream
+Clot de Forn,1,pass,depression
+Coll de Alls,1,pass,depression
+Coll de Arcas,1,pass,depression
+Coll de Bimet,1,pass,depression
+Coll de Caralt,1,pass,depression
+Coll de Dona Morta,1,pass,depression
+Coll de Forn,1,pass,depression
+Coll de Guixeras,1,pass,depression
+Coll de Heras,1,pass,depression
+Coll de Jou,1,pass,depression
+Coll de Juvell,1,pass,depression
+Coll de la Cirera,1,pass,depression
+Coll de la Mota,1,pass,depression
+Coll de Manega,1,pass,depression
+Coll de Montagut,1,pass,depression
+Coll de Pandis,1,pass,depression
+Coll de Plujens,1,pass,depression
+Coll de Redó,1,pass,depression
+Coll del Clot,1,pass,depression
+Coll del Clot de l’Eura,1,pass,depression
+Coll del Coso,1,pass,depression
+Coll Pan,1,pass,depression
+Coll Parel,1,pass,depression
+Collada de Serelles,1,pass,depression
+Collada Gelada,1,pass,depression
+Collado de Alls,1,pass,depression
+Collado de Arcas,1,pass,depression
+Collado de Barracomica,1,pass,depression
+Collado de Caralt,1,pass,depression
+Collado de Comicha,1,pass,depression
+Collado de Conglens,1,pass,depression
+Collado de Erillavall,1,pass,depression
+Collado de Heras,1,pass,depression
+Collado de Juvell,1,pass,depression
+Collado de la Dona Morta,1,pass,depression
+Collado de las Venas,1,pass,depression
+Collado de Pandis,1,pass,depression
+Collado de Plujens,1,pass,depression
+Collado de Rus,1,pass,depression
+Collado de Sellente,1,pass,depression
+Collado de Senet,1,pass,depression
+Collado Paret,1,pass,depression
+Collado Rouche,1,pass,depression
+Collet de Guixeras,1,pass,depression
+Cordillera de Pilás,1,mountains,elevated area
+Corrunco,1,mountain,elevation
+Corullons,1,mountain,elevation
+Coscollet,1,mountain,elevation
+Coscollosa,1,mountain,elevation
+Coscullosa,1,mountain,elevation
+El Ampurdán,1,plain,area
+El Caro,1,peak,elevation
+El Castellar,1,peak,elevation
+El Castelló,1,peak,elevation
+El Monsech,1,mountains,elevated area
+El Parracoll,1,peak,elevation
+El Vallés,1,plain,area
+Encosa,1,peak,elevation
+Ensenada de Llansá,1,cove,concave shoreline
+Ensenada de Rosas,1,bay,concave shoreline
+Era Trona,1,peak,elevation
+Estanque de Liat,1,lake,basin
+Estanque Negro,1,lake,basin
+Estany de l’Encanyissada,1,lagoon,basin
+Estany de la Murtra,1,lagoon,basin
+Estany de La Podrida,1,lagoon,basin
+Estany de la Tancada,1,lagoon,basin
+Estany de Liat,1,lake,basin
+Estany del Remolá,2,lagoon,basin
+Estany del Remolar,1,lagoon,basin
+Estany Llebreta,1,lake,basin
+Fallada de Malpás,1,mountain,elevation
+Gola de Migjorn,1,mouth,concave shoreline
+Gola del Norte,1,mouth,concave shoreline
+Gola del Sur,1,mouth,concave shoreline
+Gola del Sur de l’Ebre,1,mouth,concave shoreline
+Gola Norte de l’Ebre,1,mouth,concave shoreline
+Gola Principal,1,mouth,concave shoreline
+Golfo de la Monedera,1,gulf,concave shoreline
+Golfo de Rosas,1,gulf,concave shoreline
+Golfo de San Jordí,1,gulf,concave shoreline
+Golfo de San Jorge,1,gulf,concave shoreline
+Guineo,1,hill,elevation
+Hauteur de la Trona,1,peak,elevation
+Hocico de Perro,1,headland,convex shoreline
+Illa d’en Gràcia,1,island,island
+Illa de Buda,1,island,island
+Illa de Mar,1,island,island
+Inclusa,1,mountain,elevation
+Isla Blanca,1,island,island
+Isla Castellá,1,island,island
+Isla de Buda,1,island,island
+Isla de Graciá,1,island,island
+Isla del Mar,1,island,island
+Isla Encalladora,1,island,island
+Isla La Encalladora,1,island,island
+Isla Masa de Oro,1,island,island
+Isla Massina,1,islands,island
+Isla Negra,1,island,island
+Isla Pedrosa,1,island,island
+Isla Purtaló,1,island,island
+Isla Roja,1,island,island
+Islas Medas,1,islands,island
+Isleta Clavaguera,1,island,island
+Isleta Maza de Oro,1,island,island
+Isletas Massinas,1,islands,island
+Islote El Castellá de Llansá,1,island,island
+Islotes de la Farriola,1,islands,island
+La Ballena,1,rock,elevation
+La Barra,1,mountain,elevation
+La Gola Meridional,1,mouth,concave shoreline
+La Mola,1,peak,elevation
+La Noguera,1,plain,area
+La Punta,1,point,convex shoreline
+La Torre,1,hill,elevation
+La Tosa,1,hill,elevation
+La Tossa,1,mountain,elevation
+Lago Bañolas,1,lake,basin
+Lago Contraig,1,lake,basin
+Lago de la Encañizada,1,lagoon,basin
+Lago de la Restanca,1,lake,basin
+Lago de la Tancada,1,lagoon,basin
+Lago de Lassole,1,pond,basin
+Lago de Ribereta,1,lake,basin
+Lago de Rios,1,lake,basin
+Lago de Rius,1,lake,basin
+Lago de San Mauricio,1,lake,basin
+Lago Estangento,1,lake,basin
+Lago Frescau,1,lake,basin
+Lago Maeriolo,1,lake,basin
+Lago Mainyera,1,lake,basin
+Lago Mar,1,lake,basin
+Lago Mayor,1,lake,basin
+Lago Moncasan,1,lake,basin
+Lago Negro,1,lake,basin
+Lago Saburó,1,lake,basin
+Lago Tramesane,1,lake,basin
+Lagos de Colomés,1,pond,basin
+Laguna de La Encañizada,1,lagoon,basin
+Laguna de la Encañizada,1,lagoon,basin
+Laguna de la Murtra,1,lagoon,basin
+Laguna de La Podrida,1,lagoon,basin
+Laguna de la Podrida,1,lagoon,basin
+Laguna de la Tancada,1,lagoon,basin
+Laguna de Utxafaba,1,lake,basin
+Laguna del Remolá,1,lagoon,basin
+Laguna La Platjola,1,lagoon,basin
+Lagunas Llosas,1,pond,basin
+Lagunas Negras,1,pond,basin
+Las Planas,1,hill,elevation
+Les Pinerets,1,hills,elevated area
+Llano de la Calma,1,upland,elevation
+Llano de Lloses,1,plain,area
+Llanos de Urgel,1,plain,area
+Lo Trabucador,1,beach,shoreline
+Los Alfaques,1,bay,concave shoreline
+Los Pallés,1,mountains,elevated area
+Macizo de Beret,1,mountain,elevation
+Mazizo de Beret,1,mountain,elevation
+Medela,1,hill,elevation
+Mitamplana,1,plain,area
+Mola del Grebol,1,mountain,elevation
+Mola Grosa,1,mountain,elevation
+Mola Rasa,1,mountain,elevation
+Monmeneu,1,hill,elevation
+Monsech,1,mountain,elevation
+Mont Pedrós,1,mountain,elevation
+Montaña de Alp,1,mountain,elevation
+Montaña de Mont,1,mountain,elevation
+Montaña de Montjuich,1,mountain,elevation
+Montaña del Marqués,1,mountain,elevation
+Monte Calvo,1,mountain,elevation
+Monte Caro,1,ridge,elevated area
+Monte del Tibidabo,1,mountain,elevation
+Monte Garós,1,mountain,elevation
+Montes Gavarras,1,mountains,elevated area
+Montjuic,1,mountain,elevation
+Montjuich,1,mountain,elevation
+Montseny,1,peak,elevation
+Montserrat,1,mountain,elevation
+Morro de Cala Bona,1,headland,convex shoreline
+Morro de Gos,1,headland,convex shoreline
+Morro del Perro,1,headland,convex shoreline
+Noguera,1,plain,area
+Paguera,1,mountain,elevation
+Parracoll,1,peak,elevation
+Pas de Pancha Blanca,1,pass,depression
+Paso de los Terradets,1,pass,depression
+Pelat de Talltendre,1,peak,elevation
+Peñas Altas,1,peak,elevation
+Pic Carbonero,1,peak,elevation
+Pic de Escobedo,1,peak,elevation
+Pic de Flamisella,1,peak,elevation
+Pic de l’Home,1,peak,elevation
+Pic de las Roujos,1,peak,elevation
+Pic de Pomèro,1,peak,elevation
+Pico Camp Calse,1,ridge,elevated area
+Pico Carbonero,1,peak,elevation
+Pico de Contesa,1,peak,elevation
+Pico de Entrescaballos,1,peak,elevation
+Pico de Geltrú,1,mountain,elevation
+Pico de l’Home,1,peak,elevation
+Pico de la Coma de Forn,1,peak,elevation
+Pico de la Entecada,1,peak,elevation
+Pico de las Agudas,1,peak,elevation
+Pico de las Cabras,1,peak,elevation
+Pico de los Negros,1,peak,elevation
+Pico de Mariola,1,peak,elevation
+Pico de Mompius,1,peak,elevation
+Pico de Moredo,1,peak,elevation
+Pico de Rosario,1,peak,elevation
+Pico de San Jerónimo,1,peak,elevation
+Pico de Ventolao,1,peak,elevation
+Pico del Llop,1,peak,elevation
+Pico Falcó,1,peak,elevation
+Pico Forcanada,1,peak,elevation
+Pico Gelada,1,peak,elevation
+Pico Montludó,1,peak,elevation
+Pico Muñidó,1,peak,elevation
+Pico Pilás,1,peak,elevation
+Pico Pomer,1,peak,elevation
+Pico Roureda,1,peak,elevation
+Pinós,1,mountain,elevation
+Pla de la Calma,1,upland,elevation
+Pla de Las Serras,1,upland,elevation
+Pla de Lloses,1,plain,area
+Pla del Bif,1,upland,elevation
+Plan del Estañs,1,upland,elevation
+Plana Cambell,1,plain,area
+Plana d’Alfa,1,upland,elevation
+Plana de Alfa,1,upland,elevation
+Plana de Vic,1,plain,area
+Plana de Vich,1,plain,area
+Plana del Guardida,1,plain,area
+Planas del Guardida,1,plain,area
+Planell de Aguila,1,plain,area
+Planell de la Agulla,1,plain,area
+Planet des Barrancs,1,upland,elevation
+Planhèth des Estanhòns,1,upland,elevation
+Platja de Fenals,1,beach,shoreline
+Platja de Llorell,1,beach,shoreline
+Platja de Sant Salvador,1,beach,shoreline
+Playa Badalona,1,beach,shoreline
+Playa de Canellas,1,beach,shoreline
+Playa de Creixell,1,beach,shoreline
+Playa de Fanals,1,beach,shoreline
+Playa de la Canonja,1,beach,shoreline
+Playa de Llorell,1,beach,shoreline
+Playa de Lloret,1,beach,shoreline
+Playa de Lloret de Mar,1,beach,shoreline
+Playa de Pals,1,beach,shoreline
+Playa de Rifá,1,beach,shoreline
+Playa de San Salvador,1,beach,shoreline
+Playa de Santa Susana,1,beach,shoreline
+Playa de Segur,1,beach,shoreline
+Playa del Besós,1,beach,shoreline
+Playa del Rincón,1,beach,shoreline
+Playa del Trabucador,1,beach,shoreline
+Playa Mongat,1,beach,shoreline
+Port del Comte,1,mountains,elevated area
+Port dels Alfacs,1,bay,concave shoreline
+Port Fangós,1,lagoon,basin
+Portelles dells Terradets,1,pass,depression
+Portezuelo de la Bonaigua,1,pass,depression
+Puerto de la Bonaigua,1,pass,depression
+Puerto de Llansá,1,cove,concave shoreline
+Puerto de los Alfaques,1,bay,concave shoreline
+Puerto de Rus,1,pass,depression
+Puerto de Viella,1,pass,depression
+Puig Caballé,1,peak,elevation
+Puig Casibrós,1,peak,elevation
+Puig Castella,1,peak,elevation
+Puig de las Agudas,1,peak,elevation
+Puig del Llop,1,peak,elevation
+Puig Encamá,1,peak,elevation
+Puig Falcón,1,peak,elevation
+Puig Molto,1,peak,elevation
+Puig Punsó,1,peak,elevation
+Puig Rafols,1,peak,elevation
+Puig Rodo,1,peak,elevation
+Puig Rodós,1,peak,elevation
+Puig Sa Calm,1,mountain,elevation
+Puig Sayansa,1,peak,elevation
+Puig se Calm,1,mountain,elevation
+Puig Se-Calm,1,mountain,elevation
+Puig Ventós,1,peak,elevation
+Punt del Águila,1,peak,elevation
+Punt del Aliga,1,peak,elevation
+Punta Boquera,1,point,convex shoreline
+Punta Cañones,1,point,convex shoreline
+Punta Cap-Ras,1,cape,convex shoreline
+Punta Conellas,1,point,convex shoreline
+Punta de Banys,1,point,convex shoreline
+Punta de Boet,1,point,convex shoreline
+Punta de Cala de Bea,1,point,convex shoreline
+Punta de Cala de Oca,1,point,convex shoreline
+Punta de Cala Morisca,1,point,convex shoreline
+Punta de Cala Moscas,1,point,convex shoreline
+Punta de Cala Nans,1,point,convex shoreline
+Punta de Cala Naos,1,point,convex shoreline
+Punta de Cala Naus,1,point,convex shoreline
+Punta de Calafat,1,point,convex shoreline
+Punta de la Baña,1,point,convex shoreline
+Punta de la Batería,1,point,convex shoreline
+Punta de la Blancals,1,point,convex shoreline
+Punta de la Creu,1,point,convex shoreline
+Punta de la Figuera,1,point,convex shoreline
+Punta de la Goita,1,point,convex shoreline
+Punta de la Mora,1,point,convex shoreline
+Punta de la Palma Marina,1,point,convex shoreline
+Punta de la Piedad,1,point,convex shoreline
+Punta de la Pixerota,1,point,convex shoreline
+Punta de la Poncella,1,point,convex shoreline
+Punta de la Ponsella,1,point,convex shoreline
+Punta de la Riera de Riudecañas,1,point,convex shoreline
+Punta de la Sigala,1,point,convex shoreline
+Punta de las Rocas,1,point,convex shoreline
+Punta de Montaspre,1,peak,elevation
+Punta de Montasprede,1,peak,elevation
+Punta de Riu de Llastres,1,point,convex shoreline
+Punta de Salións,1,point,convex shoreline
+Punta de San Gervasio,1,point,convex shoreline
+Punta de San Ginés,1,point,convex shoreline
+Punta de San Pedro,1,point,convex shoreline
+Punta de San Pol,1,point,convex shoreline
+Punta de Santa Cristina,1,point,convex shoreline
+Punta de Santa Susana,1,point,convex shoreline
+Punta del Ausell,1,point,convex shoreline
+Punta del Fangal,1,point,convex shoreline
+Punta del Fangar,1,point,convex shoreline
+Punta del Fango,1,point,convex shoreline
+Punta del Galacho,1,point,convex shoreline
+Punta del Galatxo,1,point,convex shoreline
+Punta del Herrero,1,point,convex shoreline
+Punta del Llobregat,1,point,convex shoreline
+Punta del Milagro,1,point,convex shoreline
+Punta del Miracle,1,point,convex shoreline
+Punta del Muelle,1,point,convex shoreline
+Punta del Murrot,1,point,convex shoreline
+Punta del Porroc,1,point,convex shoreline
+Punta del Purroch,1,point,convex shoreline
+Punta del Rio,1,point,convex shoreline
+Punta del Río Tordera,1,point,convex shoreline
+Punta dels Pañals,1,point,convex shoreline
+Punta dels Peñals,1,point,convex shoreline
+Punta Falcó,1,point,convex shoreline
+Punta Falconera,1,point,convex shoreline
+Punta Ferrosa,1,point,convex shoreline
+Punta Ginestra,1,point,convex shoreline
+Punta Gorda,1,point,convex shoreline
+Punta Grosa,2,point,convex shoreline
+Punta Grossa,1,point,convex shoreline
+Punta La Desenrocada,1,point,convex shoreline
+Punta La Deseurocada,1,point,convex shoreline
+Punta la Ginesta,1,point,convex shoreline
+Punta Morrell,1,point,convex shoreline
+Punta Musfera,1,point,convex shoreline
+Punta Oliguera,1,point,convex shoreline
+Punta Paloma,1,point,convex shoreline
+Punta Porquerola,1,point,convex shoreline
+Punta Roquera,1,point,convex shoreline
+Punta Salinas,1,point,convex shoreline
+Rasa de Pira,1,river,stream
+Reguera de La Selva,1,river,stream
+Reguera de la Selva,1,river,stream
+Rí Cortella,1,river,stream
+Ribera de Vianya,1,river,stream
+Ribera Salada,1,river,stream
+Riera Almoster,1,river,stream
+Riera Arneda,1,river,stream
+Riera Castellet,1,river,stream
+Riera de Alforja,1,river,stream
+Riera de Alforjas,1,river,stream
+Riera de Arbucias,1,river,stream
+Riera de Arenys,1,river,stream
+Riera de Canyellas,1,river,stream
+Riera de Fraixanet,1,river,stream
+Riera de Guardiola,1,river,stream
+Riera de Jafra,1,river,stream
+Riera de la Bisbal,1,river,stream
+Riera de la Cuadra,1,river,stream
+Riera de La Selva,1,river,stream
+Riera de las Matas,1,river,stream
+Riera de las Voltas,1,river,stream
+Riera de Liébana,1,river,stream
+Riera de Llusanés,1,river,stream
+Riera de Manlleu,1,river,stream
+Riera de Maspujols,1,river,stream
+Riera de Merola,1,river,stream
+Riera de Navel,1,river,stream
+Riera de Navet,1,river,stream
+Riera de Rajadell,1,river,stream
+Riera de Ribas,1,river,stream
+Riera de Ridaura,1,river,stream
+Riera de Riudaura,1,river,stream
+Riera de Riudecañas,1,river,stream
+Riera de Riudecols,1,river,stream
+Riera de Rubí,1,river,stream
+Riera de Sallent,1,river,stream
+Riera de San Cugat,1,river,stream
+Riera de San Vicente,1,river,stream
+Riera de Teyá,1,river,stream
+Riera de Tiana,1,river,stream
+Riera Mayor,1,river,stream
+Riera Riudoms,1,river,stream
+Riera Salada,1,river,stream
+Rincón de Salou,1,cove,concave shoreline
+Río Anguera,1,river,stream
+Río Arabell,1,river,stream
+Río Arija,1,river,stream
+Río Arnera,1,river,stream
+Río Averno,1,river,stream
+Río Baget,1,river,stream
+Río Balartias,1,river,stream
+Río Bellfort,1,river,stream
+Río Besós,1,river,stream
+Río Boix,1,river,stream
+Río Brugent,1,river,stream
+Río Cabo,1,river,stream
+Río Caldas,1,river,stream
+Río Calders,1,river,stream
+Rio Canaleta,1,river,stream
+Río Canaletas,1,river,stream
+Río Canoves,1,river,stream
+Río Carreu,1,river,stream
+Río Castelbó Arabell,1,river,stream
+Río Ció,1,river,stream
+Río Ciurana,1,river,stream
+Río Congost,1,river,stream
+Río Corp,1,river,stream
+Río Cortiella,1,river,stream
+Río Daró,1,river,stream
+Río de Abella,1,river,stream
+Río de Bagá,1,river,stream
+Río de Cabó,1,river,stream
+Río de Conques,1,river,stream
+Río de Gandesa,1,river,stream
+Río de la Mora,1,river,stream
+Río de la Salada,1,river,stream
+Río de la Vansa,1,river,stream
+Río de las Ánimas,1,river,stream
+Río de Lladorre,1,river,stream
+Río de Llanera,1,river,stream
+Río de Llosa,1,river,stream
+Río de Mola,1,river,stream
+Río de Odén,1,river,stream
+Río de Riu Sec,1,river,stream
+Río de Riudevitlle,1,river,stream
+Río de Riudevitlles,1,river,stream
+Río de Ruda,1,river,stream
+Río de Sarroca,1,river,stream
+Río de Tost,1,river,stream
+Río de Vallebrera,1,river,stream
+Río del Estret,1,river,stream
+Río del la Llosa,1,river,stream
+Río Farfaña,1,river,stream
+Río Flamisell,1,river,stream
+Río Fluviá,1,river,stream
+Río Foix,1,river,stream
+Río Francolí,1,river,stream
+Río Fresser,1,river,stream
+Río Gayá,1,river,stream
+Río Ges,1,river,stream
+Río Glorieta,1,river,stream
+Rio Guerri,1,river,stream
+Río Guri,1,river,stream
+Río Gurn,1,river,stream
+Río Llémana,1,river,stream
+Río Llierca,1,river,stream
+Río Llobregat,2,river,stream
+Río Llovera,1,river,stream
+Río Lloverola,1,river,stream
+Río Manol,1,river,stream
+Río Manyanet,1,river,stream
+Río Mayor,1,river,stream
+Río Merdas,1,river,stream
+Río Mitj Jorn,1,river,stream
+Río Mojent,1,river,stream
+Río Monsant,1,river,stream
+Río Montsant,1,river,stream
+Río Noguera de Tor,1,river,stream
+Río Noguera de Vall Farrera,1,river,stream
+Río Noguera Pallaresa,1,river,stream
+Río Noguera Tort,1,river,stream
+Río Noya,1,river,stream
+Río Oíx,1,river,stream
+Río Oñar,1,river,stream
+Río Onyar,1,river,stream
+Río Pallerols,1,river,stream
+Río Perles,1,river,stream
+Río Rajadell,1,river,stream
+Río Rencules,1,river,stream
+Río Rialp,1,river,stream
+Río Ridaura,1,river,stream
+Río Rigart,1,river,stream
+Río Ripoll,1,river,stream
+Río Saldes,1,river,stream
+Río Sed,1,river,stream
+Río Sellent,1,river,stream
+Río Ser,1,river,stream
+Río Sert,1,river,stream
+Río Sió,1,river,stream
+Río Tenas,1,river,stream
+Río Terri,1,river,stream
+Río Torán,1,river,stream
+Río Torón,1,river,stream
+Río Tort,1,river,stream
+Río Valiri,1,river,stream
+Río Valls,1,river,stream
+Río Vallvert,1,river,stream
+Río Yñola,1,river,stream
+Riu Besòs,1,river,stream
+Riu de la Llosa,1,river,stream
+Riu dels Estrets,1,river,stream
+Riu Flamicell,1,river,stream
+Riu Foix,1,river,stream
+Rivera Salada,1,river,stream
+Roca Bruna,1,peak,elevation
+Roca Castellana,1,peak,elevation
+Roca del Pitillo,1,rock,elevation
+Roca Lladra,1,peak,elevation
+Roca Negra,1,hill,elevation
+Rubio,1,hill,elevation
+San Eloy,1,peak,elevation
+San Gerónimo,1,peak,elevation
+San Llorens,1,mountain,elevation
+San Marcos,1,mountain,elevation
+San Pedro Martir,1,mountain,elevation
+Sant Geroni,1,peak,elevation
+Sant Jeroni,1,peak,elevation
+Se Cahn,1,mountain,elevation
+Serra Brisa,1,ridge,elevated area
+Serra de la Pietat,1,hills,elevated area
+Serra de Orpinell,1,peak,elevation
+Serra del Ros,1,hill,elevation
+Serral de las Pedruscas,1,mountain,elevation
+Serrat de Boratuna,1,mountains,elevated area
+Serrat de Canovas,1,mountains,elevated area
+Serrat de Comas-Juntas,1,mountain,elevation
+Serrat de las Pedruscas,1,mountain,elevation
+Sierra Aurati,1,ridge,elevated area
+Sierra Caballera,1,mountains,elevated area
+Sierra Carbonera,1,mountains,elevated area
+Sierra Cónica,1,ridge,elevated area
+Sierra d’en Sitja,1,mountains,elevated area
+Sierra de Arcabell,1,mountains,elevated area
+Sierra de Atalaya,1,ridge,elevated area
+Sierra de Benat,1,mountains,elevated area
+Sierra de Blancafort,1,ridge,elevated area
+Sierra de Boumort,1,mountains,elevated area
+Sierra de Caballs,1,ridge,elevated area
+Sierra de Can Colomé,1,ridge,elevated area
+Sierra de Can Pares,1,hills,elevated area
+Sierra de Caro,1,ridge,elevated area
+Sierra de Carreu,1,ridge,elevated area
+Sierra de Coma Roja,1,hills,elevated area
+Sierra de Comas Lobas,1,ridge,elevated area
+Sierra de Edllet,1,mountains,elevated area
+Sierra de Feitus,1,ridge,elevated area
+Sierra de Gabarra,1,ridge,elevated area
+Sierra de Gorraptes,1,ridge,elevated area
+Sierra de Guarbes,1,ridge,elevated area
+Sierra de la Batalla,1,ridge,elevated area
+Sierra de la Brisa,1,ridge,elevated area
+Sierra de la Conca,1,mountains,elevated area
+Sierra de la Fatarella,1,ridge,elevated area
+Sierra de la Fembra Morta,1,ridge,elevated area
+Sierra de la Greu,1,ridge,elevated area
+Sierra de la Mora,1,mountains,elevated area
+Sierra de la Musara,1,ridge,elevated area
+Sierra de la Solana,1,mountains,elevated area
+Sierra de la Vaca,1,ridge,elevated area
+Sierra de la Velleta,1,mountains,elevated area
+Sierra de las Concas,1,mountain,elevation
+Sierra de las Gabarras,1,mountains,elevated area
+Sierra de las Garrigas,1,mountains,elevated area
+Sierra de las Medas,1,mountains,elevated area
+Sierra de Malfurat,1,mountains,elevated area
+Sierra de Matas,1,mountains,elevated area
+Sierra de Mitjana,1,ridge,elevated area
+Sierra de Monsech,1,mountains,elevated area
+Sierra de Monserrat,1,mountains,elevated area
+Sierra de Montalt,1,ridge,elevated area
+Sierra de Monteixo,1,mountains,elevated area
+Sierra de Montnegre,1,ridge,elevated area
+Sierra de Montsant,1,ridge,elevated area
+Sierra de Montserrat,1,mountains,elevated area
+Sierra de Montsiá,1,hills,elevated area
+Sierra de Moreu,1,ridge,elevated area
+Sierra de Odén,1,mountains,elevated area
+Sierra de Oliana,1,mountains,elevated area
+Sierra de Palomas,1,mountains,elevated area
+Sierra de Pandals,1,ridge,elevated area
+Sierra de Pandols,1,ridge,elevated area
+Sierra de Prada,1,mountains,elevated area
+Sierra de Puig Estela,1,mountains,elevated area
+Sierra de Puigfred,1,ridge,elevated area
+Sierra de Roca Rossa,1,ridge,elevated area
+Sierra de Roda,1,ridge,elevated area
+Sierra de Salás,1,mountains,elevated area
+Sierra de San Gervás,1,mountains,elevated area
+Sierra de San Juan,1,mountains,elevated area
+Sierra de San Mamed,1,mountains,elevated area
+Sierra de San Mamet,1,mountains,elevated area
+Sierra de San Marcos,1,ridge,elevated area
+Sierra de San Mateo,1,mountains,elevated area
+Sierra de San Miguel,1,mountains,elevated area
+Sierra de Trentinyá,1,ridge,elevated area
+Sierra de Vallplana,1,ridge,elevated area
+Sierra de Vilach,1,ridge,elevated area
+Sierra del Boix,1,ridge,elevated area
+Sierra del Calse,1,ridge,elevated area
+Sierra del Castellar,1,ridge,elevated area
+Sierra del Catllar,1,ridge,elevated area
+Sierra del Clarena,1,mountains,elevated area
+Sierra del Esteve,1,ridge,elevated area
+Sierra del Lavall de la Torre,1,ridge,elevated area
+Sierra del Mar,1,ridge,elevated area
+Sierra del Montsech,1,mountains,elevated area
+Sierra del Padró,1,mountains,elevated area
+Sierra del Port del Conte,1,mountains,elevated area
+Sierra del Pubill,1,ridge,elevated area
+Sierra del Robelló,1,ridge,elevated area
+Sierra del Tormo,1,ridge,elevated area
+Sierra del Turp,1,ridge,elevated area
+Sierra dels Canals,1,ridge,elevated area
+Sierra Gisbert,1,ridge,elevated area
+Sierra Grosa,1,ridge,elevated area
+Sierra Mestreca,1,ridge,elevated area
+Sierra Milany,1,ridge,elevated area
+Sierra Paramy,1,ridge,elevated area
+Sierra Pesells,1,mountains,elevated area
+Sierra San Salvador,1,mountains,elevated area
+Sierra Santa Magdalena de Cambrils,1,ridge,elevated area
+Sierras de Cardó,1,ridge,elevated area
+Solana,1,peak,elevation
+Soláns,1,hill,elevation
+Suró,1,mountain,elevation
+Tamarit,1,river,stream
+Testa de la Baña,1,point,convex shoreline
+Torrent de Vallmoll,1,river,stream
+Torrente Benau,1,river,stream
+Torrente de Bescarán,1,river,stream
+Torrente de Estany,1,river,stream
+Torrente de Falps Biure,1,river,stream
+Torrente de Gene,1,river,stream
+Torrente de la Fonollosa,1,river,stream
+Torrente de las Carboneras,1,river,stream
+Torrente de Mas,1,river,stream
+Torrente de Renau,1,river,stream
+Torrente de Ribas,1,river,stream
+Torrente de Ribona,1,river,stream
+Torrente de San Juan,1,river,stream
+Torrente de Sola,1,river,stream
+Torrente de Valle Mayor,1,river,stream
+Torrente del Picador,1,river,stream
+Torrente Esblada,1,river,stream
+Torrente Sincal de Cavas,1,river,stream
+Torrente Vallivés,1,river,stream
+Torrentes de Boberolas,1,river,stream
+Tosagrosa,1,peak,elevation
+Tosal Bobiná,1,peak,elevation
+Tosal Gros,1,hill,elevation
+Tossal Bovinar,1,peak,elevation
+Tres Picos,1,peak,elevation
+Tres Pics,1,peak,elevation
+Turó Negre,1,peak,elevation
+Val de la Pererola,1,river,stream
+Vall de Adá,1,river,stream
+Vall de Altés,1,river,stream
+Vall de Ambiure,1,river,stream
+Vall de Burgemant,1,river,stream
+Vall de Carralala,1,river,stream
+Vall de Cervera,1,river,stream
+Vall de la Pererola,1,river,stream
+Vall de los Mases,1,river,stream
+Vall de Los Masos,1,river,stream
+Vall de Matallonga,1,river,stream
+Vall de Vall Checa,1,river,stream
+Vall de Vigas,1,river,stream
+Vall del Moli,1,river,stream
+Vall la Granada,1,river,stream
+Vall Majó,1,river,stream
+Vall Major,1,river,stream
+Vall Mayor,1,river,stream
+Valle de Macherri,1,river,stream
+Valle del Balsa,1,river,stream
+Valle del Seca,1,river,stream
+Vallés,1,plain,area
+Valmote,1,river,stream
+Vieta Point,1,point,convex shoreline

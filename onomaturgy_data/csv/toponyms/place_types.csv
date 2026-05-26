@@ -1,0 +1,81 @@
+﻿place_code,place_type,place_category
+BLDR,boulder field,area
+CULT,field,area
+FLD,field,area
+FRST,forest,area
+MDW,meadow,area
+MOOR,moor,area
+OCH,orchard,area
+PLN,plain,area
+BAY,bay,concave shoreline
+BGHT,bight,concave shoreline
+COVE,cove,concave shoreline
+FJD,fjord,concave shoreline
+GULF,gulf,concave shoreline
+HBR,harbor,concave shoreline
+STMM,mouth,concave shoreline
+CAPE,cape,convex shoreline
+HDLD,headland,convex shoreline
+PEN,peninsula,convex shoreline
+PENX,peninsula,convex shoreline
+PT,point,convex shoreline
+DPR,depression,depression
+DTCH,ditch,depression
+GAP,gap,depression
+GRGE,gorge,depression
+PASS,pass,depression
+VAL,valley,depression
+HLLS,hills,elevated area
+MTS,mountains,elevated area
+CLF,cliff,elevation
+HLL,hill,elevation
+MND,mound,elevation
+MT,mountain,elevation
+PK,peak,elevation
+RK,rock,elevation
+RKS,rocks,elevation
+SLP,slope,elevation
+UPLD,upland,elevation
+CAPG,icecap,glacier
+GLCR,glacier,glacier
+ISL,island,island
+ISLS,islands,island
+INLT,inlet,basin
+LK,lake,basin
+LKI,lake,basin
+LKS,lakes,basin
+LKX,lake,basin
+PND,pond,basin
+PNDI,pond,basin
+POOL,pool,basin
+BOG,bog,marsh
+MRSH,marsh,marsh
+SWMP,swamp,marsh
+BDG,bridge,populated place
+PP,populated place,populated place
+INTF,interfluve,stream
+SPNG,spring,stream
+STM,river,stream
+STMA,river,stream
+STMB,river,stream
+STMD,river,stream
+STMH,river,stream
+STMI,river,stream
+STMX,river,stream
+BCH,beach,shoreline
+CST,coast,shoreline
+LDNG,landing,shoreline
+SHOR,shore,shoreline
+CHN,channel,strait
+BAR,bar,underwater elevation
+BNK,bank,underwater elevation
+RF,reef,underwater elevation
+SHOL,shoal,underwater elevation
+FLLS,waterfall,stream
+GROVE,grove,area
+LGN,lagoon,basin
+RDGE,ridge,elevated area
+RPDS,rapids,stream
+SD,sound,strait
+SEA,sea,basin
+STRT,strait,strait

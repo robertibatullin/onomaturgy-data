@@ -1,0 +1,35 @@
+place_category,separate_beginning,frequency
+area,<NONE>,9
+stream,<NONE>,409
+strait,<NONE>,4
+shoreline,<NONE>,3
+populated place,<NONE>,587
+marsh,<NONE>,64
+glacier,<NONE>,23
+elevation,<NONE>,567
+elevated area,<NONE>,53
+depression,<NONE>,174
+island,<NONE>,65
+underwater elevation,<NONE>,67
+concave shoreline,<NONE>,168
+convex shoreline,<NONE>,76
+basin,<NONE>,283
+concave shoreline,Borgar,3
+stream,Fremri,5
+elevation,Fremri,2
+concave shoreline,Innri,2
+stream,Innri,6
+stream,Jökulsá,3
+elevation,Litla,2
+island,Litla,2
+concave shoreline,Seydis,2
+populated place,Stóra,3
+populated place,Stóri,3
+elevation,Stóri,2
+stream,Vestari,3
+stream,Vestasti,2
+elevation,Ytra,3
+stream,Ytri,4
+elevation,Ytri,3
+populated place,Ytri,3
+concave shoreline,Ísa,3

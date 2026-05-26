@@ -1,0 +1,24 @@
+place_category,separate_ending,frequency
+basin,<NONE>,336
+stream,<NONE>,125
+strait,<NONE>,12
+shoreline,<NONE>,13
+populated place,<NONE>,1224
+marsh,<NONE>,81
+elevation,<NONE>,468
+elevated area,<NONE>,20
+depression,<NONE>,79
+convex shoreline,<NONE>,129
+island,<NONE>,265
+concave shoreline,<NONE>,168
+underwater elevation,<NONE>,137
+stream,Elv,2
+concave shoreline,Fjord,6
+populated place,Nedre,2
+populated place,Nordre,3
+populated place,Oppedal,2
+basin,Vand,14
+basin,Vandene,2
+basin,Vatn,4
+island,Vinna,2
+basin,Vonsjøen,2

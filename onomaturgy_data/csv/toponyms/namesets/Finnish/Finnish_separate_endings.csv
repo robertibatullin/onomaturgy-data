@@ -1,0 +1,24 @@
+place_category,separate_ending,frequency
+basin,<NONE>,934
+stream,<NONE>,394
+strait,<NONE>,88
+shoreline,<NONE>,16
+populated place,<NONE>,2483
+marsh,<NONE>,744
+island,<NONE>,475
+elevation,<NONE>,1161
+elevated area,<NONE>,84
+depression,<NONE>,36
+convex shoreline,<NONE>,455
+concave shoreline,<NONE>,398
+underwater elevation,<NONE>,11
+populated place,Aho,6
+basin,Haiskari,6
+stream,Ioki,4
+basin,Järvi,2
+island,Kontio,4
+stream,Oja,6
+marsh,Ojamaa,2
+marsh,Suo,4
+basin,Vehkajärvi,8
+basin,Vehkalampi,8

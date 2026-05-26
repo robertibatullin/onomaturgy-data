@@ -1,0 +1,46 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,934
+stream,<NONE>,394
+strait,<NONE>,88
+shoreline,<NONE>,16
+populated place,<NONE>,2483
+marsh,<NONE>,744
+island,<NONE>,475
+elevation,<NONE>,1161
+elevated area,<NONE>,84
+depression,<NONE>,36
+convex shoreline,<NONE>,455
+concave shoreline,<NONE>,398
+underwater elevation,<NONE>,11
+basin,Ala,9
+populated place,Ala,2
+basin,Alimmainen,4
+marsh,Iso,2
+elevation,Iso,2
+basin,Iso,24
+populated place,Iso,4
+island,Iso,12
+island,Itä,2
+populated place,Itä,2
+stream,Keino,4
+convex shoreline,Pieni,4
+concave shoreline,Pieni,2
+strait,Pieni,2
+elevation,Pieni,8
+island,Pieni,18
+populated place,Pieni,2
+basin,Pieni,34
+island,Pikku,7
+basin,Pikku,5
+elevation,Pikku,4
+basin,Suuri,6
+marsh,Suuri,2
+populated place,Vanha,4
+elevation,Vanhan,2
+populated place,Vasikka,4
+basin,Vähä,26
+convex shoreline,Vähä,2
+island,Vähä,6
+populated place,Yli,4
+elevation,Ylä,2
+basin,Ylä,14

@@ -1,0 +1,2341 @@
+name,frequency,place_type,place_category
+Staður,6,populated place,populated place
+Hof,5,populated place,populated place
+Hvammur,5,populated place,populated place
+Saurbær,4,populated place,populated place
+Bær,4,populated place,populated place
+Kirkjuból,4,populated place,populated place
+Skarð,3,populated place,populated place
+Kirkjubær,3,populated place,populated place
+Breiðabólsstaður,3,populated place,populated place
+Vík,3,populated place,populated place
+Eyri,3,populated place,populated place
+Nes,3,populated place,populated place
+Húsavík,3,populated place,populated place
+Tunga,3,populated place,populated place
+Búðir,2,populated place,populated place
+Njarðvík,2,populated place,populated place
+Möðruvellir,2,populated place,populated place
+Þykkvibær,2,populated place,populated place
+Hafnarfjörður,2,populated place,populated place
+Hagi,2,populated place,populated place
+Árbær,2,populated place,populated place
+Búðareyri,2,populated place,populated place
+Holt,2,populated place,populated place
+Auðkúla,2,populated place,populated place
+Hóll,2,populated place,populated place
+Tröð,2,populated place,populated place
+Sæból,2,populated place,populated place
+Hólar,2,populated place,populated place
+Haukadalur,2,populated place,populated place
+Hvanneyri,2,populated place,populated place
+Hjarðarholt,2,populated place,populated place
+Hraun,2,populated place,populated place
+Sandur,2,populated place,populated place
+Múli,2,populated place,populated place
+Svalbarð,2,populated place,populated place
+Þrestbakki,2,populated place,populated place
+Brekka,2,populated place,populated place
+Tjörn,2,populated place,populated place
+Vattarnes,2,populated place,populated place
+Prestbakki,2,populated place,populated place
+Háls,2,populated place,populated place
+Hella,1,populated place,populated place
+Grindavík,1,populated place,populated place
+Kálfholt,1,populated place,populated place
+Husayik,1,populated place,populated place
+Heydalir,1,populated place,populated place
+Keldur,1,populated place,populated place
+Helgafell,1,populated place,populated place
+Sandhur,1,populated place,populated place
+Hnífsdalur,1,populated place,populated place
+Hallbjarnstaðir,1,populated place,populated place
+Hruni,1,populated place,populated place
+Disastaðir,1,populated place,populated place
+Höfði,1,populated place,populated place
+Hvallátur,1,populated place,populated place
+Furufjörður,1,populated place,populated place
+Hveragerdi,1,populated place,populated place
+Hvaleyri,1,populated place,populated place
+Horn,1,populated place,populated place
+Grenivík,1,populated place,populated place
+Hafnir,1,populated place,populated place
+Eiðar,1,populated place,populated place
+Garður,1,populated place,populated place
+Folafótur,1,populated place,populated place
+Garðabær,1,populated place,populated place
+Garðsstaðir,1,populated place,populated place
+Dagverðarnes,1,populated place,populated place
+Búrfell,1,populated place,populated place
+Hafnarnes,1,populated place,populated place
+Eiríksstaðir,1,populated place,populated place
+Flatey,1,populated place,populated place
+Egilstaðir,1,populated place,populated place
+Býjasker,1,populated place,populated place
+Dyrhólahverfi,1,populated place,populated place
+Garðhur,1,populated place,populated place
+Glaumbær,1,populated place,populated place
+Gilsbakki,1,populated place,populated place
+Grundarfjörþur,1,populated place,populated place
+Hámundarstaðir,1,populated place,populated place
+Grímsstaðaholt,1,populated place,populated place
+Skagastrand,1,populated place,populated place
+Ísafjardardjup,1,populated place,populated place
+Hallbjarnarstaðir,1,populated place,populated place
+Hallormsstaðir,1,populated place,populated place
+Skagaströnd,1,populated place,populated place
+Hafsós,1,populated place,populated place
+Ingjaldshóll,1,populated place,populated place
+Holtastaðir,1,populated place,populated place
+Hellnar,1,populated place,populated place
+Hallormsstaður,1,populated place,populated place
+Gjögur,1,populated place,populated place
+Höskuldsstaðir,1,populated place,populated place
+Hlíðarendi,1,populated place,populated place
+Hraungerði,1,populated place,populated place
+Hvolsvellír,1,populated place,populated place
+Hjaleyri,1,populated place,populated place
+Hofteigur,1,populated place,populated place
+Kaldrananes,1,populated place,populated place
+Hofstaðir,1,populated place,populated place
+Kálfafell,1,populated place,populated place
+Höfðaströnd,1,populated place,populated place
+Hjalteyri,1,populated place,populated place
+Hjalli,1,populated place,populated place
+Hellissandur,1,populated place,populated place
+Kálfatjörn,1,populated place,populated place
+Isafiordr,1,populated place,populated place
+Hellgafell,1,populated place,populated place
+Illugastaðir,1,populated place,populated place
+Ísafjörður,1,populated place,populated place
+Hmifsdalur,1,populated place,populated place
+Keflavík,1,populated place,populated place
+Htarðarholt,1,populated place,populated place
+Lækjamót,1,populated place,populated place
+Kjós,1,populated place,populated place
+Melgraseyri,1,populated place,populated place
+Kolfreyjustaðir,1,populated place,populated place
+Oddi,1,populated place,populated place
+Laufás,1,populated place,populated place
+Lönd,1,populated place,populated place
+Kvíabryggja,1,populated place,populated place
+Hólmavík,1,populated place,populated place
+Kálfafellsstaður,1,populated place,populated place
+Hvallátr,1,populated place,populated place
+Hoskuldsstaðhir,1,populated place,populated place
+Hlíð,1,populated place,populated place
+Hjaltastaður,1,populated place,populated place
+Höfðakaupstaður,1,populated place,populated place
+Hrepphólar,1,populated place,populated place
+Hnjótur,1,populated place,populated place
+Hallormstaður,1,populated place,populated place
+Innrihólmur,1,populated place,populated place
+Flugumýri,1,populated place,populated place
+Hrafnsfjarðareyri,1,populated place,populated place
+Hveragerði,1,populated place,populated place
+Hjáltstaður,1,populated place,populated place
+Hvammstangi,1,populated place,populated place
+Kaupangur,1,populated place,populated place
+Hvalsnes,1,populated place,populated place
+Hólmahverfi,1,populated place,populated place
+Hlíðarhús,1,populated place,populated place
+Höfn,1,populated place,populated place
+Hjarðarfell,1,populated place,populated place
+Hvolsvöllur,1,populated place,populated place
+Kálfajörn,1,populated place,populated place
+Hesteyri,1,populated place,populated place
+Issafjörður,1,populated place,populated place
+Höfðahverfi,1,populated place,populated place
+Hofsós,1,populated place,populated place
+Hólmabæir,1,populated place,populated place
+Ísafjördhur,1,populated place,populated place
+Keta,1,populated place,populated place
+Hanhóll,1,populated place,populated place
+Árnes,1,populated place,populated place
+Búðarhólshverfi,1,populated place,populated place
+Ásláksstaðir,1,populated place,populated place
+Bakki,1,populated place,populated place
+Búðardalur,1,populated place,populated place
+Bjóluhverfi,1,populated place,populated place
+Brianslaekur,1,populated place,populated place
+Akureyri,1,populated place,populated place
+Berunes,1,populated place,populated place
+Álftártunga,1,populated place,populated place
+Fáskrúðsfjörður,1,populated place,populated place
+Argerdareyri,1,populated place,populated place
+Breiðavík,1,populated place,populated place
+Breiðabólsstaðir,1,populated place,populated place
+Álafoss,1,populated place,populated place
+Gufunes,1,populated place,populated place
+Brjánslækur,1,populated place,populated place
+Baenshús,1,populated place,populated place
+Skipaskagi,1,populated place,populated place
+Áshverfi,1,populated place,populated place
+Reyðarfjörður,1,populated place,populated place
+Bessastaðir,1,populated place,populated place
+Breiðdalsvík,1,populated place,populated place
+Bakkafjörður,1,populated place,populated place
+Abær Kirkja,1,populated place,populated place
+Brunnhólskirkja,1,populated place,populated place
+Brekkuvellir,1,populated place,populated place
+Bolungavík,1,populated place,populated place
+Berjadalsá,1,populated place,populated place
+Ábær,1,populated place,populated place
+Bjarnanes,1,populated place,populated place
+Bjarnarhöfn,1,populated place,populated place
+Hólanes,1,populated place,populated place
+Garðskagi,1,populated place,populated place
+Bakkagerði,1,populated place,populated place
+Olíustöð,1,populated place,populated place
+Merki,1,populated place,populated place
+Háteigur,1,populated place,populated place
+Hánefsstaðir,1,populated place,populated place
+Kleppur,1,populated place,populated place
+Álftamýri,1,populated place,populated place
+Bræðratunga,1,populated place,populated place
+Blönduós,1,populated place,populated place
+Brautarholt,1,populated place,populated place
+Borðeyri,1,populated place,populated place
+Broðeyri,1,populated place,populated place
+Laugabakki,1,populated place,populated place
+Bolungarvík,1,populated place,populated place
+Akranes,1,populated place,populated place
+Arngerðeyri,1,populated place,populated place
+Akurey,1,populated place,populated place
+Breiðibólsstaður,1,populated place,populated place
+Bergsstaðir,1,populated place,populated place
+Borgarhöfn,1,populated place,populated place
+Borg,1,populated place,populated place
+Breiðabolsstaðir,1,populated place,populated place
+Kakki,1,populated place,populated place
+Brimilsvellir,1,populated place,populated place
+Barð,1,populated place,populated place
+Bænahús,1,populated place,populated place
+Álptamýri,1,populated place,populated place
+Brunnastaðir,1,populated place,populated place
+Álftanes,1,populated place,populated place
+Akrar,1,populated place,populated place
+Gvendarnes,1,populated place,populated place
+Kirkjuvogur,1,populated place,populated place
+Eyrarbakki,1,populated place,populated place
+Flugumijri,1,populated place,populated place
+Grund,1,populated place,populated place
+Gerðar,1,populated place,populated place
+Einarsstaðir,1,populated place,populated place
+Haganesvík,1,populated place,populated place
+Grafarnes,1,populated place,populated place
+Býjarsker,1,populated place,populated place
+Gufudalur,1,populated place,populated place
+Garðar,1,populated place,populated place
+Flóagaflshverfi,1,populated place,populated place
+Eskiforður,1,populated place,populated place
+Evindarhólar,1,populated place,populated place
+Alttanes,1,populated place,populated place
+Djúpivogur,1,populated place,populated place
+Flateyri,1,populated place,populated place
+Glæsibær,1,populated place,populated place
+Gaulverjabær,1,populated place,populated place
+Hafrafell,1,populated place,populated place
+Eskifjörður,1,populated place,populated place
+Moedruvellir,1,populated place,populated place
+Efri-Núpur,1,populated place,populated place
+Egilisstaðir,1,populated place,populated place
+Grafarkirkja,1,populated place,populated place
+Halfnarfjorður,1,populated place,populated place
+Goðdalir,1,populated place,populated place
+Geirseyri,1,populated place,populated place
+Engidalur,1,populated place,populated place
+Dvergasteinn,1,populated place,populated place
+Háfur,1,populated place,populated place
+Bíldudalur,1,populated place,populated place
+Brettingsstaðir,1,populated place,populated place
+Bæir,1,populated place,populated place
+Borgarnes,1,populated place,populated place
+Kelda,1,populated place,populated place
+Bólstaðarhlíð,1,populated place,populated place
+Fjörður,1,populated place,populated place
+Diupivogur,1,populated place,populated place
+Draflastaðir,1,populated place,populated place
+Guðlaugsvík,1,populated place,populated place
+Djúpidalur,1,populated place,populated place
+Fíflholt,1,populated place,populated place
+Haganes,1,populated place,populated place
+Hafnarhólmur,1,populated place,populated place
+Grenvik,1,populated place,populated place
+Glerárþorp,1,populated place,populated place
+Dalvík,1,populated place,populated place
+Guðaugsvik,1,populated place,populated place
+Eyvindarhólar,1,populated place,populated place
+Grenjaðarstaður,1,populated place,populated place
+Egilsstaðir,1,populated place,populated place
+Gunnólfsá,1,populated place,populated place
+Geysir,1,populated place,populated place
+Gata,1,populated place,populated place
+Drangsnes,1,populated place,populated place
+Garðahreppur,1,populated place,populated place
+Dísarstaðir,1,populated place,populated place
+Garðakauptún,1,populated place,populated place
+Eyrar,1,populated place,populated place
+Gufnes,1,populated place,populated place
+Garpsdalur,1,populated place,populated place
+Gufnas,1,populated place,populated place
+Sydra-Holakot,1,populated place,populated place
+Olafsfjördhur,1,populated place,populated place
+Sauðanes,1,populated place,populated place
+Reykjavík,1,populated place,populated place
+Ríp,1,populated place,populated place
+Stórólfshvoll,1,populated place,populated place
+Silfrastaðir,1,populated place,populated place
+Saudhanes,1,populated place,populated place
+Snæfjöll,1,populated place,populated place
+Selárdalur,1,populated place,populated place
+Reynistadhir,1,populated place,populated place
+Setberg,1,populated place,populated place
+Ytri-Rauðamelur,1,populated place,populated place
+Síðumúli,1,populated place,populated place
+Stafholt,1,populated place,populated place
+Stapi,1,populated place,populated place
+Mýrar,1,populated place,populated place
+Úlfljótsvatn,1,populated place,populated place
+Urðir,1,populated place,populated place
+Þingeri,1,populated place,populated place
+Torfastadur,1,populated place,populated place
+Varmahlíð,1,populated place,populated place
+Súðavik,1,populated place,populated place
+Þykkvabejarklaustur,1,populated place,populated place
+Vesturhópshólar,1,populated place,populated place
+Þórshöfn,1,populated place,populated place
+Undirfell,1,populated place,populated place
+Kaupstaður,1,populated place,populated place
+Vestmannaeyjar,1,populated place,populated place
+Vatnsefjörður,1,populated place,populated place
+Þorlákshöfn,1,populated place,populated place
+Vetleifsholtshverfi,1,populated place,populated place
+Þorkötlustaðir,1,populated place,populated place
+Skálavík,1,populated place,populated place
+Starmýri,1,populated place,populated place
+Stafafell,1,populated place,populated place
+Stóra Fjarðarhorn,1,populated place,populated place
+Stórófshvoll,1,populated place,populated place
+Sauðárkrókur,1,populated place,populated place
+Skálmarnesmúli,1,populated place,populated place
+Ófeigsfjörður,1,populated place,populated place
+Rafnseyri,1,populated place,populated place
+Snóksdalur,1,populated place,populated place
+Reykjahlíð,1,populated place,populated place
+Sandfell,1,populated place,populated place
+Siglufjörður,1,populated place,populated place
+Saudharkrokur,1,populated place,populated place
+Reykjarnes,1,populated place,populated place
+Snartarstadir,1,populated place,populated place
+Skelðflötur,1,populated place,populated place
+Stóri-Ás,1,populated place,populated place
+Sauðafell,1,populated place,populated place
+Stóri-Dalur,1,populated place,populated place
+Reykholt,1,populated place,populated place
+Ólafsvellir,1,populated place,populated place
+Skinnastaður,1,populated place,populated place
+Sangerdhi,1,populated place,populated place
+Skeggjastaðir,1,populated place,populated place
+Spákonufell,1,populated place,populated place
+Reykhólar,1,populated place,populated place
+Stærri-Árskógur,1,populated place,populated place
+Sandnes,1,populated place,populated place
+Staðarhraun,1,populated place,populated place
+Ögur,1,populated place,populated place
+Skeiðiflötur,1,populated place,populated place
+Seyðisfjordhur,1,populated place,populated place
+Vaðlækur,1,populated place,populated place
+Vopnatjorður,1,populated place,populated place
+Svínavatn,1,populated place,populated place
+Tirðilmýri,1,populated place,populated place
+Viðvík,1,populated place,populated place
+Ásólfsskáli,1,populated place,populated place
+Vaðlar,1,populated place,populated place
+Súðavík,1,populated place,populated place
+Pingeyri,1,populated place,populated place
+Vatnoyri,1,populated place,populated place
+Vopnafjörður,1,populated place,populated place
+Villingaholt,1,populated place,populated place
+Vattannes,1,populated place,populated place
+Þóroddsstaður,1,populated place,populated place
+Þverá,1,populated place,populated place
+Útskáler,1,populated place,populated place
+Patreksfjordhur,1,populated place,populated place
+Svínafell,1,populated place,populated place
+Fell,1,populated place,populated place
+Valþjófsstaður,1,populated place,populated place
+Arngerðareyri,1,populated place,populated place
+Valþjofsstaðir,1,populated place,populated place
+Vellir,1,populated place,populated place
+Vaðlækir,1,populated place,populated place
+Vomúlastaðahverfi,1,populated place,populated place
+Unaðsdalur,1,populated place,populated place
+Víðirhóll,1,populated place,populated place
+Ytri-Njarðvík,1,populated place,populated place
+Upsnir,1,populated place,populated place
+Tungufell,1,populated place,populated place
+Verzlunarstaður,1,populated place,populated place
+Vaþsfjorður,1,populated place,populated place
+Vallanes,1,populated place,populated place
+Patreksfjörður,1,populated place,populated place
+Suðureyri,1,populated place,populated place
+Þingmúli,1,populated place,populated place
+Úþlíð,1,populated place,populated place
+Úlfsá,1,populated place,populated place
+Upsir,1,populated place,populated place
+Þaralátursfjörður,1,populated place,populated place
+Þönglabakki,1,populated place,populated place
+Sveinseyri,1,populated place,populated place
+Þingeyrar,1,populated place,populated place
+Tjaldtangi,1,populated place,populated place
+Vatnsfjörður,1,populated place,populated place
+Vatneyri,1,populated place,populated place
+Dýrafjörður,1,populated place,populated place
+Þingvellir,1,populated place,populated place
+Ytri-Bægisá,1,populated place,populated place
+Þykkvabæjarklaustur,1,populated place,populated place
+Torfastaðir,1,populated place,populated place
+Þingeyri,1,populated place,populated place
+Vopnafjordur,1,populated place,populated place
+Tannanes,1,populated place,populated place
+Þjórsárbrú,1,populated place,populated place
+Vík-Handelssted,1,populated place,populated place
+Útskálar,1,populated place,populated place
+Vestdalseyri,1,populated place,populated place
+Stykkishólmur,1,populated place,populated place
+Víðimýri,1,populated place,populated place
+Syðstibær,1,populated place,populated place
+Vantsfjörður,1,populated place,populated place
+Vidirholl,1,populated place,populated place
+Víðidalstunga,1,populated place,populated place
+Vogar,1,populated place,populated place
+Marteinstunga,1,populated place,populated place
+Minnibakki,1,populated place,populated place
+Stöðvarfjörður,1,populated place,populated place
+Miklibær,1,populated place,populated place
+Kolbeinsstaðir,1,populated place,populated place
+Laugards,1,populated place,populated place
+Kross,1,populated place,populated place
+Miðdalur,1,populated place,populated place
+Minnihlíð,1,populated place,populated place
+Munaðarnes,1,populated place,populated place
+Norðurbotn,1,populated place,populated place
+Norðurfjörður,1,populated place,populated place
+Kollafjarðarnes,1,populated place,populated place
+Liósavatn,1,populated place,populated place
+Meistaður,1,populated place,populated place
+Sólmundarhöfði,1,populated place,populated place
+Núpur,1,populated place,populated place
+Munkaþverá,1,populated place,populated place
+Klyppsstaðir,1,populated place,populated place
+Miðgarðar,1,populated place,populated place
+Litli-Árskógssandur,1,populated place,populated place
+Ljósavatn,1,populated place,populated place
+Laxamýri,1,populated place,populated place
+Narfeyri,1,populated place,populated place
+Ljósvatn,1,populated place,populated place
+Núp,1,populated place,populated place
+Klypsstaðir,1,populated place,populated place
+Kirkjubólsþorp,1,populated place,populated place
+Miklholt,1,populated place,populated place
+Kópavogur,1,populated place,populated place
+Mælifell,1,populated place,populated place
+Langholt,1,populated place,populated place
+Kinnarstaðir,1,populated place,populated place
+Neskaupstadhur,1,populated place,populated place
+Kinnarstaður,1,populated place,populated place
+Laugardælir,1,populated place,populated place
+Lambastaðir,1,populated place,populated place
+Kollafarðarnes,1,populated place,populated place
+Látur,1,populated place,populated place
+Kolbeinsstaður,1,populated place,populated place
+Innri Njarðvík,1,populated place,populated place
+Neðri Arnardalur,1,populated place,populated place
+Lundur,1,populated place,populated place
+Lundarbrekka,1,populated place,populated place
+Kljáströnd,1,populated place,populated place
+Kópasker,1,populated place,populated place
+Kúvíkur,1,populated place,populated place
+Knappavellir,1,populated place,populated place
+Novotunga,1,populated place,populated place
+Látrar,1,populated place,populated place
+Kirkjubæjarklaustur,1,populated place,populated place
+Nardhvik,1,populated place,populated place
+Kotströnd,1,populated place,populated place
+Nauteyri,1,populated place,populated place
+Melstaður,1,populated place,populated place
+Kuvíker,1,populated place,populated place
+Kolbeinseyri,1,populated place,populated place
+Mosfell,1,populated place,populated place
+Lögmannshlíð,1,populated place,populated place
+Meiribakki,1,populated place,populated place
+Litlibær,1,populated place,populated place
+Njarðvíkur,1,populated place,populated place
+Nanteyri,1,populated place,populated place
+Kvíabekkur,1,populated place,populated place
+Nupu,1,populated place,populated place
+Strandakirkja,1,populated place,populated place
+Silfurtún,1,populated place,populated place
+Ofanleiti,1,populated place,populated place
+Óspakseyri,1,populated place,populated place
+Siðmúli,1,populated place,populated place
+Snóksdolur,1,populated place,populated place
+Stóra-Vatnshorn,1,populated place,populated place
+Skútustaðir,1,populated place,populated place
+Prestsbakki,1,populated place,populated place
+Raudhimelur,1,populated place,populated place
+Snartarstaðir,1,populated place,populated place
+Strandarkirkja,1,populated place,populated place
+Reynir,1,populated place,populated place
+Staðarhólskirkja,1,populated place,populated place
+Snartastaðir,1,populated place,populated place
+Kolfreyjustaður,1,populated place,populated place
+Reykhóar,1,populated place,populated place
+Sauðlauksdalur,1,populated place,populated place
+Sleðbrjótur,1,populated place,populated place
+Skálholt,1,populated place,populated place
+Reykjafjörður,1,populated place,populated place
+Skeiðflötur,1,populated place,populated place
+Reykir,1,populated place,populated place
+Stöð,1,populated place,populated place
+Reykjarfjörður,1,populated place,populated place
+Staðarfell,1,populated place,populated place
+Stóra-Vatnsléysa,1,populated place,populated place
+Sandgerði,1,populated place,populated place
+Seydisfjorður,1,populated place,populated place
+Selfoss,1,populated place,populated place
+Skálanes,1,populated place,populated place
+Saudarkrokr,1,populated place,populated place
+Rauðamelur,1,populated place,populated place
+Melstadur,1,populated place,populated place
+Leirá,1,populated place,populated place
+Nedhri Arndardalur,1,populated place,populated place
+Laugarás,1,populated place,populated place
+Miðsandur,1,populated place,populated place
+Kviabryggva,1,populated place,populated place
+Neskaupstaður,1,populated place,populated place
+Kópavogskaupstaður,1,populated place,populated place
+Laugarvatn,1,populated place,populated place
+Lágafell,1,populated place,populated place
+Norðtunga,1,populated place,populated place
+Knappstaðir,1,populated place,populated place
+Stokkseyri,1,populated place,populated place
+Skaftafell,1,populated place,populated place
+Staðurhraun,1,populated place,populated place
+Reynistaður,1,populated place,populated place
+Ólafsvík,1,populated place,populated place
+Raufarhöfn,1,populated place,populated place
+Seyðisfjörður,1,populated place,populated place
+Skinnastaðir,1,populated place,populated place
+Staðarbakki,1,populated place,populated place
+Stóridalur,1,populated place,populated place
+Ás,1,populated place,populated place
+Skálar,1,populated place,populated place
+Staðastaður,1,populated place,populated place
+Stadarfell,1,populated place,populated place
+Skógur,1,populated place,populated place
+Stórinúpur,1,populated place,populated place
+Stokkseyre,1,populated place,populated place
+Reynivellir,1,populated place,populated place
+Stóri Laugardalur,1,populated place,populated place
+Staðarstaður,1,populated place,populated place
+Ólafsfjörður,1,populated place,populated place
+Grims,1,island,island
+Hrísdalur,1,valley,depression
+Breiðhorn,1,peak,elevation
+Miðaftanshnjúkur,1,peak,elevation
+Þyrilsey,1,island,island
+Stakihnúkur,1,hill,elevation
+Skriðutindar,1,peak,elevation
+Kerlingarhóll,1,hill,elevation
+Vatnssker,1,peak,elevation
+Breiðdalur,2,valley,depression
+Nesjaey,1,island,island
+Miðaftanshögg,1,pass,depression
+Flesjartangi,1,point,convex shoreline
+Lambatindur,1,peak,elevation
+Hrafnshóll,1,hill,elevation
+Núpafjallsendi,1,peak,elevation
+Kvensöðull,1,hill,elevation
+Stykkiseyjar,1,islands,island
+Þverbrún,1,mountain,elevation
+Svörtuloft,1,cliff,elevation
+Fimmvörðuháls,1,ridge,elevated area
+Lambadalsfjall,1,mountain,elevation
+Berjadalur,1,valley,depression
+Ketilhraun,1,hill,elevation
+Rauðstaðahorn,1,peak,elevation
+Skarðsöxl,1,mountain,elevation
+Valadalstorfa,1,point,convex shoreline
+Sunnnes,1,point,convex shoreline
+Skarðsmýrarfjall,1,mountain,elevation
+Krókdalur,1,valley,depression
+Heiðardalur,1,valley,depression
+Einhyrningur,1,mountain,elevation
+Háöldar,1,hill,elevation
+Njóladalur,1,valley,depression
+Hryggfjall,1,hill,elevation
+Dagmálahlíð,1,slope,elevation
+Auðsstaðahnúkur,1,peak,elevation
+Dalöldur,1,hill,elevation
+Drangatangi,1,point,convex shoreline
+Skorradalsháls,1,mountain,elevation
+Pílagrímsfell,1,mountain,elevation
+Seljadalur,8,valley,depression
+Streitisfles,1,island,island
+Dýristindur,1,peak,elevation
+Skarðsfjall,1,mountain,elevation
+Háskerðingur,1,peak,elevation
+Tungur,2,slope,elevation
+Eskilsey,1,island,island
+Brennisleinsfjoll,1,hills,elevated area
+Sudureyri,1,point,convex shoreline
+Jökulkrókur,1,peak,elevation
+Þórðarfell,1,hill,elevation
+Litla-Krafla,1,peak,elevation
+Akrafjall,2,mountain,elevation
+Tjaldurseyjar,1,rocks,elevation
+Hvannadalur,6,valley,depression
+Laugardalur,2,valley,depression
+Langimelur,1,hill,elevation
+Ærfjall,1,mountain,elevation
+Langasker,1,mountain,elevation
+Strútsfjall,1,mountain,elevation
+Skjöldur,1,rock,elevation
+Mávahlíðar,1,hill,elevation
+Ausugil,1,peak,elevation
+Einbúi,1,rocks,elevation
+Svörtusker,1,rock,elevation
+Berutindur,1,peak,elevation
+Skinney,1,island,island
+Finnsboði,1,rocks,elevation
+Dagmálafjall,2,hill,elevation
+Hellufell,1,mountain,elevation
+Hoffellstindar,1,peak,elevation
+Háa,1,mountain,elevation
+Fagradalsfjall,4,mountain,elevation
+Breiðafjall,2,mountain,elevation
+Dýafjallshnúkur,1,peak,elevation
+Kálfafellsfjallsendi,1,slope,elevation
+Skellir,1,rocks,elevation
+Jörundarfell,1,peak,elevation
+Bunguveggur,1,slope,elevation
+Rakkanesfjall,1,hill,elevation
+Skógarholt,1,hill,elevation
+Landsendafjall,1,mountain,elevation
+Kofaalda,1,hill,elevation
+Helgasker,1,rock,elevation
+Skeiðin,1,cliff,elevation
+Lambahnjúkur,1,peak,elevation
+Lækjamótaöxl,1,hill,elevation
+Brandafell,1,mountain,elevation
+Reyðardalur,1,valley,depression
+Hellir,1,island,island
+Gjafamúli,1,mountain,elevation
+Miðmundarhorn,1,peak,elevation
+Grjótártunga,1,plain,area
+Kambur,1,cliff,elevation
+Hergilsey,1,island,island
+Háihnúkur,1,peak,elevation
+Þórunnarfjöll,1,peak,elevation
+Lambhaganes,1,peninsula,convex shoreline
+Hvolsfjall,1,hill,elevation
+Svalbarðsnúpur,1,mountain,elevation
+Gerpi,1,headland,convex shoreline
+Mosaslakki,1,slope,elevation
+Krummaskarð,1,pass,depression
+Fornastaða,1,mountain,elevation
+Haukagilsdragi,1,hill,elevation
+Staffellsbjörg,1,cliff,elevation
+Austurhorn,1,headland,convex shoreline
+Herdubreidar,1,mountains,elevated area
+Kötlunes,1,point,convex shoreline
+Munaðstungufjall,1,hill,elevation
+Sveinatungumúli,1,hill,elevation
+Víðilágaborg,1,peak,elevation
+Njörfafellstindur,1,peak,elevation
+Syðri-Háganga,1,mountain,elevation
+Geldingaskarð,1,pass,depression
+Yxnadalur,1,valley,depression
+Tviskier,1,island,island
+Smjörfjöll,1,mountains,elevated area
+Straumsker,1,island,island
+Dritsker,1,rocks,elevation
+Múlafjall,2,mountain,elevation
+Arnórstaðahnúkur,1,peak,elevation
+Súlnastapi,1,rock,elevation
+Kjaranstaðadalur,1,valley,depression
+Sandmúli,1,mountain,elevation
+Fossgil,1,gorge,depression
+Stórihnukur,1,peak,elevation
+Heiðnarey,1,island,island
+Gerðatangar,1,point,convex shoreline
+Tröllagjot,1,gorge,depression
+Sænautafell,1,mountain,elevation
+Ritstáin,1,point,convex shoreline
+Gripdeild,1,cliff,elevation
+Kögur,1,headland,convex shoreline
+Karl og Kerling,1,rock,elevation
+Rifssker,1,rocks,elevation
+Valshöfði,1,headland,convex shoreline
+Sljettárdalur,1,valley,depression
+Arnardalseyrar,1,plain,area
+Snæfugl,1,peak,elevation
+Efstafellsnes,1,point,convex shoreline
+Borgarmelur,1,plain,area
+Fremra-Sandfell,1,mountain,elevation
+Öræfi,1,upland,elevation
+Tó,1,point,convex shoreline
+Landatangi,1,point,convex shoreline
+Valshamarseyjar,1,islands,island
+Forviðarfjall,1,mountain,elevation
+Kálfhóll,1,hill,elevation
+Skógafjall,2,mountain,elevation
+Vatnshlíð,2,cliff,elevation
+Hraunfellshnjúkur,1,peak,elevation
+Mófellsbætur,1,hill,elevation
+Ólafarhnúkar,1,peak,elevation
+Molduxi,1,mountain,elevation
+Geirólfsnúpur,1,peak,elevation
+Digrihóll,1,hill,elevation
+Kikafell,1,mountain,elevation
+Djúpseyrarnes,1,point,convex shoreline
+Stórhöfdi,1,hill,elevation
+Stórasteinstorfur,1,plain,area
+Austurbjallar,1,hill,elevation
+Rauðinúpur,1,headland,convex shoreline
+Illagil,3,gorge,depression
+Vatnssteinafellstindur,1,peak,elevation
+Jarlhettur,1,mountains,elevated area
+Borgir,1,peak,elevation
+Dragafell,1,mountain,elevation
+Illviti,1,mountain,elevation
+Skafhólar,1,hill,elevation
+Valagil,1,gorge,depression
+Stórhæð,1,mountain,elevation
+Arnfinnsfjall,1,mountain,elevation
+Herðubreið,1,mountain,elevation
+Héðinsfjarðardalur,1,valley,depression
+Kálfstindur,2,peak,elevation
+Villingafjall,1,hill,elevation
+Grasárdalshnjúkur,1,peak,elevation
+Brandaskarð,1,pass,depression
+Gerðibrekkuhaus,1,point,convex shoreline
+Sanddalur,1,valley,depression
+Grjótgarðsháls,1,hills,elevated area
+Stakkhamarsnes,1,bar,underwater elevation
+Geitaskarð,1,pass,depression
+Grágæsahnúkur,1,peak,elevation
+Geldingatangi,1,slope,elevation
+Hattfell,1,mountain,elevation
+Hólmatindur,1,peak,elevation
+Höskuldsey,1,island,island
+Teigsfjall,1,mountain,elevation
+Grágæsahnjúkur,1,peak,elevation
+Skálanesfjall,1,mountain,elevation
+Sauðafellsháls,1,mountain,elevation
+Stóri-Kýlingur,1,hill,elevation
+Þvergil,1,gorge,depression
+Þjóðfell,1,mountain,elevation
+Fjórðungur,1,slope,elevation
+Rani,2,slope,elevation
+Dýafjallshnjúkur,1,peak,elevation
+Svartikambur,1,ridge,elevated area
+Skógeyjarhöfði,1,headland,convex shoreline
+Endahnjúkar,1,peak,elevation
+Matarhnúkur,1,peak,elevation
+Blakkin,1,point,convex shoreline
+Hafnaberg,1,cliff,elevation
+Gerðisbjarg,1,cliff,elevation
+Gimbrarhnúkur,1,peak,elevation
+Heiðaskarð,1,pass,depression
+Sandskarð,3,pass,depression
+Skagaflös,1,point,convex shoreline
+Fremstabotnstindur,1,peak,elevation
+Kvíahnúkur,1,peak,elevation
+Stelpa,1,rock,elevation
+Melhamar,1,cliff,elevation
+Kolla,1,island,island
+Námaskarð,1,pass,depression
+Fremri-Hlíð,1,cliff,elevation
+Gjátindur,1,peak,elevation
+Selnes,1,point,convex shoreline
+Litluflögur,1,rocks,elevation
+Ásgarðsfjall,1,mountain,elevation
+Fossárfell,1,mountain,elevation
+Dynufjall,1,mountain,elevation
+Hagaey,1,island,island
+Hrafnahnúkar,1,peak,elevation
+Óttarshnjúkur,1,mountain,elevation
+Hvilftarfjall,1,hill,elevation
+Tungnafell,1,mountain,elevation
+Gangnamannaskarð,1,pass,depression
+Blöndugil,1,gorge,depression
+Sundabakki,1,hill,elevation
+Hestdalur,2,valley,depression
+Borgargerðisfjall,1,mountain,elevation
+Dalsmelar,1,plain,area
+Norðurdalur,5,valley,depression
+Snjóaxlir,1,slope,elevation
+Hálsar,2,slope,elevation
+Gljúfursárdalur,1,valley,depression
+Miðalda,1,hill,elevation
+Mjaðmárdalur,1,valley,depression
+Fremri-Grímsstaðanúpur,1,mountain,elevation
+Hrollaugsstaðafjall,1,hill,elevation
+Svartahæð,1,hill,elevation
+Fragradala,1,mountain,elevation
+Kollhóll,2,hill,elevation
+Dagmálabunga,1,hill,elevation
+Sel,1,island,island
+Litlahöfða,1,headland,convex shoreline
+Hlaðsnes,1,point,convex shoreline
+Arngerðareyrarháls,1,hill,elevation
+Bleiksmýrardalur,1,valley,depression
+Suðurlanda,1,island,island
+Digranes,3,point,convex shoreline
+Göltur,1,rocks,elevation
+Blautakvíslareyrar,1,plain,area
+Langihryggur,3,ridge,elevated area
+Skuggafjöll,1,mountains,elevated area
+Skálafell,3,hill,elevation
+Krossbrún,1,ridge,elevated area
+Háireki,1,hill,elevation
+Balðeiði,1,mountain,elevation
+Goðdalagil,1,gorge,depression
+Hvítserkur,1,gorge,depression
+Hraunatá,1,point,convex shoreline
+Lútur,1,peak,elevation
+Grunnavatnsdalur,1,valley,depression
+Nafarfjall,1,hill,elevation
+Traðarsker,1,rock,elevation
+Saurbæjarháls,1,ridge,elevated area
+Heiðnafjall,1,mountain,elevation
+Flötufjöll,1,peak,elevation
+Heiðamót,1,peak,elevation
+Svinahnúkur,1,mountain,elevation
+Vestmanna Islands,1,islands,island
+Kópaflaga,1,island,island
+Hlaðhóll,1,hill,elevation
+Einiberjaflatir,1,slope,elevation
+Hafsstaðarboði,1,rock,elevation
+Grænavatnshnúkur,1,peak,elevation
+Hveradalir,1,valley,depression
+Goðaland,1,slope,elevation
+Kleifar,1,mountain,elevation
+Kána,1,island,island
+Hnjótafjall,1,mountain,elevation
+Miðleiðisalda,3,hill,elevation
+Stórsteinahæð,1,hill,elevation
+Ytri-Hágangur,1,mountain,elevation
+Vesturbjallar,1,hills,elevated area
+Miðhnes,1,peninsula,convex shoreline
+Hörsvíkurboði,1,rocks,elevation
+Höskuldsvatnshnúkur,1,mountain,elevation
+Krossfjöll,1,mountain,elevation
+Hólmur,1,rock,elevation
+Létthöfði,1,rock,elevation
+Efstafell,1,mountain,elevation
+Botnöxl,1,hill,elevation
+Hádegishnúkar,1,peak,elevation
+Vattardalur,1,valley,depression
+Gerpir Cape,1,headland,convex shoreline
+Rjúpnadalur,1,valley,depression
+Svínadalsháls,1,slope,elevation
+Meðallandsfjörur,1,beach,shoreline
+Hellisey,3,island,island
+Hólsnef,1,point,convex shoreline
+Saudhahnúkar,1,peak,elevation
+Meðalfell,1,hill,elevation
+Hjortsey,1,island,island
+Suðurárdalur,2,valley,depression
+Gagndagahnjúkur,1,mountain,elevation
+Hlíðarmúli,1,mountain,elevation
+Hnappadalur,2,valley,depression
+Hrafnabjargahólmi,1,island,island
+Krummaflögur,1,rocks,elevation
+Hörgshlíðarfjall,1,hill,elevation
+Hestárgil,1,gorge,depression
+Klifsborg,1,mountain,elevation
+Digritindur,1,peak,elevation
+Almenningar,1,slope,elevation
+Tungudalur,8,valley,depression
+Skutulsey,1,island,island
+Atlaey,1,hill,elevation
+Hverfjall,1,hill,elevation
+Álfhólar,1,hills,elevated area
+Arnólfsfjall,1,hill,elevation
+Hjarðarfellsdalur,1,valley,depression
+Botnahraun,1,hill,elevation
+Skorar,1,slope,elevation
+Búlandsdalur,1,valley,depression
+Grísatungufjöll,1,mountains,elevated area
+Gönguskörð,1,pass,depression
+Hljóðaklettar,1,hill,elevation
+Litla Baula,1,peak,elevation
+Öfuguggavatnshæðir,1,hills,elevated area
+Fjórðungsalda,2,mountain,elevation
+Náttmálafell,1,hill,elevation
+Afréttarfjall,1,cliff,elevation
+Ok,1,mountain,elevation
+Reyðarártindur,1,peak,elevation
+Norðlingaháls,1,slope,elevation
+Reftjarnarbunga,1,hill,elevation
+Sauðhöfði,1,hill,elevation
+Eyjólfsfjall,1,mountain,elevation
+Klofatindur,1,peak,elevation
+Lambahnúkur,2,peak,elevation
+Ytra Skógarnesnes,1,point,convex shoreline
+Kálkur,1,valley,depression
+Selevogsnes,1,point,convex shoreline
+Nepa Point,1,point,convex shoreline
+Skottar,1,rocks,elevation
+Hungurskarð,1,pass,depression
+Valhúsahæð,1,hill,elevation
+Suðurdalur,3,valley,depression
+Nasi,1,peak,elevation
+Hágangnadalur,1,valley,depression
+Snjóöldufjallgarður,1,ridge,elevated area
+Víðirhólsfjallgarður,1,hills,elevated area
+Bárðarkista,1,peak,elevation
+Hattardalsfjall,1,mountain,elevation
+Miðfellsmúli,1,hill,elevation
+Vörðuhóll,1,hill,elevation
+Rif,1,rocks,elevation
+Þruðardalur,1,valley,depression
+Lambafell,8,mountain,elevation
+Skeglubjörg,1,cliff,elevation
+Skorbeinn,1,islands,island
+Sporhamarsfjall,1,mountain,elevation
+Raudhfossa,1,mountain,elevation
+Mundafell,1,mountain,elevation
+Garpsdalsfjall,1,mountain,elevation
+Helluboði,1,rock,elevation
+Biskupsöxl,1,hill,elevation
+Selhnúkur,2,peak,elevation
+Heljarfjall,1,mountain,elevation
+Ölkelda,1,hill,elevation
+Marðareyrarfjall,1,mountain,elevation
+Nýpsklappir,1,point,convex shoreline
+Ytra-Árskarðsfjall,1,hill,elevation
+Þrúðufell,2,mountain,elevation
+Grænur,1,hill,elevation
+Grunnavatnsalda,1,hill,elevation
+Skriðdalur,1,valley,depression
+Arnarey,2,island,island
+Mosborg,1,hill,elevation
+Skjólfjörur,1,beach,shoreline
+Kræðuborgir,1,hills,elevated area
+Kiðagil,1,gorge,depression
+Sýlingarhnjúkur,1,peak,elevation
+Öndverðarnes,1,point,convex shoreline
+Hattur,1,peak,elevation
+Sandeyjarhólmur,1,island,island
+Loki,1,hill,elevation
+Eiðahólmar,1,islands,island
+Fellsfjall,1,mountain,elevation
+Miðleiðarsker,1,rocks,elevation
+Bálkastaðanes,1,peninsula,convex shoreline
+Kambgil,1,gorge,depression
+Kamb,1,mountain,elevation
+Selholt,1,hill,elevation
+Gaesa,1,mountain,elevation
+Tröllanes,1,point,convex shoreline
+Gullþúfa,1,peak,elevation
+Herfell,1,mountain,elevation
+Núpar,1,hill,elevation
+Innra-Skarð,1,valley,depression
+Kerlingahnúkar,1,peak,elevation
+Bunga,1,mountain,elevation
+Litladalsfjall,1,slope,elevation
+Gláma,1,mountain,elevation
+Hálsatindur,2,peak,elevation
+Skjaldarhæð,1,hill,elevation
+Hrútaskálarhnjúkur,1,peak,elevation
+Gustahnúkur,1,mountain,elevation
+Fitjaásar,1,hills,elevated area
+Arfaklettur,1,rock,elevation
+Oddkelsalda,1,hill,elevation
+Vatnafjall,1,mountain,elevation
+Einidalstindur,1,peak,elevation
+Kjálkaver,1,hill,elevation
+Bægisárdalur,1,valley,depression
+Unadalur,1,valley,depression
+Furudalur,1,valley,depression
+Lásfjall,1,hill,elevation
+Reykjanybba,1,peak,elevation
+Fossahlíð,1,cliff,elevation
+Bíþolt,1,hill,elevation
+Fljótsalda,1,hill,elevation
+Orustukambur,1,ridge,elevated area
+Óshöfdhi,1,headland,convex shoreline
+Tjaldaneshyrna,1,headland,convex shoreline
+Nónholt,1,hill,elevation
+Skibsholm,1,island,island
+Ásfjall,1,slope,elevation
+Snæfuglboði,1,rock,elevation
+Gjafi,1,point,convex shoreline
+Þjórsárdalur,1,valley,depression
+Grábergshnúkar,1,mountains,elevated area
+Tjaldskarð,1,pass,depression
+Eyjafjarðardalur,1,valley,depression
+Selsundsfjall,1,mountain,elevation
+Afréttartindur,2,peak,elevation
+Reykjanes Peninsula,1,peninsula,convex shoreline
+Flár,1,ridge,elevated area
+Grindarskörð,1,pass,depression
+Skutilsey,1,island,island
+Langanes,1,peninsula,convex shoreline
+Ytrafjall,1,mountain,elevation
+Kanastaðir,1,slope,elevation
+Ögurhólmi,1,island,island
+Brekkufjall,1,mountain,elevation
+Suður,1,island,island
+Krossnes,3,point,convex shoreline
+Herðubreiðarháls,1,slope,elevation
+Austur-Hvanneyjarsker,1,island,island
+Mánafell,1,mountain,elevation
+Bruni,1,hill,elevation
+Snæfjall,1,mountain,elevation
+Rauðamelsfjall,1,mountain,elevation
+Bjarghóll,1,hill,elevation
+Kjalhraun,1,hill,elevation
+Hvolsdalur,1,valley,depression
+Bakkatindur,1,peak,elevation
+Hvalnes,1,point,convex shoreline
+Fellsegg,1,slope,elevation
+Innri-Fróðárdalur,1,valley,depression
+Grótta,1,island,island
+Gjarðey,1,island,island
+Smáhólagil,1,gorge,depression
+Varmárfell,1,hill,elevation
+Birnudalur,1,valley,depression
+Stóra-Mosfell,1,hill,elevation
+Hrollaugseyjar,1,islands,island
+Krossdalur,2,valley,depression
+Sáta,1,ridge,elevated area
+Spjóþólmar,1,islands,island
+Oddleifssker,1,rocks,elevation
+Randarhólar,1,hills,elevated area
+Stóraborg,2,hill,elevation
+Tindaskarð,1,pass,depression
+Hryggjafjall,1,mountain,elevation
+Aðaldalur,1,valley,depression
+Bani,1,mountain,elevation
+Grottutang,1,point,convex shoreline
+Nordhdalshnjukur,1,peak,elevation
+Strandartindur,1,peak,elevation
+Neshyrna,1,peak,elevation
+Hermundarfell,1,mountain,elevation
+Vindfellsfjall,1,mountain,elevation
+Mánárnúpur,1,peak,elevation
+Úlfkelshæð,1,hill,elevation
+Bardsnes,1,peninsula,convex shoreline
+Sátubarn,1,hill,elevation
+Ausudalur,1,valley,depression
+Leiruboði,1,rock,elevation
+Skúmhöttur,2,peak,elevation
+Dalafjall,1,mountain,elevation
+Fossártunga,1,slope,elevation
+Dragafjall,1,mountain,elevation
+Skammidalur,1,valley,depression
+Kristínartindur,1,peak,elevation
+Miðsandsflúðir,1,rocks,elevation
+Klifatindur,1,peak,elevation
+Múlaey,1,island,island
+Geirhólmur,1,island,island
+Arnarhóll,1,hill,elevation
+Húsey,2,island,island
+Fremstidalur,1,valley,depression
+Gerðuberg,1,cliff,elevation
+Kambsfjall,1,mountain,elevation
+Kárahnúkar,1,mountains,elevated area
+Ögrshólmi,1,island,island
+Máfabjarg,1,cliff,elevation
+Hróarsdalur,1,valley,depression
+Engidalsfjöll,1,mountains,elevated area
+Lambamannasandfell,1,hill,elevation
+Veðurárdalskambur,1,ridge,elevated area
+Langimúli,1,slope,elevation
+Helluhnúkur,1,peak,elevation
+Ámárhyrna,1,peak,elevation
+Rauðkollur,3,peak,elevation
+Ásbúðnasker,1,rock,elevation
+Grensdalur,1,valley,depression
+Sellandafjall,1,mountain,elevation
+Stakfellsurðir,1,boulder field,area
+Mjóufell,1,hill,elevation
+Stórihöfði,1,mountain,elevation
+Kinnarfjöll,1,mountains,elevated area
+Hólmanes,1,peninsula,convex shoreline
+Flöguhnúkur,1,peak,elevation
+Ytra-Drápsker,1,island,island
+Klapparáshnjúkur,1,peak,elevation
+Djúpeyjar,1,islands,island
+Búfell,1,hill,elevation
+Fagrahlíð,2,slope,elevation
+Dofinsfjöll,1,hill,elevation
+Beraflóð,1,plain,area
+Hesteyru,1,peak,elevation
+Búðarháls,1,ridge,elevated area
+Sandárás,1,hill,elevation
+Skýhnjúkur,1,peak,elevation
+Hrói,1,mountain,elevation
+Laxárdalshnjúkur,1,peak,elevation
+Illiskurður,1,valley,depression
+Almenningsfles,1,rock,elevation
+Strokkur,1,peak,elevation
+Háumelar,1,slope,elevation
+Aedersteinn,1,point,convex shoreline
+Ásbjarnarhnjúkur,1,peak,elevation
+Hafurshorn,1,hill,elevation
+Ljóshólar,1,hill,elevation
+Tjarnarborgir,1,hills,elevated area
+Ragnaborg,1,hill,elevation
+Mýrarfjall,1,mountain,elevation
+Strákar,1,mountain,elevation
+Hraundalur,6,valley,depression
+Reiphólsfjöll,1,mountains,elevated area
+Dráttarhryggur,1,ridge,elevated area
+Ótholi,1,peak,elevation
+Gautlönd,1,slope,elevation
+Sléttunes,1,point,convex shoreline
+Miðey,1,island,island
+Ögurdalur,1,valley,depression
+Smjörhnúkur,1,peak,elevation
+Svarþamrar,2,hill,elevation
+Vesturhorn,1,headland,convex shoreline
+Ljósafjall,1,mountain,elevation
+Hólsnes,1,point,convex shoreline
+Stafnsvatnahæð,1,hill,elevation
+Bægsli,1,peak,elevation
+Dimmifjallgarður,1,mountains,elevated area
+Lindahorn,1,headland,convex shoreline
+Surtarbrúnir,1,slope,elevation
+Krossfjall,1,mountain,elevation
+Heljardalur,2,valley,depression
+Ögurnes,1,point,convex shoreline
+Hofteigsfjall,1,hill,elevation
+Ferjuás,1,hill,elevation
+Smjörkollar,1,hill,elevation
+Stefningardalur,1,valley,depression
+Bleilasmyrar Valley,1,valley,depression
+Beinaklettur,1,rock,elevation
+Hólmar,1,rock,elevation
+Miðheiðarhnúkur,1,peak,elevation
+Tjaldanesdalur,1,valley,depression
+Utfjöll,1,mountains,elevated area
+Saudhadalshnúkar,1,mountain,elevation
+Kötlufjall,1,mountain,elevation
+Fjallasíða,1,slope,elevation
+Moldbrekka,1,slope,elevation
+Mjólkárhlíð,1,slope,elevation
+Pólsklettar,1,cliff,elevation
+Lýsuhyrna,1,cliff,elevation
+Skiftisker,1,rocks,elevation
+Miðdalshnúkur,1,peak,elevation
+Steinsskarð,1,pass,depression
+Bjargavatnsás,1,ridge,elevated area
+Ytrimúli,1,mountain,elevation
+Brimilsnes,1,island,island
+Ásmundarstaðaey,1,island,island
+Rauðanúpsdalur,1,valley,depression
+Móhryggur,1,ridge,elevated area
+Bjarnardalur,1,valley,depression
+Hlöðu,1,mountain,elevation
+Skálafjall,1,mountain,elevation
+Hallbjarnarstaðatinður,1,peak,elevation
+Innra-Drápsker,1,island,island
+Illviðrahnjúkar,1,peak,elevation
+Flataflaga,1,rocks,elevation
+Músanes,1,point,convex shoreline
+Hauganes,1,point,convex shoreline
+Hólsselsmelar,1,plain,area
+Hellufjall,1,hill,elevation
+Hjaltastaðafjall,1,mountain,elevation
+Litla Ólafsey,1,islands,island
+Skeljafell,1,hill,elevation
+Syðra-Thórunnarfjall,1,cliff,elevation
+Vælindisás,1,ridge,elevated area
+Helgustaðafjall,1,mountain,elevation
+Illviðrahnúkur,2,peak,elevation
+Gjögurtá,1,cape,convex shoreline
+Strætistres,1,point,convex shoreline
+Geldingafjall,1,mountain,elevation
+Deilir,1,mountain,elevation
+Strandarháls,1,hill,elevation
+Vatna,1,mountain,elevation
+Gelgjutangi,1,point,convex shoreline
+Hols,1,mountain,elevation
+Engisfjall,1,mountain,elevation
+Hvannstaðafjallgarður,1,mountain,elevation
+Snjófjöll,1,mountain,elevation
+Blákvíslaralda,1,hill,elevation
+Smyrill,1,rock,elevation
+Breiður,1,hill,elevation
+Öxneyjar,1,island,island
+Kiðafell,1,mountain,elevation
+Balar,1,slope,elevation
+Miðtunga,1,mountain,elevation
+Bæjarás,1,hill,elevation
+Kollugilsbalar,1,cliff,elevation
+Hörfinnsey,1,island,island
+Reykjafjarðarháls,1,hill,elevation
+Stigafjöll,1,slope,elevation
+Krókagiljabrún,1,slope,elevation
+Grænihnúkur,1,mountain,elevation
+Gunnhildardalur,1,valley,depression
+Leirhafnartangi,1,point,convex shoreline
+Melanesfjall,1,hill,elevation
+Arnarstaðadalur,1,valley,depression
+Ytri-Hraunkúla,1,hill,elevation
+Ljósavatnsskarð,1,pass,depression
+Grind,1,island,island
+Melrakkadalur,3,valley,depression
+Kistualda,1,peak,elevation
+Goðahryggur,1,ridge,elevated area
+Glerárdalshnúkur,1,peak,elevation
+Leiðólfsfell,1,hill,elevation
+Arnardalur,2,valley,depression
+Húsadalstindur,1,peak,elevation
+Litli-Krummi,1,peak,elevation
+Þorvaldsháls,1,slope,elevation
+Kaldaklofsfjöll,1,mountain,elevation
+Krossness,1,point,convex shoreline
+Laxárdalshæðir,1,hills,elevated area
+Stakkur,1,rock,elevation
+Krókavatnshæð,1,hill,elevation
+Þrístiklufjall,1,hill,elevation
+Hvalsey,1,island,island
+Vegahnjúkur,2,peak,elevation
+Hjarðarfellshlíð,1,cliff,elevation
+Ytrafellsmúli,1,hill,elevation
+Gassasker,1,rocks,elevation
+Gainlaeyri,1,island,island
+Víkingsdalur,1,valley,depression
+Tungufjall,7,mountain,elevation
+Skálanesbjarg,1,cliff,elevation
+Skersli,1,hill,elevation
+Hrossatindur,2,peak,elevation
+Hnokki,1,rocks,elevation
+Lambarhnjúkur,1,peak,elevation
+Húsárfjall,1,hill,elevation
+Hvanntóarhryggur,1,ridge,elevated area
+Hundsnes,1,headland,convex shoreline
+Grænufjöll,1,mountain,elevation
+Lambárfell,1,mountain,elevation
+Óstafla,1,rock,elevation
+Hraunfjall,1,mountain,elevation
+Sultarhjallar,1,cliff,elevation
+Dalsbunga,1,hill,elevation
+Geitafell,3,hill,elevation
+Kálffell,1,hill,elevation
+Laugafellshnúkur,1,mountain,elevation
+Jökulþúfur,1,peak,elevation
+Vatnshnjúkur,1,peak,elevation
+Deild,1,headland,convex shoreline
+Skyggnishlíðar,1,ridge,elevated area
+Sauðafjöll,1,hill,elevation
+Grísatungnagil,1,gorge,depression
+Landaboði,1,rock,elevation
+Tinnudalur,1,valley,depression
+Gagndagahnúkur,1,mountain,elevation
+Kerlingatindur,1,peak,elevation
+Jökultungur,1,peak,elevation
+Núpsdalur,2,valley,depression
+Kirkjusandur,1,beach,shoreline
+Mánahaugur,1,hill,elevation
+Rjettargil,1,gorge,depression
+Ytra-Norðmelsfjall,1,hill,elevation
+Teigarfjall,1,mountain,elevation
+Lakalandsgil,1,gorge,depression
+Hábaula,1,mountain,elevation
+Goðaborg,3,peak,elevation
+Hálsfjall,1,mountain,elevation
+Vatnsleysuöldur,1,hills,elevated area
+Háanes,1,headland,convex shoreline
+Gunnarsstaðaey,1,island,island
+Álftardalur,1,valley,depression
+Faxagil,1,gorge,depression
+Tröllafell,1,mountain,elevation
+Bótasker,1,rocks,elevation
+Hánefur,1,peak,elevation
+Staalbierg Huk,1,point,convex shoreline
+Miðdalshnjúkur,1,peak,elevation
+Fontrinn,1,point,convex shoreline
+Dalatangi,1,point,convex shoreline
+Þverdlur,1,valley,depression
+Jónsnípa,1,peak,elevation
+Steindórsfell,1,hill,elevation
+Hrafnkelsdalur,1,valley,depression
+Lambastígshnjúkur,1,peak,elevation
+Hafurs,1,mountain,elevation
+Þrihyringsfjallgarður,1,mountains,elevated area
+Kolgrafamúli,1,mountain,elevation
+Hafursstaðaheiði,1,slope,elevation
+Múlatafla,1,peak,elevation
+Fremri-Fjalldalur,1,valley,depression
+Þjófadalur,4,valley,depression
+Kjölur,1,pass,depression
+Austurboðar,1,rocks,elevation
+Gaflfell,1,mountain,elevation
+Barmahlíð,1,slope,elevation
+Hornið,1,point,convex shoreline
+Stöng,1,peak,elevation
+Þvottáreyjar,1,islands,island
+Klúkuhorn,1,peak,elevation
+Grenisöldur,1,mountain,elevation
+Hestur,1,peak,elevation
+Innra-Árskarðsfjall,1,mountain,elevation
+Þjóðbrókargil,1,gorge,depression
+Ytra-Ásgarðsfjall,1,hill,elevation
+Nónborg,3,hill,elevation
+Húshólsfell,1,hill,elevation
+Leirfjall,1,mountain,elevation
+Buðarhorn,1,headland,convex shoreline
+Kumlasker,1,rock,elevation
+Hrossakambur,1,ridge,elevated area
+Bæjarnes,3,point,convex shoreline
+Tungutindar,1,peak,elevation
+Elliði,1,mountain,elevation
+Gestabunga,1,hill,elevation
+Hrappsey,1,islands,island
+Veturlandafjall,1,hill,elevation
+Koíslárskarð,1,pass,depression
+Leifsstaðabjörg,1,cliff,elevation
+Fjósaklettur,1,rocks,elevation
+Ekrutindur,1,peak,elevation
+Langadalsfjall,1,mountain,elevation
+Mælifellsdalur,2,valley,depression
+Þingey,1,island,island
+Kirkjufjall,2,mountain,elevation
+Leyningshólar,1,slope,elevation
+Sneisar,1,ridge,elevated area
+Hraunhatnartangi,1,point,convex shoreline
+Fannlækjarbunga,1,hill,elevation
+Brekkuhöfði,1,headland,convex shoreline
+Stóri-Leppir,1,mountain,elevation
+Arnarfell hið Litla,1,mountain,elevation
+Holtahlíð,1,slope,elevation
+Hólmi,1,hill,elevation
+Borgarhólar,1,hills,elevated area
+Melrakkaey,1,island,island
+Laugafell,1,mountain,elevation
+Háups,1,mountain,elevation
+Laxárdalur,9,valley,depression
+Holtasker,1,mountain,elevation
+Eiríksnýpa,1,hill,elevation
+Nónhorn,1,peak,elevation
+Svarthamar,1,mountain,elevation
+Geirshólmi,1,island,island
+Austariháls,1,hill,elevation
+Stórörn,1,rock,elevation
+Kverkhnjúkar,1,mountains,elevated area
+Bláfjall,3,mountain,elevation
+Selfjöll,1,hills,elevated area
+Löngusker,1,rock,elevation
+Hraunártungur,1,mountain,elevation
+Grendill,1,peak,elevation
+Þröng,1,slope,elevation
+Blákollur,1,hill,elevation
+Grjótárleitir,1,slope,elevation
+Holtsgil,1,gorge,depression
+Kaldártungur,1,upland,elevation
+Borgarfell,1,hill,elevation
+Sigurðaralda,1,hill,elevation
+Ketilboðafles,1,island,island
+Ósfles,1,island,island
+Vörðusker,1,hill,elevation
+Brunnanúpur,1,headland,convex shoreline
+Þegjandadalur,1,valley,depression
+Bóndi,1,point,convex shoreline
+Smjörhnúkar,2,peak,elevation
+Kálfeyrarfjöll,1,slope,elevation
+Brúarárfjall,1,hill,elevation
+Hvesta,1,hill,elevation
+Selhæðir,1,hill,elevation
+Gæsatungur,1,slope,elevation
+Rifstangi,1,point,convex shoreline
+Rauðubjörg,1,cliff,elevation
+Hvítingur,1,rock,elevation
+Vörðutindur,1,peak,elevation
+Hagafell,3,mountain,elevation
+Grímsstaðakarl,1,peak,elevation
+Þverfell,10,hill,elevation
+Háhöfði,1,hill,elevation
+Miðskarð,1,pass,depression
+Ytri Rauðamelskúlur,1,hill,elevation
+Gefla,1,hill,elevation
+Leirárdalur,2,valley,depression
+Litla Seley,1,island,island
+Galti,1,mountain,elevation
+Geldingafell,1,hills,elevated area
+Drangavíkurhólmar,1,islands,island
+Arnadalur,1,valley,depression
+Hvanneyrardalur,1,valley,depression
+Króksdalur,1,valley,depression
+Leiðvallarhólmar,1,islands,island
+Flöguás,1,hill,elevation
+Slaufrudalur,2,valley,depression
+Hrossatungur,1,mountain,elevation
+Grákollugil,1,gorge,depression
+Gíslaskarð,1,pass,depression
+Hrúteyjarnes,1,point,convex shoreline
+Kirkjufell,1,mountain,elevation
+Bauluhúsaskriður,1,slope,elevation
+Svartárdalsfjall,1,mountain,elevation
+Urðarbrún,1,ridge,elevated area
+Andey,1,island,island
+Hallgrímseyjarboði,1,rock,elevation
+Valþjófsdalur,1,valley,depression
+Brúnir,1,ridge,elevated area
+Kjögg,1,island,island
+Örn,1,peak,elevation
+Miðfjall,3,mountain,elevation
+Lambatungnaá,1,river,stream
+Gjávatn,1,lake,basin
+Króksfjörður,1,fjord,concave shoreline
+Ósá,1,river,stream
+Litla-Kverká,1,river,stream
+Baðstofuvatn,1,lake,basin
+Klappará,2,river,stream
+Mosar,1,bog,marsh
+Húsá,3,river,stream
+Skagestrand,1,bay,concave shoreline
+Trönuár,1,river,stream
+Buskutjörn,1,lake,basin
+Krókssef,1,bog,marsh
+Finnafjörður,1,fjord,concave shoreline
+Fremri-Ásgarðsá,1,river,stream
+Vikravatn,1,lake,basin
+Miklumýrar,1,bog,marsh
+Reydar Fjörd,1,fjord,concave shoreline
+Kalfhamarsvík,1,bay,concave shoreline
+Myrkárjökull,1,glacier,glacier
+Iraboði,1,reef,underwater elevation
+Ósabotnar,1,bog,marsh
+Ödhulbrúará,1,river,stream
+Álftakíll,1,river,stream
+Afréttará,1,river,stream
+Breidavík,1,bay,concave shoreline
+Hval Fjörd,1,fjord,concave shoreline
+Húsárkvíslar,1,river,stream
+Sauravogur,1,bay,concave shoreline
+Valá,1,river,stream
+Húna Fjörd,1,bay,concave shoreline
+Herdísarvík,1,bay,concave shoreline
+Þrístikla,3,lake,basin
+Drangaáll,1,channel,strait
+Haffjarðará,1,river,stream
+Austdalsa,1,river,stream
+Mossker,1,reef,underwater elevation
+Stóradæld,1,river,stream
+Selmýrar,1,bog,marsh
+Snæffellsjökull,1,icecap,glacier
+Bárðalaug,1,spring,stream
+Kjálkavatn,1,lake,basin
+Drangasker,1,reef,underwater elevation
+Skjálfandafljót,1,river,stream
+Höfðabót,1,cove,concave shoreline
+Sigurðarstaðavík,1,bay,concave shoreline
+Kluftá,1,river,stream
+Breiðavatn,3,lake,basin
+Vatnakvísl,2,river,stream
+Þaralátursgrunn,1,bank,underwater elevation
+Galtarsker,1,reef,underwater elevation
+Vatnaflói,1,bog,marsh
+Prestvatn,1,lake,basin
+Bláfellsá,1,river,stream
+Suðurflös,1,reef,underwater elevation
+Kjálká,1,river,stream
+Breiðá,1,river,stream
+Bunguvatn,1,lake,basin
+Vatnadalsbót,1,bight,concave shoreline
+Jökulsárós,1,mouth,concave shoreline
+Kleppavatn,1,lake,basin
+Máfsvatn,1,lake,basin
+Svaða,1,reef,underwater elevation
+Kirkjuboði,1,shoal,underwater elevation
+Krossvík,1,cove,concave shoreline
+Sandvatn,11,lake,basin
+Grjótá,11,river,stream
+Galtardalsá,1,river,stream
+Hvalvatn,1,lake,basin
+Tungumýrar,1,bog,marsh
+Drangavíkurdalsvatn,1,lake,basin
+Köldukvíslarjökull,1,glacier,glacier
+Hnifsdalvik,1,cove,concave shoreline
+Leirufjörður,1,fjord,concave shoreline
+Álftavatn,6,lake,basin
+Kurbrandsmýri,1,bog,marsh
+Oddalönd,1,bog,marsh
+Steingrims Fiord,1,fjord,concave shoreline
+Ljósalandsvík,1,cove,concave shoreline
+Grjótávatn,1,lake,basin
+Neðri-Fljótsdrög,1,river,stream
+Heiðará,3,river,stream
+Kollsvík,1,cove,concave shoreline
+Ormsá,1,river,stream
+Bakkatunga,1,bog,marsh
+Gjögursvatn,1,lake,basin
+Pollurinn,2,harbor,concave shoreline
+Blöndukíll,1,river,stream
+Fremri-Loftsá,1,river,stream
+Vestri-Jökulsá,1,river,stream
+Búða Banki,1,bank,underwater elevation
+Langaáskvísl,1,river,stream
+Leitisá,1,river,stream
+Lambavörðuflói,1,bog,marsh
+Bjarneyjaflói,1,bay,concave shoreline
+Kalmanstjörn,1,lake,basin
+Selvogur,1,bight,concave shoreline
+Blesá,1,river,stream
+Syðrahraun,1,shoal,underwater elevation
+Skemmuvatn,1,lake,basin
+Námskvísl,1,river,stream
+Hólmlátursvötn,1,lakes,basin
+Hundsvötn,1,lakes,basin
+Dynjandifoss,1,waterfall,stream
+Steinavötn,1,river,stream
+Brunjudalsvogur,1,cove,concave shoreline
+Reitsvík,1,cove,concave shoreline
+Meðalfellsvatn,1,lake,basin
+Mengilsbotn,1,river,stream
+Þverárvatn,1,lake,basin
+Jökulfall,2,river,stream
+Æðarvatn,1,lake,basin
+Stíflisdalsvatn,1,lake,basin
+Hvítá,2,river,stream
+Mjofi Fjord,1,fjord,concave shoreline
+Bergsárvatn,1,lake,basin
+Eystra-Hólsvatn,1,lake,basin
+Reynisvatn,1,lake,basin
+Blágil,1,bog,marsh
+Heyá,1,river,stream
+Brúarjökull,1,glacier,glacier
+Viðborðshraun,1,bog,marsh
+Krossadalsa,1,river,stream
+Hafbyggi,1,reef,underwater elevation
+Kelduá,2,river,stream
+Bakkakotsá,1,river,stream
+Tungufellsá,1,river,stream
+Eyrarselsvatn,1,lake,basin
+Sámsstaðaá,1,river,stream
+Þistilfjördur,1,bay,concave shoreline
+Synishálar,1,spring,stream
+Eystri-Miklalækjarbotnar,1,bog,marsh
+Stakksfjörður,1,bay,concave shoreline
+Klifshagavallakvísl,1,river,stream
+Náttfaravík,1,cove,concave shoreline
+Krak,1,river,stream
+Öldugilsvatn,1,lake,basin
+Dynjandisvogur,1,bay,concave shoreline
+Skorarvatn,1,lake,basin
+Voðulbruará,1,river,stream
+Meyjarvatn,1,lake,basin
+Helluá,1,river,stream
+Vestasti-Kælir,1,river,stream
+Vestari Jokule,1,river,stream
+Reykjanesgrunn,1,bank,underwater elevation
+Selblá,1,bog,marsh
+Kverká,2,river,stream
+Fjórðhungaboði,1,reef,underwater elevation
+Langisjór,1,lake,basin
+Langá,1,river,stream
+Stóra-Laxá,1,river,stream
+Hrossabeinamýrar,1,bog,marsh
+Fossárvík,1,cove,concave shoreline
+Flóðið,1,lake,basin
+Arnar Fiord,1,fjord,concave shoreline
+Grensásvatn,1,lake,basin
+Árkvíslar,1,river,stream
+Skálmardalsá,1,river,stream
+Torfakvísl,1,river,stream
+Hvammsá,4,river,stream
+Muslingen,1,inlet,basin
+Ölveshöfn,1,cove,concave shoreline
+Svarfadardals,1,bay,concave shoreline
+Ellidaa,1,river,stream
+Middalsvatn,1,lagoon,basin
+Torfastaðavatn,1,lake,basin
+Geildals,1,river,stream
+Teigará,3,river,stream
+Stapaboði,1,reef,underwater elevation
+Lónsós,1,inlet,basin
+Selgil,3,river,stream
+Lárós,1,mouth,concave shoreline
+Jökulsá á Brú,1,river,stream
+Nedhri-Emstruá,1,river,stream
+Hrafnabjargarvatn,1,lake,basin
+Hörðudalsá,1,river,stream
+Þingvalla,1,lake,basin
+Hafragilsfoss,1,waterfall,stream
+Miðfjörður,2,fjord,concave shoreline
+Djúpagilsvatn,1,lake,basin
+Innri Álftavík,1,cove,concave shoreline
+Héraðsvötn,1,river,stream
+Syðriófæra,1,river,stream
+Hrafnkelá,1,river,stream
+Brimilsvík,1,cove,concave shoreline
+Hvannalindir,1,bog,marsh
+Klauf Vík,1,cove,concave shoreline
+Gerðisflói,1,bog,marsh
+Stárholt,1,bog,marsh
+Kringluflói,1,bog,marsh
+Hveravellir,1,spring,stream
+Rugludalskvísl,1,river,stream
+Smjörhólsá,1,river,stream
+Laxárvík,2,cove,concave shoreline
+Húnaflói,1,bay,concave shoreline
+Akureyjarrif,1,reef,underwater elevation
+Fossvík,1,cove,concave shoreline
+Vestasti-Lækur,1,river,stream
+Kattarfoss,1,waterfall,stream
+Vífilsstaðaflói,1,lake,basin
+Kofavík,1,cove,concave shoreline
+Miðkjós,1,mouth,concave shoreline
+Bæjará,1,river,stream
+Heinabergsvötn,1,river,stream
+Reyðarvatn,5,lake,basin
+Svartárvatn,1,lake,basin
+Efri-Fljótsdrög,1,river,stream
+Starkaðsver,2,bog,marsh
+Hrappsstaðaselstjörn,1,lake,basin
+Húsaá,1,river,stream
+Hafravatn,1,lake,basin
+Hornvík,1,bay,concave shoreline
+Miklumýralækur,1,river,stream
+Glápavötn,1,lakes,basin
+Andarnefjuboði,1,reef,underwater elevation
+Torfufellsá,1,river,stream
+Mið Fjord,1,fjord,concave shoreline
+Viðidalsdrög,1,river,stream
+Melrakkavatn,1,lake,basin
+Vatnamýrar,1,bog,marsh
+Falljökull,1,glacier,glacier
+Grænalón,2,lake,basin
+Úlfsvatn,1,lake,basin
+Fúlá,1,river,stream
+Reynivallaós,1,inlet,basin
+Reiðaraxlavatn,1,lake,basin
+Skálmar Fjord,1,fjord,concave shoreline
+Höskuldsvatn,1,lake,basin
+Far,1,river,stream
+Fremsta-Rjúkandi,1,river,stream
+Grjótá-ytri,1,river,stream
+Fiskivatn,4,lake,basin
+Tólfmannaboði,1,reef,underwater elevation
+Flateyjarsund,1,sound,strait
+Staðarvatn,1,lake,basin
+Rauðanúpsvatn,1,lake,basin
+Álkulón,1,bog,marsh
+Ártúnsá,1,river,stream
+Hafnarvík,2,cove,concave shoreline
+Tangaós,1,inlet,basin
+Steinsgil,1,river,stream
+Kaldranavík,1,cove,concave shoreline
+Öldutjörn,1,lake,basin
+Markarfljót,1,river,stream
+Mikluödubotnar,1,bog,marsh
+Núps,1,river,stream
+Vestari-Jökulsa,1,river,stream
+Reiðarvatn,1,lake,basin
+Bjargaós,1,inlet,basin
+Kolavatn,2,lake,basin
+Litlisandur,1,bank,underwater elevation
+Tjarná,1,river,stream
+Landbrotsvötn,1,lagoon,basin
+Rauðasandsgrunn,1,bank,underwater elevation
+Sellönd,1,bog,marsh
+Skorargrunn,1,bank,underwater elevation
+Ánastaðavatn,1,lake,basin
+Stórilækur,6,river,stream
+Þorgeirstjörn,1,lake,basin
+Máfavötn,2,lakes,basin
+Grundar Fjörd,1,fjord,concave shoreline
+Nordhling,1,river,stream
+Orravatn,1,lake,basin
+Vesturdalslækur,1,river,stream
+Kolbeinsá,1,river,stream
+Sjötjarnir,1,lakes,basin
+Arnarfellskvísl,1,river,stream
+Gilsbakkaá,1,river,stream
+Suðurdalsá,1,river,stream
+Skálsvatn,1,lake,basin
+Arnardalsvatn,1,lake,basin
+Mariuhöfn,1,cove,concave shoreline
+Stjórn,1,river,stream
+Lón,1,river,stream
+Hofs,1,river,stream
+Múlafoss,1,waterfall,stream
+Malarif,1,reef,underwater elevation
+Heydalsá,2,river,stream
+Einbúadrög,1,bog,marsh
+Reykjará,1,river,stream
+Norðfjarðarflói,1,bay,concave shoreline
+Reykja Fjörd,1,fjord,concave shoreline
+Byrgisvatn,1,lake,basin
+Borgar Fiord,2,fjord,concave shoreline
+Sólheimajökull,1,glacier,glacier
+Mulakulst River,1,river,stream
+Grunnafjörður,1,bay,concave shoreline
+Mýraselsbotnar,1,river,stream
+Miðdalsá,1,river,stream
+Engjadalsá,1,river,stream
+Kerlingarfjörður,1,fjord,concave shoreline
+Bugavatn,1,lake,basin
+Hamarsvötn,1,lakes,basin
+Eyvindarfjarðará,1,river,stream
+Lundartunga,1,bog,marsh
+Hólmsárlón,1,lake,basin
+Langilækur,1,river,stream
+Faxaflói,1,bay,concave shoreline
+Hraunsvík,2,bay,concave shoreline
+Hólmvatn,1,lake,basin
+Bakkahorn,1,bank,underwater elevation
+Nesjavatn,1,lake,basin
+Kambavatn,1,lake,basin
+Ljósafoss,1,waterfall,stream
+Laxfoss,1,waterfall,stream
+Hindisvík,1,cove,concave shoreline
+Vestra-Hólsvatn,1,lake,basin
+Yxná,1,river,stream
+Koladalsá,1,river,stream
+Eystri Hjeraðsvötn,1,river,stream
+Bleikálukvísl,1,river,stream
+Langanesgrunn,1,bank,underwater elevation
+Kvíslabotnar,1,river,stream
+Veiðileysufjörður,2,fjord,concave shoreline
+Kuggavatn,1,lake,basin
+Kvíalækir,1,river,stream
+Hvalfjörður,1,fjord,concave shoreline
+Laufdalsvatn,1,lake,basin
+Blönduvatn,2,lake,basin
+Austurfljót,1,river,stream
+Dynjandi,1,waterfall,stream
+Öldumóðukvísl,1,river,stream
+Berufjördur,1,fjord,concave shoreline
+Rifshaus,1,reef,underwater elevation
+Sauðeyjasund,1,sound,strait
+Skipavogur,1,cove,concave shoreline
+Veiðivötn,1,lakes,basin
+Brennikvísl,1,river,stream
+Dynjandafoss,1,waterfall,stream
+Vatnskleifagrunn,1,reef,underwater elevation
+Lagarfljót,1,river,stream
+Þorleifsá,1,river,stream
+Kráká,1,river,stream
+Teigar,2,bog,marsh
+Þaralátursós,1,river,stream
+Fífutjörn,1,lake,basin
+Garðskrókur,1,cove,concave shoreline
+Yididals,1,river,stream
+Eyvafenskvísl,1,river,stream
+Ytri-Hvíta,1,river,stream
+Fjallahöfn,1,cove,concave shoreline
+Sandvík,4,bay,concave shoreline
+Njardvík,1,cove,concave shoreline
+Digranesflak,1,bank,underwater elevation
+Vöðlavík,1,bay,concave shoreline
+Hrauneyjafoss,1,waterfall,stream
+Hrafnagil,1,river,stream
+Stóraá,1,river,stream
+Heimaey Havn,1,harbor,concave shoreline
+Grunnavík,1,cove,concave shoreline
+Tangaver,1,bog,marsh
+Bjarnadalslækur,1,river,stream
+Útsuðursvatn,1,lake,basin
+Síðufjall,1,bog,marsh
+Seljaá,1,river,stream
+Skillandsá,1,river,stream
+Innri-Víná,1,river,stream
+Vattarfjörður,1,fjord,concave shoreline
+Sölvagil,1,river,stream
+Rauðasandsbugur,1,bight,concave shoreline
+Breiðdalsá,2,river,stream
+Eyjafell,1,bog,marsh
+Arnarþúfafoss,1,waterfall,stream
+Djúpsker,1,reef,underwater elevation
+Mígandi,1,river,stream
+Sniðbjargagil,1,river,stream
+Síðujökull,1,glacier,glacier
+Níkurvatn,1,lake,basin
+Hnúfa,1,bank,underwater elevation
+Geirsvík,1,cove,concave shoreline
+Tjarnarver,1,bog,marsh
+Reftjarnir,1,lakes,basin
+Drangavík,1,bay,concave shoreline
+Svartakvísl,1,river,stream
+Hvammsfjörður,2,fjord,concave shoreline
+Vesturlækur,1,river,stream
+Hornavík,1,bay,concave shoreline
+Sigurðarstaðatjörn,1,lake,basin
+Hökulvík,1,cove,concave shoreline
+Trjábás,1,cove,concave shoreline
+Eiðisvatn,2,lake,basin
+Gufufoss,1,waterfall,stream
+Viðarvötn,1,lakes,basin
+Hegramýrar,1,bog,marsh
+Patrix Fjord,1,fjord,concave shoreline
+Kjósarbotn,1,river,stream
+Mjóifjördur,1,fjord,concave shoreline
+Arfavötn,1,lakes,basin
+Keflavík,1,bay,concave shoreline
+Illugaver,1,bog,marsh
+Folavatn,1,lake,basin
+Langagilslón,1,lake,basin
+Kvígindisfjörður,1,fjord,concave shoreline
+Ytri-Lambadalsá,1,river,stream
+Hjaltadalsá,2,river,stream
+Sniðbjargargil,1,river,stream
+Skálpá,1,river,stream
+Kolgrímsvötn,1,lakes,basin
+Flyðrusker,1,reef,underwater elevation
+Sandvíkur,1,bay,concave shoreline
+Stapaá,3,river,stream
+Safamýri,1,bog,marsh
+Beljandi,1,river,stream
+Stödvarfjördr,1,fjord,concave shoreline
+Svartárpollar,1,lakes,basin
+Þverárjökull,1,glacier,glacier
+Vesturhraun,1,shoal,underwater elevation
+Sjávarfoss,1,waterfall,stream
+Svínavík,1,cove,concave shoreline
+Leirdalsá,1,river,stream
+Elliðavatn,1,lake,basin
+Svartifoss,1,waterfall,stream
+Hítará,1,river,stream
+Viðfjarðará,1,river,stream
+Borgarfjörður,3,fjord,concave shoreline
+Hörgsá,1,river,stream
+Lágiboði,1,reef,underwater elevation
+Alfta Fiord,1,lagoon,basin
+Viðines,1,bog,marsh
+Skarðs Fjöd,1,lagoon,basin
+Draugakvísl,1,river,stream
+Leira,1,river,stream
+Glerhallavík,1,bight,concave shoreline
+Præstebugt,1,cove,concave shoreline
+Öldulón,1,lagoon,basin
+Misdýpi,1,bank,underwater elevation
+Álar,1,bay,concave shoreline
+Isa Fjord,1,fjord,concave shoreline
+Hlíðarvatn,1,lagoon,basin
+Syðradrag,1,river,stream
+Jökulsá eystri,1,river,stream
+Innri-Sauðá,2,river,stream
+Vestra Hraun,1,shoal,underwater elevation
+Álftatjörn,5,lake,basin
+Miðalsvatn,1,lagoon,basin
+Svarþamarsvík,1,cove,concave shoreline
+Núpavatn,2,lake,basin
+Grasver,1,bog,marsh
+Vatnajökull,1,icecap,glacier
+Sæluvogur,1,cove,concave shoreline
+Matbrunnavatn,1,lake,basin
+Djúpiboði,2,reef,underwater elevation
+Flautagerðisgrynnsli,1,bank,underwater elevation
+Innri Reyðarfjörður,1,bay,concave shoreline
+Botnsá,4,river,stream
+Eyvindará,3,river,stream
+Furu Fiord,1,fjord,concave shoreline
+Þórisós,1,river,stream
+Héðinsfjörður,1,fjord,concave shoreline
+Bárvatn,1,lakes,basin
+Sigle Fiord,1,fjord,concave shoreline
+Bardsvik,1,bay,concave shoreline
+Viðarvík,1,cove,concave shoreline
+Brynjudalsá,1,river,stream
+Grunnuvötn,1,lakes,basin
+Héðinsvík,1,cove,concave shoreline
+Ögmundarjökull,1,glacier,glacier
+Hvirfilsdalsá,1,river,stream
+Mórillukvísl,1,river,stream
+Þórhallalón,1,lake,basin
+Botnsvogur,1,cove,concave shoreline
+Kerafoss,1,waterfall,stream
+Jökulgrunn,1,bank,underwater elevation
+Hvítavatn,1,lake,basin
+Morsárjökull,1,glacier,glacier
+Seydisfjördr,1,fjord,concave shoreline
+Ölfustjörn,1,lake,basin
+Ögurá,1,river,stream
+Hamravatn,1,lake,basin
+Aldeyjarfoss,1,waterfall,stream
+Dalsárdrög,1,bog,marsh
+Þorgeirsfjord,1,fjord,concave shoreline
+Tófumelar,1,bog,marsh
+Fáskrúdsfhörður,1,fjord,concave shoreline
+Breiðals,1,bay,concave shoreline
+Salthólmavík,1,cove,concave shoreline
+Hrútsvatn,1,lake,basin
+Veiðiós,1,inlet,basin
+Kringilsá,1,river,stream
+Arnarbælistjörn,1,lake,basin
+Bjarnarfjörður,2,fjord,concave shoreline
+Biskupsáfangar,1,bog,marsh
+Laugabólsvatn,1,lake,basin
+Skardsfjördur,1,lagoon,basin
+Kolkuós,1,mouth,concave shoreline
+Þórarinsvatn,1,lake,basin
+Heyárfoss,1,waterfall,stream
+Porska Fiord,1,fjord,concave shoreline
+Skorravíkurá,1,river,stream
+Selsker,4,reef,underwater elevation
+Hryggjamýri,1,bog,marsh
+Fálkafoss,1,waterfall,stream
+Skarðsfjörður,1,lagoon,basin
+Hólsá,5,river,stream
+Tröllá,2,river,stream
+Gráðvík,1,cove,concave shoreline
+Tröllfossar,1,waterfall,stream
+Fremri-Hrísalækur,1,river,stream
+Stakfellsvatn,1,lake,basin
+Brekkuboði,1,reef,underwater elevation
+Öxará,2,river,stream
+Hvilftarvatn,1,lake,basin
+Markar,1,river,stream
+Haffjörður,1,bay,concave shoreline
+Hítarvatn,1,lake,basin
+Svínaflóð,1,bog,marsh
+Kjalnatóakvísl,1,river,stream
+Lambatungujökull,1,glacier,glacier
+Hempill,1,shoal,underwater elevation
+Hornafjarðarós,1,inlet,basin
+Tungufljót,2,river,stream
+Bægisár,1,glacier,glacier
+Lækjavík,1,cove,concave shoreline
+Þverdalsvatn,1,lake,basin
+Gilsá,6,river,stream
+Ísa Fjord,1,fjord,concave shoreline
+Arnarnesvík,1,cove,concave shoreline
+Hjaltadalsjökull,1,glacier,glacier
+Nóngil,1,river,stream
+Nordhari-Ófaera,1,lake,basin
+Helluvatn,1,lake,basin
+Heiðarhöfn,1,cove,concave shoreline
+Landkvísl,1,river,stream
+Hrauná,2,river,stream
+Braut,1,bog,marsh
+Patreksfiord,1,fjord,concave shoreline
+Hundsvík,1,cove,concave shoreline
+Nordr-Flói,1,bay,concave shoreline
+Vatnsleysuvík,1,bay,concave shoreline
+Lambavatn,3,lake,basin
+Sauðanesós,1,inlet,basin
+Bakkárfoss,1,waterfall,stream
+Vesturfljót,1,river,stream
+Hnefilsdalsá,2,river,stream
+Melbrigðuflá,1,bog,marsh
+Álfhólsvatn,1,lake,basin
+Jökulsá,5,river,stream
+Ytri-Flói,1,bay,concave shoreline
+Þingvallavatn,1,lake,basin
+Eystri-Pollar,1,pond,basin
+Hornsvík,1,cove,concave shoreline
+Innri-Ásgarðsá,1,river,stream
+Ísa Fjörd Deep,1,fjord,concave shoreline
+Stóra Eyarvatn,1,lake,basin
+Krókatjarnir,1,lakes,basin
+Jökulfirdir,1,fjord,concave shoreline
+Papafjörður,1,lagoon,basin
+Trjekyllisvík,1,bay,concave shoreline
+Sléttanes,1,bank,underwater elevation
+Geysir,1,spring,stream
+Grænavatn,7,lake,basin
+Kvíslavötn,2,lakes,basin
+Innri Múlakvísl,1,river,stream
+Hammersboði,1,shoal,underwater elevation
+Systravatn,1,lake,basin
+Kálfasléttur,1,bog,marsh
+Drangmelalækur,1,river,stream
+Fremra-Deildarvatn,1,lake,basin
+Hvalvogur,1,cove,concave shoreline
+Innri-Heiðará,1,river,stream
+Æðarvötn,1,lakes,basin
+Ísa Fiord,1,fjord,concave shoreline
+Tindrastarklettur,1,reef,underwater elevation
+Stakkahnúksvatn,1,lake,basin
+Bjarnarvatn,1,lake,basin
+Sölvadalsá,1,river,stream
+Feldarvík,1,cove,concave shoreline
+Fljótsbotn,1,lake,basin
+Hrútafjörður,1,fjord,concave shoreline
+Sigurðarfitjaráll,1,river,stream
+Gæsagilsá,1,river,stream
+Hólmavatnsá,1,river,stream
+Austasti-kaelir,1,river,stream
+Eyjafjarðará,1,river,stream
+Reykjavatn,1,lake,basin
+Dalkvísl,1,river,stream
+Öxná,1,river,stream
+Hældrag,1,lake,basin
+Dyngjuvatn,1,lake,basin
+Hyammsfjörður,1,fjord,concave shoreline
+Dynjandisfoss,1,waterfall,stream
+Breiðamýri,1,bog,marsh
+Hámundarstaðavík,1,bay,concave shoreline
+Vopna Fjörd,1,bay,concave shoreline
+Háfsbót,1,bog,marsh
+Fitjaá,2,river,stream
+Atlavík,1,cove,concave shoreline
+Bláfjallakvísl,1,river,stream
+Tjörnesgrunn,1,bank,underwater elevation
+Barðsvík,1,bay,concave shoreline
+Einangursá,1,river,stream
+Engjalækur,1,river,stream
+Kisubotnar,1,river,stream
+Ásendalækur,1,river,stream
+Holtsá,1,river,stream
+Miðfjarðarvatn,1,lake,basin
+Gránufell,1,reef,underwater elevation
+Núpsvötn,1,river,stream
+Norðfjörður,1,fjord,concave shoreline
+Hörtná,1,river,stream
+Hólavötn,1,lakes,basin
+Strandagrunn,1,bank,underwater elevation
+Jökulfirður,1,fjord,concave shoreline
+Þjórsá,1,river,stream
+Landmannalaugar,1,spring,stream
+Reidharaxlarvatn,1,lake,basin
+Altafjörður,1,lagoon,basin
+Bergkvísl,1,river,stream
+Galtá,1,river,stream
+Helluvaðstjörn,1,lake,basin
+Mýrdalsjökull,1,icecap,glacier
+Húnaós,1,inlet,basin
+Silungavatn,1,lake,basin
+Hólsvík,1,cove,concave shoreline
+Hafnaá,1,river,stream
+Tálkna Fiord,1,fjord,concave shoreline
+Snoppa,1,river,stream
+Stekká,1,river,stream
+Selfellsmýrar,1,bog,marsh
+Selsá,1,river,stream
+Leiruvogur,2,cove,concave shoreline
+Stakkahnjúksvatn,1,lake,basin
+Seydis Fjord,1,fjord,concave shoreline
+Háfslækur,1,river,stream
+Vesturflös,1,reef,underwater elevation
+Húkslækur,1,river,stream
+Fnjosk,1,river,stream
+Skipaboðar,1,reef,underwater elevation
+Vatnsdalsá,2,river,stream
+Skottá,1,river,stream
+Skurðbæjarmýri,1,bog,marsh
+Vinðólaskál,1,river,stream
+Skjóldalsá,1,river,stream
+Beru Fiord,1,fjord,concave shoreline
+Furufjördr,1,fjord,concave shoreline
+Ytri-Kötluá,1,river,stream
+Torfadalsvatn,1,lake,basin
+Sandgígskvísl,1,river,stream
+Skammbeinstjörn,1,lake,basin
+Blikdalsá,1,river,stream
+Landbrots,1,lagoon,basin
+Ólafsfjördr,1,fjord,concave shoreline
+Eyvafen,1,bog,marsh
+Núpá,1,river,stream
+Bæjargróf,1,river,stream
+Flotavatn,1,lake,basin
+Haugavík,1,bay,concave shoreline
+Ennisá,1,river,stream
+Hænsnaver,1,bog,marsh
+Fúsavatn,1,lake,basin
+Adalvik,1,bay,concave shoreline
+Dalvatn,1,lake,basin
+Uxavatn,2,lake,basin
+Breiðafjörður,2,bay,concave shoreline
+Baugavötn,1,lake,basin
+Eyjafarðará,1,river,stream
+Sog,1,river,stream
+Skjálfanda,1,river,stream
+Vaská,1,river,stream
+Hengifossárvatn,1,lake,basin
+Syðri-Bótará,1,river,stream
+Mánafoss,1,waterfall,stream
+Bríkarkvísl,1,river,stream
+Illilækur,1,river,stream
+Naðurdalsá,1,river,stream
+Ballará,1,river,stream
+Bót,1,bog,marsh
+Kornsá,1,river,stream
+Loðnugil,1,river,stream
+Rangá,1,river,stream
+Elliðavogur,1,bay,concave shoreline
+Reiðtjörn,1,lake,basin
+Jökulbanki,1,bank,underwater elevation
+Sauðavatn,1,lake,basin
+Apavatn,1,lake,basin
+Máfahnúksboði,1,reef,underwater elevation
+Jökuldælingadrag,1,river,stream
+Blákvísl,2,river,stream
+Máfavatn,1,lake,basin
+Húnavatn,1,lagoon,basin
+Kálfá,3,river,stream
+Hnúkskvísl,1,river,stream
+Kattárvík,1,cove,concave shoreline
+Hofsá,8,river,stream
+Kollavíkurvatn,1,lake,basin
+Ytri-Thrándará,1,river,stream
+Klambraá,1,river,stream
+Þrætuvatn,1,lake,basin
+Skutuls Fjord,1,fjord,concave shoreline
+Aðalmannsvatn,1,lake,basin
+Hnúasker,1,reef,underwater elevation
+Hverfisfljót,1,river,stream
+Víðisvatn,1,lake,basin
+Folakvísl,1,river,stream
+Hörgárgrunn,1,shoal,underwater elevation
+Krókavatn,8,lake,basin
+Skaftárós,1,lagoon,basin
+Leirhöfn,1,cove,concave shoreline
+Þorvaldsá,3,river,stream
+Refkelsvatn,1,lake,basin
+Pollen Harbour,1,harbor,concave shoreline
+Jökulsá í Lóni,1,river,stream
+Mjóavatn,7,lake,basin
+Hvitar,1,lake,basin
+Kleppuvatn,1,lake,basin
+Hrúta Fiord,1,fjord,concave shoreline
+Hörgshólsá,1,river,stream
+Mýrnavík,1,cove,concave shoreline
+Krossaxlavatn,1,lake,basin
+Efri-Þverkvísl,1,river,stream
+Krossá,5,river,stream
+Aðalmannsvötn,1,lake,basin
+Lækir,1,river,stream
+Landvatn,1,river,stream
+Hraunsvatn,2,lake,basin
+Affall,1,river,stream
+Alfta Fjörd,1,lagoon,basin
+Trostansfjörður,1,fjord,concave shoreline
+Leirtjörn,4,lake,basin
+Stodvar Fjord,1,fjord,concave shoreline
+Mosfellskvísl,1,river,stream
+Mynnisvötn,1,lake,basin
+Rembingur,1,shoal,underwater elevation
+Eystri-Jökulsá,1,river,stream
+Efstadalsvatn,1,lake,basin
+Araós,1,lagoon,basin
+Syd-Floi,1,bay,concave shoreline
+Vestdalsvatn,1,lake,basin
+Geitdalsá,1,river,stream
+Lambárvatn,1,lake,basin
+Kolbeinsdalsá,1,river,stream
+Kúlukvísl,1,river,stream
+Tröllkonufoss,1,waterfall,stream
+Papós,1,inlet,basin
+Skagafjörður,1,bay,concave shoreline
+Sprökunaggur,1,reef,underwater elevation
+Hrafns Fiord,1,fjord,concave shoreline
+Bergólfsstaðaá,1,river,stream
+Dragatunga,1,bog,marsh
+Kolkugrunn,1,bank,underwater elevation
+Núpsvatn,2,lake,basin
+Haukadalsá,1,river,stream
+Nyrðri-Skriðjökull,1,glacier,glacier
+Snæfellsjökull,1,icecap,glacier
+Kaldbaksvík,1,cove,concave shoreline
+Rauðfoss,2,waterfall,stream
+Hálá,1,river,stream
+Eyafjörður,1,fjord,concave shoreline
+Grændalsá,1,river,stream
+Tungnaárjökull,1,glacier,glacier
+Hemra,1,river,stream
+Fossvogr,1,cove,concave shoreline
+Hafragil,1,river,stream
+Bjarnapollur,1,pond,basin
+Bæjarvík,1,cove,concave shoreline
+Rauðabergsá,1,river,stream
+Svina,1,lake,basin
+Sniðfoss,1,waterfall,stream
+Kambsá,1,river,stream
+Hólmaá,1,river,stream
+Bæjarvaðall,1,lagoon,basin
+Brúarárbotnar,1,river,stream
+Hrútafjarðaráll,1,channel,strait
+Nypsfjördr,1,fjord,concave shoreline
+Steinunnarvatn,1,lake,basin
+Geiþellnaá,1,river,stream
+Faxebugt,1,bay,concave shoreline
+Nordhurjökull,1,glacier,glacier
+Katadalsá,1,river,stream
+Langagil,1,river,stream
+Skaft,1,river,stream
+Yztakvísl,1,river,stream
+Hvammsvík,1,bay,concave shoreline
+Fossárdrög,1,river,stream
+Geldingsá,1,river,stream
+Malarrif,1,reef,underwater elevation
+Klyfberadrag,1,river,stream
+Grensdalsá,1,river,stream
+Skerbrún,1,shoal,underwater elevation
+Kaldaklofskvísl,1,river,stream
+Hoffellsá,1,river,stream
+Naggur,1,shoal,underwater elevation
+Hofstaðavogur,1,cove,concave shoreline
+Múlakvísl,1,river,stream
+Seltjörn,1,lakes,basin
+Kúaflói,1,bog,marsh
+Hagavatn,3,lake,basin
+Lambafellskvísl,2,river,stream
+Steiná,1,river,stream
+Þóris,1,lake,basin
+Fremri-Lambá,2,river,stream
+Leyningar,1,bog,marsh
+Skrauma,1,river,stream
+Austurgil,1,river,stream
+Huna Fiord,1,bay,concave shoreline
+Vaðlavík,1,bay,concave shoreline
+Eldvatnsós,1,mouth,concave shoreline
+Veiðileysuá,1,river,stream
+Bjarnafoss,1,waterfall,stream
+Rangá ytri,1,river,stream
+Bæjartjarnir,1,lakes,basin
+Eustri-Rangá,1,river,stream
+Sandfellskvísl,1,river,stream
+Krókalón,1,cove,concave shoreline
+Mývatn,1,lake,basin
+Skuggafjallakvísl,1,river,stream
+Oraejökull,1,icecap,glacier
+Víðinesá,1,river,stream
+Fjorðungs,1,lake,basin
+Flag,1,bog,marsh
+Rauðilækur,1,river,stream
+Fljótagrunn,1,bank,underwater elevation
+Reykjakvísl,1,river,stream
+Smirlatjörn,1,lake,basin
+Önundar Fjörd,1,fjord,concave shoreline
+Víðáttur,1,bog,marsh
+Lónaland,1,bog,marsh
+Þorvaldsvatn,1,lake,basin
+Básavík,1,cove,concave shoreline
+Kleppsvík,1,bay,concave shoreline
+Sandkrókur,1,cove,concave shoreline
+Árnaneslón,1,lagoon,basin
+Bitru Fiord,1,fjord,concave shoreline
+Breiða Fiord,1,bay,concave shoreline
+Gauksstaðaá,1,river,stream
+Bakkaflói,1,bay,concave shoreline
+Borgar Fjord,1,fjord,concave shoreline
+Djúpavík,1,cove,concave shoreline
+Fuglabjargaá,1,river,stream
+Skipavatn,1,lake,basin
+Gegnisvík,1,cove,concave shoreline
+Kisa,2,river,stream
+Satuvík,1,cove,concave shoreline
+Ljósifoss,1,waterfall,stream
+Gunnlaugsboði,1,reef,underwater elevation
+Urriðavötn,1,lakes,basin
+Álavatn,1,lake,basin
+Blautakvísl,6,river,stream
+Vestara-Gilsvatn,1,lake,basin
+Kirfi,1,cove,concave shoreline
+Bæjarvötn,1,lakes,basin
+Fossfjörður,1,fjord,concave shoreline
+Herðísarvík,1,bay,concave shoreline
+Regnbuðajöklar,1,glacier,glacier
+Breidalsbugt,1,bay,concave shoreline
+Sauravatn,1,lake,basin
+Vestari-Koíá,1,river,stream
+Merkigil,1,river,stream
+Melavík,1,cove,concave shoreline
+Svarfvardals,1,bay,concave shoreline
+Skeiðará,1,river,stream
+Háreksstaðakvísl,1,river,stream
+Fláajökull,1,glacier,glacier
+Geirþjófsfjörður,1,fjord,concave shoreline
+Smalatjörn,1,lake,basin
+Markós,2,inlet,basin
+Eyja Fjord,1,fjord,concave shoreline
+Atlastaðaá,1,river,stream
+Stapavík,2,cove,concave shoreline
+Torftjörn,1,lake,basin
+Hagatjörn,1,lake,basin
+Hafralón,1,lake,basin
+Fljót,1,bog,marsh
+Ástjörn,1,lake,basin
+Ingvararfoss,1,waterfall,stream
+Lambshagaá,1,river,stream
+Bæjardalsá,1,river,stream
+Valgerðarhlaup,1,lake,basin
+Austari Jökulsá,1,river,stream
+Skógá,1,river,stream
+Kötlugrunn,1,bank,underwater elevation
+Hnífárver,1,bog,marsh
+Hest,1,lake,basin
+Hvítárfoss,1,waterfall,stream
+Skálargil,1,river,stream
+Frakkavatn,1,lake,basin
+Kornsárvatn,1,lake,basin
+Heimaey Harbor,1,harbor,concave shoreline
+Fjarðarsker,1,reef,underwater elevation
+Eyvindarkvísl,1,river,stream
+Hvanntjörn,1,lake,basin
+Laxárvogur,1,cove,concave shoreline
+Fljótaá,1,river,stream
+Breiðavatnskvísl,1,river,stream
+Hallarvötn,1,lake,basin
+Hörsvík,1,cove,concave shoreline
+Finna Fjörd,1,fjord,concave shoreline
+Nyrðriófæra,1,lake,basin
+Rjúpnabrekkujökull,1,glacier,glacier
+Mjólká,1,river,stream
+Mjóadalsá,2,river,stream
+Blöndutjörn,1,lake,basin
+Mordísarvatn,1,lake,basin
+Hesþallarvatn,1,lake,basin
+Halldórsgil,1,river,stream
+Hagalækur,1,river,stream
+Breiðamerkur,1,glacier,glacier
+Djúpboði,1,reef,underwater elevation
+Þistil Fiord,1,bay,concave shoreline
+Fljótavatn,1,lake,basin
+Fjaraðara,1,river,stream
+Mýrdalsvík,1,bay,concave shoreline
+Eyjarvatn,1,lake,basin
+Vigrafjörður,1,bay,concave shoreline
+Brúará,3,river,stream
+Eldvatn,1,river,stream
+Seydis Fjörd,1,fjord,concave shoreline
+Fjarðboði,1,reef,underwater elevation
+Skeljungsá,1,river,stream
+Eyjafjörður,1,fjord,concave shoreline
+Tumavík,1,cove,concave shoreline
+Alftaskálará,1,river,stream
+Tóaá,1,river,stream
+Miðkvísl,3,river,stream
+Jóká,1,river,stream
+Kvíaós,1,mouth,concave shoreline
+Galtarárflói,1,bog,marsh
+Hafnar Fjord,1,bay,concave shoreline
+Stæðavötn,1,lakes,basin
+Gæsavötn,1,lakes,basin
+Vestaradrag,1,river,stream
+Jokul Fiord,1,fjord,concave shoreline
+Norðlingafljót,1,river,stream
+Mýrabugur,1,bight,concave shoreline
+Villingavatn,1,lake,basin
+Jafnavatn,1,lake,basin
+Veitubakkalækur,1,river,stream
+Arfasker,1,reef,underwater elevation
+Hornafjarðarfljót,1,bay,concave shoreline
+Hrossamýrar,1,bog,marsh
+Hjerads Flói,1,bay,concave shoreline
+Urriðavatn,2,lake,basin
+Djúpalón,1,lake,basin
+Hofsvötn,1,lakes,basin
+Kerlingagíl,1,river,stream
+Breiðamerkurjökull,1,glacier,glacier
+Selhólmur,1,bog,marsh
+Grýta,1,river,stream
+Hölkná,6,river,stream
+Fnjóská,1,river,stream
+Kerlingarfoss,1,waterfall,stream
+Midfjorður,1,fjord,concave shoreline
+Merkurjökull,1,glacier,glacier
+Blafellskvísl,1,river,stream
+Litlisjór,1,lake,basin
+Fjósabölt,1,lake,basin

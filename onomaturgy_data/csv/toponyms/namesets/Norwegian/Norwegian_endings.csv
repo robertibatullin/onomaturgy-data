@@ -1,0 +1,316 @@
+place_category,ending
+basin,sjø
+basin,len
+basin,ren
+basin,ene
+basin,sen
+basin,ten
+basin,vik
+basin,vann
+basin,dals
+basin,ngen
+basin,tjenn
+basin,sjöen
+basin,tjern
+basin,avatn
+basin,rvatn
+basin,evand
+basin,åvatn
+basin,ivatn
+basin,evatn
+basin,kvatn
+basin,mvatn
+basin,tvatn
+basin,tjønn
+basin,dvatn
+basin,dammen
+basin,vatnan
+basin,vandet
+basin,javrit
+basin,ssjøen
+basin,avatnet
+basin,vvatnet
+basin,tvatnet
+basin,dvatnet
+basin,tjennet
+basin,fjorden
+basin,ngsjøen
+basin,åvatnet
+basin,tjernet
+basin,evannet
+basin,nvatnet
+basin,rvatnet
+basin,jávrrit
+basin,dalsvatn
+basin,jevatnet
+basin,levatnet
+basin,kkvatnet
+basin,vikvatnet
+basin,landsvatnet
+concave shoreline,vik
+concave shoreline,viki
+concave shoreline,osen
+concave shoreline,hamn
+concave shoreline,svika
+concave shoreline,tvika
+concave shoreline,evika
+concave shoreline,sfjord
+concave shoreline,vuotna
+concave shoreline,vuodna
+concave shoreline,sbukta
+concave shoreline,svågen
+concave shoreline,luokta
+concave shoreline,enfjord
+concave shoreline,sfjorden
+concave shoreline,afjorden
+concave shoreline,efjorden
+concave shoreline,erfjorden
+concave shoreline,øyfjorden
+convex shoreline,get
+convex shoreline,dnes
+convex shoreline,eneset
+convex shoreline,sneset
+convex shoreline,rneset
+convex shoreline,aneset
+convex shoreline,lneset
+convex shoreline,klubben
+convex shoreline,onjárga
+convex shoreline,stangen
+convex shoreline,vikneset
+convex shoreline,nesodden
+convex shoreline,bergneset
+convex shoreline,fjordneset
+depression,dal
+depression,ddalen
+depression,rdalen
+depression,sdalen
+depression,adalen
+depression,edalen
+elevated area,åsen
+elevation,lia
+elevation,ane
+elevation,ven
+elevation,lla
+elevation,lua
+elevation,man
+elevation,gan
+elevation,kja
+elevation,ten
+elevation,heia
+elevation,tind
+elevation,aren
+elevation,dene
+elevation,mpen
+elevation,øysa
+elevation,boen
+elevation,oaivi
+elevation,gåsen
+elevation,såsen
+elevation,aasen
+elevation,høgda
+elevation,ingen
+elevation,uåsen
+elevation,fjeld
+elevation,rbåen
+elevation,skjær
+elevation,allen
+elevation,berget
+elevation,tinden
+elevation,haugen
+elevation,kollen
+elevation,holmen
+elevation,sfjell
+elevation,oai’vi
+elevation,bakken
+elevation,varden
+elevation,kfjell
+elevation,enåsen
+elevation,teinen
+elevation,skjera
+elevation,efjell
+elevation,nnåsen
+elevation,fjeldet
+elevation,skjeran
+elevation,lifjell
+elevation,grunnen
+elevation,afjellet
+elevation,efjellet
+elevation,dskjeret
+elevation,dfjellet
+elevation,dalsfjellet
+island,røy
+island,ane
+island,øyi
+island,vær
+island,søy
+island,øen
+island,døy
+island,ene
+island,øyni
+island,møya
+island,nöen
+island,køya
+island,løya
+island,øyna
+island,ngen
+island,holme
+island,erøya
+island,flesa
+island,lsøya
+island,suolu
+island,holman
+island,sholmen
+island,tholmen
+island,skjeret
+island,nholmen
+marsh,emyr
+marsh,smyr
+marsh,lmyr
+marsh,emyra
+marsh,gmyra
+marsh,rmåsan
+marsh,esmyra
+marsh,emåsan
+marsh,stadmåsan
+populated place,ane
+populated place,eid
+populated place,ing
+populated place,elv
+populated place,öen
+populated place,øya
+populated place,lia
+populated place,sli
+populated place,tet
+populated place,hus
+populated place,rga
+populated place,eby
+populated place,lle
+populated place,men
+populated place,ang
+populated place,rem
+populated place,nan
+populated place,ven
+populated place,tun
+populated place,tre
+populated place,bru
+populated place,gan
+populated place,nna
+populated place,nen
+populated place,net
+populated place,snes
+populated place,erud
+populated place,berg
+populated place,åsen
+populated place,heim
+populated place,evik
+populated place,haug
+populated place,svåg
+populated place,vika
+populated place,rvik
+populated place,sdal
+populated place,foss
+populated place,rdal
+populated place,erød
+populated place,stua
+populated place,rnes
+populated place,lien
+populated place,moen
+populated place,srød
+populated place,sund
+populated place,svær
+populated place,gård
+populated place,sten
+populated place,lset
+populated place,rdet
+populated place,bukt
+populated place,agen
+populated place,kken
+populated place,eter
+populated place,tnes
+populated place,nvik
+populated place,myra
+populated place,eren
+populated place,dnes
+populated place,avik
+populated place,knes
+populated place,ddal
+populated place,ygga
+populated place,jøen
+populated place,gard
+populated place,sand
+populated place,tvet
+populated place,estad
+populated place,lstad
+populated place,sland
+populated place,viken
+populated place,svaag
+populated place,gstad
+populated place,rstad
+populated place,nstad
+populated place,shamn
+populated place,anger
+populated place,angen
+populated place,vågen
+populated place,neset
+populated place,genes
+populated place,stein
+populated place,eigen
+populated place,svoll
+populated place,lsvik
+populated place,kedal
+populated place,ebygd
+populated place,pstad
+populated place,lsrud
+populated place,evoll
+populated place,tveit
+populated place,sæter
+populated place,sfjord
+populated place,berget
+populated place,ndalen
+populated place,sletta
+populated place,bråtan
+populated place,efjord
+populated place,haugen
+populated place,edalen
+populated place,jorden
+populated place,vollen
+populated place,strand
+populated place,sdalen
+populated place,bråten
+populated place,rdalen
+populated place,teland
+populated place,geland
+populated place,estranda
+populated place,fjordbotn
+shoreline,odden
+shoreline,sstranda
+strait,sund
+strait,sundet
+stream,nåa
+stream,aaen
+stream,selv
+stream,nelva
+stream,selva
+stream,bekken
+stream,fossen
+stream,selven
+stream,fjordelva
+underwater elevation,gen
+underwater elevation,det
+underwater elevation,ene
+underwater elevation,flua
+underwater elevation,båen
+underwater elevation,flui
+underwater elevation,båan
+underwater elevation,taren
+underwater elevation,akken
+underwater elevation,grunn
+underwater elevation,skallen
+underwater elevation,skolten
+underwater elevation,lgrunnen
+underwater elevation,dgrunnen
+underwater elevation,rgrunnen
+underwater elevation,grunnane
+underwater elevation,øygrunnen
+underwater elevation,nesgrunnen
+underwater elevation,einsgrunnen

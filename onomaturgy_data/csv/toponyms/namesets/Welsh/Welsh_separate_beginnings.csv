@@ -1,0 +1,54 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,2
+stream,<NONE>,42
+populated place,<NONE>,639
+elevation,<NONE>,11
+elevated area,<NONE>,4
+island,<NONE>,4
+convex shoreline,<NONE>,6
+populated place,Aber,2
+convex shoreline,Aber,2
+stream,Afon,47
+elevation,Aran,3
+elevation,Arenig,2
+populated place,Bettws,9
+elevation,Bryn,2
+elevation,Cader,2
+populated place,Capel,11
+underwater elevation,Careg,3
+elevation,Carn,2
+elevation,Carnedd,3
+underwater elevation,Carreg,4
+populated place,Conwil,3
+elevation,Craig,2
+convex shoreline,Craig,2
+populated place,Cwm,5
+depression,Cwm,3
+populated place,Llanddewi,3
+populated place,Llanfair,3
+populated place,Llanfihangel,15
+convex shoreline,Lleyn,2
+populated place,Llwyn,2
+basin,Llyn,10
+elevation,Maen,2
+elevation,Moel,10
+elevation,Moelwyn,2
+populated place,Morfa,4
+elevation,Mynydd,12
+elevated area,Mynydd,4
+depression,Nant,3
+elevation,Pen,2
+convex shoreline,Pen,13
+populated place,Pen,8
+populated place,Pentre,3
+populated place,Pont,7
+concave shoreline,Porth,10
+populated place,Rhyd,5
+populated place,Tre,3
+convex shoreline,Trwyn,9
+elevation,Y,3
+elevation,Ynys,2
+island,Ynys,8
+elevation,Yr,2
+populated place,Yspytty,3
+populated place,Ystrad,2

@@ -1,0 +1,43 @@
+place_category,separate_ending,frequency
+basin,<NONE>,144
+stream,<NONE>,550
+strait,<NONE>,8
+populated place,<NONE>,1183
+marsh,<NONE>,18
+island,<NONE>,11
+elevation,<NONE>,839
+elevated area,<NONE>,50
+depression,<NONE>,23
+convex shoreline,<NONE>,5
+underwater elevation,<NONE>,8
+concave shoreline,<NONE>,2
+stream,Au,4
+stream,Bak,135
+elevated area,Berg,5
+elevation,Berg,448
+elevated area,Berga,15
+concave shoreline,Boddan,2
+marsh,Bruk,3
+stream,Brunnan,2
+concave shoreline,Bukt,4
+elevation,Buhl,3
+stream,Fleit,2
+stream,Graban,34
+depression,Grund,2
+populated place,Heida,2
+elevation,Haua,12
+elevation,Hugel,2
+elevation,Kop,26
+elevation,Ley,3
+marsh,Luk,2
+stream,Luppa,2
+marsh,Marsk,2
+marsh,Moos,3
+marsh,Moos,2
+basin,Sea,66
+elevation,Stein,4
+elevation,Danna,3
+basin,Deik,14
+stream,Deif,3
+basin,Weihes,7
+basin,Weik,3

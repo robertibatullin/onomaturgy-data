@@ -1,0 +1,114 @@
+place_category,separate_ending,frequency
+stream,<NONE>,232
+basin,<NONE>,4
+elevation,<NONE>,39
+concave shoreline,<NONE>,3
+island,<NONE>,6
+underwater elevation,<NONE>,19
+convex shoreline,<NONE>,8
+depression,<NONE>,13
+populated place,<NONE>,804
+underwater elevation,Bank,19
+underwater elevation,Banks,3
+underwater elevation,Bar,3
+concave shoreline,Bay,94
+shoreline,Beach,2
+elevation,Beacon,6
+stream,Beck,32
+elevation,Bell,2
+elevation,Blackstone,2
+stream,Blithe,2
+stream,Blyth,2
+stream,Blythe,2
+depression,Bowl,2
+populated place,Bridge,4
+stream,Brook,4
+stream,Burn,45
+underwater elevation,Bush,4
+convex shoreline,Cape,2
+elevation,Car,5
+elevation,Carr,3
+strait,Channel,17
+convex shoreline,Cheek,2
+depression,Chine,3
+elevation,Cliff,7
+concave shoreline,Cove,11
+elevation,Crag,2
+elevation,Crags,2
+stream,Creek,5
+depression,Dale,7
+elevation,Down,9
+elevation,Downs,3
+populated place,End,2
+elevation,Fell,25
+marsh,Fen,2
+underwater elevation,Flats,6
+convex shoreline,Foreland,2
+elevation,Goldstone,2
+convex shoreline,Head,54
+populated place,Heath,3
+elevation,Hill,42
+underwater elevation,Hill,2
+populated place,Hill,11
+elevation,Hills,5
+elevated area,Hills,7
+underwater elevation,Hirst,3
+island,Island,27
+island,Islands,2
+underwater elevation,Knoll,3
+basin,Lake,4
+underwater elevation,Ledge,7
+stream,Line,3
+area,Lowland,3
+stream,Lyne,4
+marsh,Marsh,3
+underwater elevation,Middle,4
+elevated area,Mountains,2
+elevation,Nab,2
+convex shoreline,Nab,4
+convex shoreline,Ness,13
+populated place,Newton,3
+stream,Ouse,3
+underwater elevation,Patch,2
+elevation,Pen,2
+elevation,Pike,6
+elevation,Pikes,2
+area,Plain,4
+convex shoreline,Point,144
+concave shoreline,Pool,2
+convex shoreline,Portland,2
+underwater elevation,Reef,2
+underwater elevation,Ridge,3
+stream,River,17
+underwater elevation,Rock,13
+elevation,Rock,31
+underwater elevation,Rocks,4
+elevation,Rocks,16
+underwater elevation,Sand,26
+shoreline,Sands,2
+underwater elevation,Sands,5
+underwater elevation,Scroby,2
+elevation,Seat,6
+underwater elevation,Shambles,3
+underwater elevation,Shoal,6
+strait,Sound,3
+elevation,Steps,2
+populated place,Stoke,3
+island,Stone,2
+elevation,Stone,9
+stream,Stour,4
+strait,Swale,3
+basin,Tarn,3
+elevation,Tor,6
+populated place,Trent,3
+stream,Tyne,4
+depression,Vale,2
+depression,Valley,5
+strait,Wash,2
+basin,Water,11
+stream,Water,7
+populated place,Wells,2
+underwater elevation,Wharf,3
+elevation,Whernside,2
+concave shoreline,Wyke,3
+stream,Yeo,5

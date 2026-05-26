@@ -1,0 +1,498 @@
+{
+  "ethnonyms": [
+    "Baltic.csv",
+    "Celtic.csv",
+    "Germanic.csv",
+    "Slavic.csv"
+  ],
+  "names/Abkhazian": [
+    "abkhazian_m.csv",
+    "abkhazian_s.csv"
+  ],
+  "names/Afghan": [
+    "afghan_f.csv",
+    "afghan_m.csv",
+    "afghan_s.csv"
+  ],
+  "names/Albanian": [
+    "albanian_f.csv",
+    "albanian_m.csv",
+    "albanian_s.csv"
+  ],
+  "names/AngloSaxon": [
+    "anglosaxon_f.csv",
+    "anglosaxon_m.csv"
+  ],
+  "names/Arabic": [
+    "libyan_f.csv",
+    "libyan_m.csv",
+    "libyan_s.csv",
+    "syrian_f.csv",
+    "syrian_m.csv",
+    "syrian_s.csv"
+  ],
+  "names/Armenian": [
+    "armenian_f.csv",
+    "armenian_m.csv",
+    "armenian_s.csv"
+  ],
+  "names/Azeri": [
+    "azeri_f.csv",
+    "azeri_m.csv",
+    "azeri_s.csv",
+    "azeri_sf.csv",
+    "azeri_sm.csv"
+  ],
+  "names/Burmese": [
+    "burmese_f.csv",
+    "burmese_m.csv",
+    "burmese_s.csv"
+  ],
+  "names/Czech": [
+    "czech_f.csv",
+    "czech_m.csv",
+    "czech_sf.csv",
+    "czech_sm.csv"
+  ],
+  "names/Danish": [
+    "danish_f.csv",
+    "danish_m.csv",
+    "danish_s.csv"
+  ],
+  "names/Dutch": [
+    "dutch_f.csv",
+    "dutch_m.csv",
+    "dutch_s.csv"
+  ],
+  "names/EarlyByzantine": [
+    "early_byzantine_f.csv",
+    "early_byzantine_m.csv"
+  ],
+  "names/English": [
+    "british_f.csv",
+    "british_m.csv",
+    "british_s.csv"
+  ],
+  "names/Estonian": [
+    "estonian_f.csv",
+    "estonian_m.csv",
+    "estonian_s.csv"
+  ],
+  "names/Faeroese": [
+    "faeroese_f.csv",
+    "faeroese_m.csv",
+    "faeroese_s.csv"
+  ],
+  "names/Finnish": [
+    "finnish_f.csv",
+    "finnish_m.csv",
+    "finnish_s.csv"
+  ],
+  "names/French": [
+    "french_f.csv",
+    "french_m.csv",
+    "french_s.csv"
+  ],
+  "names/Georgian": [
+    "georgian_f.csv",
+    "georgian_m.csv",
+    "georgian_s.csv"
+  ],
+  "names/German": [
+    "german_f.csv",
+    "german_m.csv",
+    "german_s.csv"
+  ],
+  "names/Gothic": [
+    "gothic_f.csv",
+    "gothic_m.csv"
+  ],
+  "names/Greek": [
+    "greek_f.csv",
+    "greek_m.csv",
+    "greek_s.csv"
+  ],
+  "names/Hungarian": [
+    "hungarian_f.csv",
+    "hungarian_m.csv",
+    "hungarian_s.csv"
+  ],
+  "names/Icelandic": [
+    "icelandic_f.csv",
+    "icelandic_m.csv"
+  ],
+  "names/Indian": [
+    "indian_f.csv",
+    "indian_m.csv",
+    "indian_s.csv",
+    "nepali_f.csv",
+    "nepali_m.csv",
+    "nepali_s.csv",
+    "sri_lankan_f.csv",
+    "sri_lankan_m.csv",
+    "sri_lankan_s.csv"
+  ],
+  "names/Iranian": [
+    "iranian_f.csv",
+    "iranian_m.csv",
+    "iranian_s.csv"
+  ],
+  "names/Irish": [
+    "irish_f.csv",
+    "irish_m.csv",
+    "irish_s.csv"
+  ],
+  "names/Italian": [
+    "italian_f.csv",
+    "italian_m.csv",
+    "italian_s.csv"
+  ],
+  "names/Kazakh": [
+    "kazakh_f.csv",
+    "kazakh_m.csv",
+    "kazakh_sf.csv",
+    "kazakh_sm.csv"
+  ],
+  "names/Khmer": [
+    "khmer_f.csv",
+    "khmer_m.csv",
+    "khmer_s.csv"
+  ],
+  "names/Laotian": [
+    "laotian_f.csv",
+    "laotian_m.csv",
+    "laotian_s.csv"
+  ],
+  "names/Latvian": [
+    "latvian_f.csv",
+    "latvian_m.csv",
+    "latvian_sf.csv",
+    "latvian_sm.csv"
+  ],
+  "names/Lithuanian": [
+    "lithuanian_f.csv",
+    "lithuanian_m.csv",
+    "lithuanian_sf.csv",
+    "lithuanian_sm.csv"
+  ],
+  "names/Malay": [
+    "malay_f.csv",
+    "malay_m.csv",
+    "malay_s.csv"
+  ],
+  "names/Maltese": [
+    "maltese_f.csv",
+    "maltese_m.csv",
+    "maltese_s.csv"
+  ],
+  "names/Norwegian": [
+    "norwegian_f.csv",
+    "norwegian_m.csv",
+    "norwegian_s.csv"
+  ],
+  "names/OldGerman": [
+    "frankish_f.csv",
+    "frankish_m.csv"
+  ],
+  "names/OldIrish": [
+    "old_irish_f.csv",
+    "old_irish_m.csv"
+  ],
+  "names/OldNorse": [
+    "norse_f.csv",
+    "norse_m.csv"
+  ],
+  "names/OldWelsh": [
+    "old_welsh_f.csv",
+    "old_welsh_m.csv"
+  ],
+  "names/Polish": [
+    "polish_f.csv",
+    "polish_m.csv",
+    "polish_s.csv",
+    "polish_sf.csv",
+    "polish_sm.csv"
+  ],
+  "names/Portuguese": [
+    "brazilian_f.csv",
+    "brazilian_m.csv",
+    "brazilian_s.csv",
+    "portuguese_f.csv",
+    "portuguese_m.csv",
+    "portuguese_s.csv"
+  ],
+  "names/PseudoOldFinnic": [
+    "pseudo_old_finnic_f.csv",
+    "pseudo_old_finnic_m.csv"
+  ],
+  "names/Romanian": [
+    "romanian_f.csv",
+    "romanian_m.csv",
+    "romanian_s.csv"
+  ],
+  "names/Russian": [
+    "russian_f.csv",
+    "russian_m.csv",
+    "russian_pf.csv",
+    "russian_pm.csv",
+    "russian_sf.csv",
+    "russian_sm.csv"
+  ],
+  "names/SerboCroatian": [
+    "croatian_f.csv",
+    "croatian_m.csv",
+    "croatian_s.csv",
+    "serbian_f.csv",
+    "serbian_m.csv",
+    "serbian_s.csv"
+  ],
+  "names/Spanish": [
+    "spanish_f.csv",
+    "spanish_m.csv",
+    "spanish_s.csv"
+  ],
+  "names/Swedish": [
+    "swedish_f.csv",
+    "swedish_m.csv",
+    "swedish_s.csv"
+  ],
+  "names/Thai": [
+    "thai_f.csv",
+    "thai_m.csv",
+    "thai_s.csv"
+  ],
+  "names/Turkish": [
+    "turkish_f.csv",
+    "turkish_m.csv",
+    "turkish_s.csv"
+  ],
+  "names/Uzbek": [
+    "uzbek_f.csv",
+    "uzbek_m.csv",
+    "uzbek_sf.csv",
+    "uzbek_sm.csv"
+  ],
+  "names/Vietnamese": [
+    "vietnamese_f.csv",
+    "vietnamese_m.csv",
+    "vietnamese_s.csv"
+  ],
+  "toponyms": [
+    "patterns.csv",
+    "place_types.csv"
+  ],
+  "toponyms/namesets/Abkhazian": [
+    "Abkhazian.csv",
+    "Abkhazian_beginnings.csv",
+    "Abkhazian_cleared.csv",
+    "Abkhazian_endings.csv",
+    "Abkhazian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Armenian": [
+    "Armenian.csv",
+    "Armenian_beginnings.csv",
+    "Armenian_cleared.csv",
+    "Armenian_endings.csv",
+    "Armenian_separate_beginnings.csv",
+    "Armenian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Azerbaijani": [
+    "Azerbaijani.csv",
+    "Azerbaijani_beginnings.csv",
+    "Azerbaijani_cleared.csv",
+    "Azerbaijani_endings.csv",
+    "Azerbaijani_separate_beginnings.csv",
+    "Azerbaijani_separate_endings.csv"
+  ],
+  "toponyms/namesets/Basque": [
+    "Basque.csv"
+  ],
+  "toponyms/namesets/Catalan": [
+    "Catalan.csv"
+  ],
+  "toponyms/namesets/Croatian": [
+    "Croatian.csv",
+    "Croatian_beginnings.csv",
+    "Croatian_cleared.csv",
+    "Croatian_endings.csv",
+    "Croatian_separate_beginnings.csv",
+    "Croatian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Czech": [
+    "Czech.csv",
+    "Czech_beginnings.csv",
+    "Czech_cleared.csv",
+    "Czech_endings.csv",
+    "Czech_separate_beginnings.csv",
+    "Czech_separate_endings.csv"
+  ],
+  "toponyms/namesets/Danish": [
+    "Danish.csv",
+    "Danish_beginnings.csv",
+    "Danish_cleared.csv",
+    "Danish_endings.csv",
+    "Danish_separate_beginnings.csv",
+    "Danish_separate_endings.csv"
+  ],
+  "toponyms/namesets/Dutch": [
+    "Dutch.csv",
+    "Dutch_beginnings.csv",
+    "Dutch_cleared.csv",
+    "Dutch_endings.csv",
+    "Dutch_separate_beginnings.csv",
+    "Dutch_separate_endings.csv"
+  ],
+  "toponyms/namesets/English": [
+    "English.csv",
+    "English_beginnings.csv",
+    "English_cleared.csv",
+    "English_endings.csv",
+    "English_separate_beginnings.csv",
+    "English_separate_endings.csv"
+  ],
+  "toponyms/namesets/Estonian": [
+    "Estonian.csv",
+    "Estonian_beginnings.csv",
+    "Estonian_cleared.csv",
+    "Estonian_endings.csv",
+    "Estonian_separate_beginnings.csv",
+    "Estonian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Finnish": [
+    "Finnish.csv",
+    "Finnish_beginnings.csv",
+    "Finnish_cleared.csv",
+    "Finnish_endings.csv",
+    "Finnish_separate_beginnings.csv",
+    "Finnish_separate_endings.csv"
+  ],
+  "toponyms/namesets/French": [
+    "French.csv"
+  ],
+  "toponyms/namesets/Georgian": [
+    "Georgian.csv",
+    "Georgian_beginnings.csv",
+    "Georgian_cleared.csv",
+    "Georgian_endings.csv",
+    "Georgian_separate_beginnings.csv",
+    "Georgian_separate_endings.csv"
+  ],
+  "toponyms/namesets/German": [
+    "German.csv",
+    "German_beginnings.csv",
+    "German_cleared.csv",
+    "German_endings.csv",
+    "German_separate_beginnings.csv",
+    "German_separate_endings.csv"
+  ],
+  "toponyms/namesets/Gothic": [
+    "Gothic.csv",
+    "Gothic_beginnings.csv",
+    "Gothic_cleared.csv",
+    "Gothic_endings.csv",
+    "Gothic_separate_beginnings.csv",
+    "Gothic_separate_endings.csv"
+  ],
+  "toponyms/namesets/Icelandic": [
+    "Icelandic.csv",
+    "Icelandic_beginnings.csv",
+    "Icelandic_cleared.csv",
+    "Icelandic_endings.csv",
+    "Icelandic_separate_beginnings.csv",
+    "Icelandic_separate_endings.csv"
+  ],
+  "toponyms/namesets/Irish": [
+    "Irish.csv",
+    "Irish_beginnings.csv",
+    "Irish_cleared.csv",
+    "Irish_endings.csv",
+    "Irish_separate_beginnings.csv",
+    "Irish_separate_endings.csv"
+  ],
+  "toponyms/namesets/Italian": [
+    "Italian.csv"
+  ],
+  "toponyms/namesets/Latvian": [
+    "Latvian.csv",
+    "Latvian_beginnings.csv",
+    "Latvian_cleared.csv",
+    "Latvian_endings.csv",
+    "Latvian_separate_beginnings.csv",
+    "Latvian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Lithuanian": [
+    "Lithuanian.csv",
+    "Lithuanian_beginnings.csv",
+    "Lithuanian_cleared.csv",
+    "Lithuanian_endings.csv",
+    "Lithuanian_separate_beginnings.csv",
+    "Lithuanian_separate_endings.csv"
+  ],
+  "toponyms/namesets/NorthEastcaucasian": [
+    "NorthEastcaucasian.csv",
+    "NorthEastcaucasian_beginnings.csv",
+    "NorthEastcaucasian_cleared.csv",
+    "NorthEastcaucasian_endings.csv",
+    "NorthEastcaucasian_separate_beginnings.csv",
+    "NorthEastcaucasian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Norwegian": [
+    "Norwegian.csv",
+    "Norwegian_beginnings.csv",
+    "Norwegian_cleared.csv",
+    "Norwegian_endings.csv",
+    "Norwegian_separate_beginnings.csv",
+    "Norwegian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Ossetian": [
+    "Ossetian.csv",
+    "Ossetian_beginnings.csv",
+    "Ossetian_cleared.csv",
+    "Ossetian_endings.csv",
+    "Ossetian_separate_beginnings.csv",
+    "Ossetian_separate_endings.csv"
+  ],
+  "toponyms/namesets/Polish": [
+    "Polish.csv",
+    "Polish_beginnings.csv",
+    "Polish_cleared.csv",
+    "Polish_endings.csv",
+    "Polish_separate_beginnings.csv",
+    "Polish_separate_endings.csv"
+  ],
+  "toponyms/namesets/RomanWest": [
+    "RomanWest.csv",
+    "RomanWest_beginnings.csv",
+    "RomanWest_cleared.csv",
+    "RomanWest_endings.csv",
+    "RomanWest_separate_beginnings.csv",
+    "RomanWest_separate_endings.csv"
+  ],
+  "toponyms/namesets/Scottish": [
+    "Scottish.csv",
+    "Scottish_beginnings.csv",
+    "Scottish_cleared.csv",
+    "Scottish_endings.csv",
+    "Scottish_separate_beginnings.csv",
+    "Scottish_separate_endings.csv"
+  ],
+  "toponyms/namesets/Spanish": [
+    "Spanish.csv"
+  ],
+  "toponyms/namesets/Swedish": [
+    "Swedish.csv",
+    "Swedish_beginnings.csv",
+    "Swedish_cleared.csv",
+    "Swedish_endings.csv",
+    "Swedish_separate_beginnings.csv",
+    "Swedish_separate_endings.csv"
+  ],
+  "toponyms/namesets/Welsh": [
+    "Welsh.csv",
+    "Welsh_beginnings.csv",
+    "Welsh_cleared.csv",
+    "Welsh_endings.csv",
+    "Welsh_separate_beginnings.csv",
+    "Welsh_separate_endings.csv"
+  ]
+}

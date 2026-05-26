@@ -1,0 +1,297 @@
+place_category,ending
+basin,uri
+basin,kka
+basin,jávri
+basin,ilampi
+basin,nselkä
+basin,äjärvi
+basin,slampi
+basin,lammit
+basin,olampi
+basin,järvet
+basin,ulampi
+basin,âjävri
+basin,tlampi
+basin,ljävri
+basin,alammi
+basin,ölampi
+basin,ljärvi
+basin,älampi
+basin,lammet
+basin,elampi
+basin,änlampi
+basin,onlampi
+basin,inlahti
+basin,anlampi
+basin,enjärvi
+basin,isjävri
+basin,änjärvi
+basin,usjärvi
+basin,unlampi
+basin,anlahti
+basin,tijärvi
+basin,injärvi
+basin,lojärvi
+basin,lajärvi
+basin,unlammi
+basin,ikainen
+basin,inlampi
+basin,asjärvi
+basin,mojärvi
+basin,jajärvi
+basin,kajärvi
+basin,onjärvi
+basin,kkalampi
+basin,senlampi
+concave shoreline,nperä
+concave shoreline,olahti
+concave shoreline,kaarre
+concave shoreline,nselkä
+concave shoreline,slahti
+concave shoreline,onlahti
+concave shoreline,unlahti
+concave shoreline,talahti
+concave shoreline,kalahti
+concave shoreline,senlahti
+concave shoreline,linlahti
+concave shoreline,länlahti
+concave shoreline,janlahti
+concave shoreline,rinlahti
+concave shoreline,alanlahti
+concave shoreline,päänlahti
+concave shoreline,skanlahti
+convex shoreline,lot
+convex shoreline,kari
+convex shoreline,nnokka
+convex shoreline,aniemi
+convex shoreline,oniemi
+convex shoreline,iniemi
+convex shoreline,nkärki
+convex shoreline,sniemi
+convex shoreline,äniemi
+convex shoreline,nsaari
+convex shoreline,inniemi
+convex shoreline,unniemi
+convex shoreline,nkallio
+convex shoreline,konniemi
+convex shoreline,isenniemi
+convex shoreline,alanniemi
+depression,nnotko
+elevated area,ret
+elevated area,nharju
+elevated area,nsärkkä
+elevated area,ankalliot
+elevation,nen
+elevation,maa
+elevation,kari
+elevation,apää
+elevation,luoto
+elevation,amäki
+elevation,smäki
+elevation,kivet
+elevation,akivi
+elevation,vääri
+elevation,imäki
+elevation,nvaara
+elevation,nharju
+elevation,komäki
+elevation,ivaara
+elevation,nsaari
+elevation,avaara
+elevation,nrinne
+elevation,asaari
+elevation,envuori
+elevation,rinmäki
+elevation,isvaara
+elevation,aanmäki
+elevation,onvuori
+elevation,skallio
+elevation,monmäki
+elevation,kanmäki
+elevation,honmäki
+elevation,janmäki
+elevation,junmäki
+elevation,isvuori
+elevation,invuori
+elevation,inkallio
+elevation,onkallio
+elevation,kanvuori
+elevation,ilänmäki
+elevation,ankangas
+elevation,lamminmäki
+elevation,sillanmäki
+elevation,ttusenmäki
+island,salo
+island,inen
+island,ssaari
+island,osaari
+island,isaari
+island,asaari
+island,usaari
+island,tsaari
+island,enkari
+island,nluoto
+island,kallio
+island,insaari
+island,onsaari
+island,ansaari
+island,nsaaret
+island,sensaari
+marsh,kkö
+marsh,asuo
+marsh,räme
+marsh,isuo
+marsh,usuo
+marsh,onsuo
+marsh,änsuo
+marsh,rahka
+marsh,jänkä
+marsh,önsuo
+marsh,assuo
+marsh,lampi
+marsh,kosuo
+marsh,enneva
+marsh,lansuo
+marsh,anneva
+marsh,njärvi
+marsh,niitty
+marsh,vensuo
+marsh,kaneva
+marsh,rensuo
+marsh,nniittu
+marsh,inkorpi
+marsh,nkeidas
+marsh,ankorpi
+marsh,osensuo
+marsh,lamminsuo
+populated place,ilä
+populated place,aho
+populated place,ela
+populated place,aka
+populated place,eri
+populated place,pää
+populated place,ölä
+populated place,hto
+populated place,ppi
+populated place,ois
+populated place,oli
+populated place,kaa
+populated place,älä
+populated place,kas
+populated place,joki
+populated place,isto
+populated place,tala
+populated place,tila
+populated place,noja
+populated place,anen
+populated place,ikko
+populated place,uoma
+populated place,pola
+populated place,imaa
+populated place,kula
+populated place,onen
+populated place,rola
+populated place,tola
+populated place,pula
+populated place,atti
+populated place,unki
+populated place,hala
+populated place,vesi
+populated place,vala
+populated place,mala
+populated place,osuo
+populated place,sari
+populated place,tari
+populated place,sola
+populated place,akka
+populated place,amäki
+populated place,oinen
+populated place,iperä
+populated place,aperä
+populated place,omäki
+populated place,lampi
+populated place,harju
+populated place,selkä
+populated place,imäki
+populated place,sböle
+populated place,pohja
+populated place,akylä
+populated place,ttula
+populated place,asalo
+populated place,anmaa
+populated place,skylä
+populated place,ämäki
+populated place,isalo
+populated place,operä
+populated place,korpi
+populated place,ikylä
+populated place,pelto
+populated place,inmäki
+populated place,nvaara
+populated place,onkylä
+populated place,kangas
+populated place,nranta
+populated place,lainen
+populated place,ajärvi
+populated place,nkoski
+populated place,kallio
+populated place,iniemi
+populated place,slahti
+populated place,isperä
+populated place,asalmi
+populated place,sjärvi
+populated place,ijärvi
+populated place,niitty
+populated place,änmäki
+populated place,inkylä
+populated place,loukko
+populated place,ilahti
+populated place,oniemi
+populated place,ovaara
+populated place,anperä
+populated place,avuori
+populated place,ujärvi
+populated place,olahti
+populated place,avaara
+populated place,onperä
+populated place,ikkala
+populated place,usaari
+populated place,laakso
+populated place,alahti
+populated place,njärvi
+populated place,lanmäki
+populated place,anniemi
+populated place,unkulma
+populated place,änkulma
+populated place,enkulma
+populated place,konmäki
+populated place,senmäki
+populated place,ensalmi
+populated place,senkylä
+populated place,asniemi
+populated place,enniemi
+populated place,lankulma
+populated place,alankylä
+shoreline,anranta
+strait,asalmi
+strait,isalmi
+strait,ensalmi
+strait,ansalmi
+stream,enoja
+stream,ajoki
+stream,inoja
+stream,johka
+stream,ipuro
+stream,spuro
+stream,ojoki
+stream,onoja
+stream,injoki
+stream,nluoma
+stream,anpuro
+stream,lanoja
+stream,onjoki
+stream,unpuro
+stream,ankoski
+stream,senpuro
+stream,lanjoki
+stream,inkoski

@@ -1,0 +1,52 @@
+place_category,separate_ending,frequency
+basin,<NONE>,70
+stream,<NONE>,99
+strait,<NONE>,10
+shoreline,<NONE>,2
+populated place,<NONE>,906
+marsh,<NONE>,8
+island,<NONE>,25
+elevation,<NONE>,73
+elevated area,<NONE>,2
+convex shoreline,<NONE>,12
+concave shoreline,<NONE>,5
+underwater elevation,<NONE>,14
+stream,Aa,3
+stream,Bach,2
+stream,Beek,25
+stream,Beerze,3
+elevation,Berg,6
+populated place,Berg,3
+elevated area,Bergen,2
+populated place,Broek,3
+stream,Diep,5
+populated place,Donk,3
+basin,Ee,3
+island,Eiland,4
+basin,Gat,4
+populated place,Hees,3
+populated place,Heide,5
+convex shoreline,Hoek,5
+populated place,Hoeven,2
+populated place,Hoorn,2
+populated place,Keer,2
+stream,Kreek,5
+stream,Laak,2
+populated place,Leeuwte,3
+stream,Lei,2
+stream,Leij,3
+basin,Man,2
+basin,Meer,5
+basin,Meeren,2
+basin,Moer,2
+populated place,Noord,2
+basin,Veen,3
+marsh,Veen,4
+populated place,Veen,2
+marsh,Venen,2
+stream,Vliet,4
+basin,Wasmeer,3
+stream,Watergang,2
+stream,Wetering,4
+populated place,Zand,10
+populated place,Zee,2

@@ -1,0 +1,315 @@
+place_category,ending
+basin,sen
+basin,ten
+basin,len
+basin,nan
+basin,orn
+basin,eln
+basin,ern
+basin,sjø
+basin,rden
+basin,sken
+basin,ssjö
+basin,järv
+basin,lven
+basin,lsjön
+basin,tsjön
+basin,vsjön
+basin,taure
+basin,dsjön
+basin,msjön
+basin,ösjön
+basin,naren
+basin,ammen
+basin,åsjön
+basin,gesjön
+basin,sasjön
+basin,gssjön
+basin,nträsk
+basin,cksjön
+basin,sviken
+basin,sksjön
+basin,lången
+basin,issjön
+basin,åssjön
+basin,lssjön
+basin,ltjärn
+basin,nesjön
+basin,ensjön
+basin,ansjön
+basin,iksjön
+basin,sträsk
+basin,rtjärn
+basin,otjärn
+basin,sjöarna
+basin,kstjärn
+basin,ingsjön
+basin,ebosjön
+basin,tjärnen
+basin,versjön
+basin,arpsjön
+basin,tersjön
+basin,llingen
+basin,stasjön
+basin,sträsket
+basin,svattnet
+basin,vträsket
+basin,hultasjön
+concave shoreline,vik
+concave shoreline,fjärd
+concave shoreline,sviken
+concave shoreline,eviken
+concave shoreline,aviken
+concave shoreline,rviken
+concave shoreline,fjorden
+concave shoreline,sfjärden
+concave shoreline,afjärden
+convex shoreline,näs
+convex shoreline,holm
+convex shoreline,näset
+convex shoreline,sudde
+convex shoreline,holmen
+convex shoreline,nabben
+convex shoreline,dsudden
+elevated area,åsen
+elevation,ken
+elevation,gen
+elevation,ket
+elevation,eln
+elevation,tten
+elevation,kero
+elevation,ppen
+elevation,anen
+elevation,vardo
+elevation,båden
+elevation,sberg
+elevation,vålen
+elevation,haran
+elevation,aåsen
+elevation,ällen
+elevation,bådan
+elevation,såsen
+elevation,låsen
+elevation,nören
+elevation,tarna
+elevation,rskär
+elevation,eberg
+elevation,grund
+elevation,hällan
+elevation,skäret
+elevation,kullen
+elevation,aliden
+elevation,leskär
+elevation,knölen
+elevation,nliden
+elevation,grundet
+elevation,nberget
+elevation,eberget
+elevation,sjöberg
+elevation,tholmen
+elevation,lberget
+elevation,grunden
+elevation,sholmen
+elevation,shöjden
+elevation,eskären
+elevation,vberget
+elevation,skobben
+elevation,llholmen
+elevation,sfjället
+elevation,åsberget
+elevation,erberget
+elevation,saberget
+elevation,laberget
+elevation,ssberget
+elevation,ksberget
+elevation,ttberget
+elevation,sjöberget
+elevation,myrberget
+elevation,ingsberget
+elevation,allsberget
+island,lsö
+island,ten
+island,den
+island,gen
+island,dön
+island,arö
+island,lön
+island,ören
+island,erön
+island,holm
+island,rsön
+island,llen
+island,nskär
+island,holme
+island,askär
+island,lskär
+island,skäret
+island,sholmen
+island,grundet
+island,nholmen
+island,kholmen
+island,terskär
+island,tkobben
+island,dholmen
+island,vholmen
+island,tholmen
+island,elholmen
+island,sholmarna
+island,erholmarna
+marsh,ape
+marsh,smyran
+marsh,mossen
+marsh,smyren
+marsh,avuoma
+marsh,lmyren
+populated place,ebo
+populated place,sås
+populated place,äng
+populated place,ing
+populated place,hem
+populated place,arö
+populated place,mon
+populated place,vet
+populated place,sby
+populated place,ren
+populated place,ara
+populated place,dja
+populated place,nna
+populated place,ene
+populated place,ven
+populated place,ark
+populated place,ved
+populated place,lle
+populated place,det
+populated place,lbo
+populated place,rås
+populated place,lby
+populated place,eryd
+populated place,sbyn
+populated place,inge
+populated place,bäck
+populated place,eröd
+populated place,enäs
+populated place,åsen
+populated place,gård
+populated place,borg
+populated place,arbo
+populated place,nsjö
+populated place,erum
+populated place,ared
+populated place,lund
+populated place,land
+populated place,snäs
+populated place,holm
+populated place,erup
+populated place,ebol
+populated place,aryd
+populated place,lsbo
+populated place,skog
+populated place,hamn
+populated place,ksta
+populated place,åker
+populated place,mora
+populated place,nbyn
+populated place,ssjö
+populated place,sund
+populated place,rsta
+populated place,kärr
+populated place,ebyn
+populated place,narp
+populated place,rsbo
+populated place,lösa
+populated place,leby
+populated place,svik
+populated place,dala
+populated place,gsbo
+populated place,mmen
+populated place,gsjö
+populated place,karp
+populated place,msjö
+populated place,jaur
+populated place,erbo
+populated place,ebro
+populated place,eden
+populated place,ered
+populated place,fall
+populated place,tjärn
+populated place,etorp
+populated place,backa
+populated place,shult
+populated place,ntorp
+populated place,sberg
+populated place,ingen
+populated place,säter
+populated place,allen
+populated place,eboda
+populated place,dalen
+populated place,lunda
+populated place,sfors
+populated place,liden
+populated place,småla
+populated place,efors
+populated place,näset
+populated place,kedal
+populated place,estad
+populated place,riset
+populated place,ttorp
+populated place,nerud
+populated place,berga
+populated place,sbruk
+populated place,eberg
+populated place,rhult
+populated place,rberg
+populated place,tsjön
+populated place,lsjön
+populated place,berget
+populated place,gården
+populated place,backen
+populated place,sviken
+populated place,ekulla
+populated place,sjärvi
+populated place,fallet
+populated place,sträsk
+populated place,forsen
+populated place,gträsk
+populated place,mstorp
+populated place,ingeby
+populated place,rstorp
+populated place,ällsta
+populated place,holmen
+populated place,sätter
+populated place,marken
+populated place,slanda
+populated place,shyttan
+populated place,vattnet
+populated place,sbodarna
+strait,fjärden
+stream,sån
+stream,aån
+stream,lan
+stream,kån
+stream,eån
+stream,rån
+stream,ätno
+stream,älven
+stream,sjöån
+stream,sbäck
+stream,forsen
+stream,sbäcken
+stream,kbäcken
+underwater elevation,sen
+underwater elevation,ken
+underwater elevation,ten
+underwater elevation,dan
+underwater elevation,kan
+underwater elevation,arna
+underwater elevation,aren
+underwater elevation,sgrund
+underwater elevation,ebåden
+underwater elevation,berget
+underwater elevation,grunden
+underwater elevation,knallen
+underwater elevation,ergrund
+underwater elevation,rsgrundet
+underwater elevation,nsgrundet
+underwater elevation,gsgrundet

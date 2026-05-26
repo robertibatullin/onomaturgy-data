@@ -1,0 +1,99 @@
+place_category,separate_ending,frequency
+area,<NONE>,2
+marsh,<NONE>,13
+basin,<NONE>,20
+populated place,<NONE>,799
+elevation,<NONE>,357
+elevated area,<NONE>,15
+depression,<NONE>,33
+island,<NONE>,32
+convex shoreline,<NONE>,7
+strait,<NONE>,2
+concave shoreline,<NONE>,26
+stream,<NONE>,219
+basin,Blato,3
+concave shoreline,Bok,2
+island,Borovnik,3
+populated place,Brdo,5
+elevation,Brdo,31
+elevation,Breg,3
+populated place,Breg,5
+elevation,Brig,4
+populated place,Brodski,2
+depression,Do,6
+populated place,Do,2
+depression,Dolac,3
+depression,Draga,13
+populated place,Draga,2
+concave shoreline,Draga,5
+depression,Drage,4
+concave shoreline,Drvenik,2
+elevation,Glava,7
+elevation,Glavica,24
+convex shoreline,Glavina,2
+elevation,Gora,2
+elevated area,Gorje,2
+populated place,Gornje,2
+populated place,Gornji,2
+elevation,Grad,3
+elevation,Greda,4
+elevated area,Grede,2
+elevation,Hum,4
+stream,Jarak,3
+basin,Jezera,2
+basin,Jezero,10
+convex shoreline,Juraj,3
+elevation,Kamen,2
+island,Kamenišnjak,2
+basin,Kanal,2
+strait,Kanal,3
+populated place,Kloštar,2
+elevation,Kosa,12
+elevated area,Kosa,4
+populated place,Kraj,3
+elevation,Kuk,7
+populated place,Kuće,3
+convex shoreline,Lenga,3
+elevation,Ljut,4
+basin,Lokva,3
+basin,Luka,2
+concave shoreline,Luka,21
+island,Mala,5
+island,Mali,7
+island,Otok,2
+island,Ošljak,2
+elevated area,Planina,4
+elevation,Planina,2
+elevation,Plješevica,2
+populated place,Polje,5
+area,Polje,2
+convex shoreline,Poluostrov,2
+concave shoreline,Porat,3
+stream,Potok,18
+populated place,Potok,5
+concave shoreline,Povljana,3
+convex shoreline,Pošta,2
+island,Proizd,2
+island,Prvić,2
+populated place,Pustara,4
+stream,Reka,8
+stream,Rijeka,8
+convex shoreline,Rt,7
+populated place,Selo,24
+elevation,Strana,3
+concave shoreline,Tatinja,3
+concave shoreline,Triluke,2
+elevation,Umac,5
+concave shoreline,Vala,3
+island,Vela,4
+island,Veli,6
+populated place,Vlast,2
+concave shoreline,Vlašić,2
+stream,Voda,8
+strait,Vrata,2
+stream,Vrelo,14
+elevation,Vrh,28
+elevation,Vršak,7
+concave shoreline,Zaliv,13
+concave shoreline,Zaljev,3
+concave shoreline,Zaton,2

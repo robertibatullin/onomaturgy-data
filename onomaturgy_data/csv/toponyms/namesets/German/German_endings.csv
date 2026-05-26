@@ -1,0 +1,310 @@
+place_category,ending
+basin,ter
+basin,ger
+basin,ker
+basin,che
+basin,ener
+basin,ssee
+basin,meer
+basin,cken
+basin,esee
+basin,chsee
+basin,itzer
+basin,liner
+basin,insee
+basin,pfuhl
+basin,stsee
+basin,tzsee
+basin,lensee
+basin,tensee
+basin,chower
+basin,gersee
+basin,zowsee
+basin,gelsee
+basin,lteich
+basin,felder
+basin,sdorfer
+basin,enteich
+basin,lweiher
+basin,enweiher
+convex shoreline,ort
+depression,ngrund
+depression,gental
+elevated area,ner
+elevated area,berg
+elevated area,öpfe
+elevated area,enberge
+elevation,der
+elevation,ler
+elevation,els
+elevation,ers
+elevation,sen
+elevation,gen
+elevation,den
+elevation,mer
+elevation,ain
+elevation,rts
+elevation,zer
+elevation,mel
+elevation,rst
+elevation,and
+elevation,sse
+elevation,ser
+elevation,ppel
+elevation,auer
+elevation,ckel
+elevation,tten
+elevation,rger
+elevation,burg
+elevation,cken
+elevation,wald
+elevation,cher
+elevation,horn
+elevation,pitz
+elevation,acht
+elevation,ener
+elevation,mberg
+elevation,tberg
+elevation,shöhe
+elevation,hügel
+elevation,kberg
+elevation,hübel
+elevation,gberg
+elevation,fberg
+elevation,aberg
+elevation,inger
+elevation,schen
+elevation,leite
+elevation,scheid
+elevation,nsberg
+elevation,dsberg
+elevation,hlberg
+elevation,seberg
+elevation,erhöhe
+elevation,enhöhe
+elevation,ndberg
+elevation,alberg
+elevation,erkopf
+elevation,tsberg
+elevation,rnberg
+elevation,lstein
+elevation,neberg
+elevation,elkopf
+elevation,skuppe
+elevation,deberg
+elevation,usberg
+elevation,esberg
+elevation,senberg
+elevation,ersberg
+elevation,benberg
+elevation,zenberg
+elevation,terberg
+elevation,senkopf
+elevation,denberg
+elevation,itzberg
+elevation,einberg
+elevation,städter
+elevation,denkopf
+elevation,menberg
+elevation,eerberg
+elevation,elskopf
+elevation,ngsberg
+elevation,erskopf
+elevation,felberg
+elevation,ochberg
+elevation,erstein
+elevation,ttenberg
+elevation,hlenberg
+elevation,llenberg
+elevation,chenberg
+elevation,nnenberg
+elevation,nkenberg
+elevation,ngenberg
+elevation,chelberg
+elevation,lenstein
+elevation,selsberg
+elevation,uschberg
+elevation,ahrenberg
+island,erder
+marsh,moor
+marsh,bruch
+populated place,pen
+populated place,lin
+populated place,tel
+populated place,ham
+populated place,len
+populated place,tal
+populated place,eln
+populated place,zin
+populated place,ang
+populated place,der
+populated place,ien
+populated place,kel
+populated place,nau
+populated place,ven
+populated place,mar
+populated place,all
+populated place,ock
+populated place,loh
+populated place,rth
+populated place,ber
+populated place,uch
+populated place,orn
+populated place,lde
+populated place,and
+populated place,kau
+populated place,ker
+populated place,rde
+populated place,holz
+populated place,shof
+populated place,ding
+populated place,ling
+populated place,eier
+populated place,nsen
+populated place,rich
+populated place,wald
+populated place,eben
+populated place,rath
+populated place,litz
+populated place,tern
+populated place,cken
+populated place,höfe
+populated place,thal
+populated place,lach
+populated place,esch
+populated place,chau
+populated place,grün
+populated place,esen
+populated place,titz
+populated place,elle
+populated place,isch
+populated place,sche
+populated place,erhof
+populated place,sfeld
+populated place,rbach
+populated place,ewitz
+populated place,zdorf
+populated place,lberg
+populated place,eritz
+populated place,enhof
+populated place,lbach
+populated place,erode
+populated place,hütte
+populated place,ichen
+populated place,reuth
+populated place,brunn
+populated place,nrode
+populated place,stede
+populated place,inden
+populated place,mbeck
+populated place,dbach
+populated place,cking
+populated place,nheim
+populated place,sreut
+populated place,kofen
+populated place,efeld
+populated place,szell
+populated place,ntrup
+populated place,eroth
+populated place,horst
+populated place,enbach
+populated place,enburg
+populated place,erberg
+populated place,isdorf
+populated place,enhain
+populated place,lingen
+populated place,dingen
+populated place,enfeld
+populated place,nsdorf
+populated place,nhofen
+populated place,nsbach
+populated place,fingen
+populated place,bergen
+populated place,esberg
+populated place,warden
+populated place,ernitz
+populated place,enbeck
+populated place,scheid
+populated place,lstein
+populated place,wangen
+populated place,garten
+populated place,erfeld
+populated place,ersdorf
+populated place,sendorf
+populated place,enstedt
+populated place,sweiler
+populated place,tenberg
+populated place,stetten
+populated place,tendorf
+populated place,enhagen
+populated place,rendorf
+populated place,kirchen
+populated place,ersheim
+populated place,lhausen
+populated place,enhausen
+populated place,enweiler
+populated place,nnhausen
+populated place,olzhausen
+populated place,linghausen
+populated place,ertshausen
+strait,alje
+stream,ner
+stream,der
+stream,ler
+stream,ker
+stream,lbe
+stream,ste
+stream,eke
+stream,mer
+stream,äke
+stream,sch
+stream,hle
+stream,ser
+stream,sse
+stream,lze
+stream,sel
+stream,nitz
+stream,aine
+stream,ndel
+stream,cher
+stream,auer
+stream,dter
+stream,erau
+stream,tief
+stream,ecke
+stream,mbach
+stream,gbach
+stream,inger
+stream,dbach
+stream,ubach
+stream,kanal
+stream,tbach
+stream,abach
+stream,elbach
+stream,sebach
+stream,rnbach
+stream,esbach
+stream,ißbach
+stream,tenbach
+stream,terbach
+stream,schbach
+stream,brunnen
+stream,egraben
+stream,senbach
+stream,einbach
+stream,henbach
+stream,ichbach
+stream,derbach
+stream,denbach
+stream,ggraben
+stream,ierbach
+stream,elsbach
+stream,engraben
+stream,nnenbach
+stream,lersbach
+stream,llenbach
+stream,nitzbach
+stream,ckenbach
+stream,nkenbach
+stream,chsgraben
+underwater elevation,grund

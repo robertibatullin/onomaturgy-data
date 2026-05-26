@@ -1,0 +1,33 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,54
+stream,<NONE>,158
+strait,<NONE>,5
+populated place,<NONE>,1006
+marsh,<NONE>,24
+island,<NONE>,257
+elevation,<NONE>,31
+convex shoreline,<NONE>,130
+underwater elevation,<NONE>,8
+concave shoreline,<NONE>,20
+island,Aegna,3
+convex shoreline,Kõpu,3
+island,Lõuna,5
+stream,Metsküla,3
+basin,Mullutu,4
+populated place,Myza,36
+populated place,Mäe,3
+convex shoreline,Pakri,3
+convex shoreline,Panga,3
+convex shoreline,Pika,3
+island,Põhja,4
+island,Sur,4
+island,Suur,12
+basin,Suur,2
+concave shoreline,Suur,2
+strait,Suur,2
+populated place,Suur,5
+convex shoreline,Suurupi,2
+populated place,Vana,7
+island,Veyke,3
+populated place,Väike,4
+island,Väike,6

@@ -1,0 +1,81 @@
+place_category,separate_beginning,frequency
+depression,<NONE>,13
+elevation,<NONE>,39
+stream,<NONE>,232
+island,<NONE>,6
+populated place,<NONE>,804
+underwater elevation,<NONE>,19
+convex shoreline,<NONE>,8
+basin,<NONE>,4
+concave shoreline,<NONE>,3
+elevation,Beacon,3
+populated place,Bishops,2
+stream,Black,3
+convex shoreline,Black,2
+elevation,Black,6
+convex shoreline,Carn,2
+convex shoreline,Chapel,2
+populated place,Church,3
+underwater elevation,East,4
+populated place,East,9
+elevation,Eastern,2
+island,Farn,2
+island,Farne,2
+elevation,Great,15
+populated place,Great,11
+stream,Great,5
+island,Great,2
+elevation,Gull,4
+elevation,Gulland,2
+underwater elevation,High,2
+elevation,High,7
+convex shoreline,Hopes,2
+underwater elevation,Inner,3
+convex shoreline,Isle,2
+island,Isle,6
+populated place,Kingston,2
+populated place,Kirby,2
+populated place,Kirk,2
+populated place,Kirkby,2
+stream,Little,6
+elevation,Little,4
+populated place,Little,14
+populated place,Long,10
+elevation,Long,2
+populated place,Lower,5
+underwater elevation,Middle,2
+elevation,Mount,10
+populated place,Nether,3
+populated place,New,2
+populated place,Newton,7
+elevation,North,2
+underwater elevation,North,3
+populated place,North,13
+populated place,Old,2
+elevation,Old,5
+area,Plain,2
+concave shoreline,Porth,2
+convex shoreline,Portland,2
+convex shoreline,Red,2
+stream,River,227
+populated place,South,9
+convex shoreline,South,3
+underwater elevation,South,4
+populated place,Stoke,5
+populated place,Sutton,4
+elevated area,The,6
+elevation,The,18
+stream,The,3
+convex shoreline,The,5
+underwater elevation,The,18
+strait,The,6
+populated place,Upper,2
+populated place,Upton,2
+depression,Vale,7
+underwater elevation,West,3
+stream,West,2
+populated place,West,10
+stream,White,2
+convex shoreline,White,2
+underwater elevation,White,2
+concave shoreline,Whitesand,2
