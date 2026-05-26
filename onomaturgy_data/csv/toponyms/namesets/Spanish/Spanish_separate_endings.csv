@@ -1,0 +1,194 @@
+place_category,separate_ending,frequency
+area,<NONE>,10
+basin,<NONE>,76
+basin,Abajo,2
+basin,Chica,2
+basin,Grande,2
+basin,Laguna,2
+basin,Larga,2
+concave shoreline,<NONE>,78
+concave shoreline,Cádiz,2
+concave shoreline,Gaviotas,2
+concave shoreline,Pi,2
+concave shoreline,Tirant,2
+convex shoreline,<NONE>,286
+convex shoreline,Areiño,2
+convex shoreline,Ballota,2
+convex shoreline,Blanca,5
+convex shoreline,Blanco,4
+convex shoreline,Ciprián,2
+convex shoreline,Estay,2
+convex shoreline,Falcoeiro,2
+convex shoreline,Falcó,2
+convex shoreline,Fraile,6
+convex shoreline,Gat,2
+convex shoreline,Jandía,2
+convex shoreline,Langosteira,2
+convex shoreline,Mar,2
+convex shoreline,Marrajos,2
+convex shoreline,Morro,3
+convex shoreline,Pared,2
+convex shoreline,Perro,2
+convex shoreline,Rovira,2
+convex shoreline,Sabina,2
+convex shoreline,Salinas,2
+convex shoreline,Sancha,2
+convex shoreline,Torrella,2
+depression,<NONE>,47
+depression,Baztán,2
+depression,Moro,2
+depression,Nava,2
+elevated area,<NONE>,205
+elevated area,Alberca,2
+elevated area,Aljibe,2
+elevated area,Cabrera,3
+elevated area,Gallego,2
+elevated area,Grossa,2
+elevated area,Larga,3
+elevated area,María,2
+elevated area,Matanza,3
+elevated area,Pelada,2
+elevated area,Picachos,2
+elevated area,Sagra,2
+elevated area,Santos,2
+elevated area,Tornajos,2
+elevated area,Torozo,2
+elevated area,Valle,2
+elevated area,Ávila,2
+elevation,<NONE>,277
+elevation,Aguilón,2
+elevation,Alto,3
+elevation,Cuervo,3
+elevation,Faro,2
+elevation,Gorda,3
+elevation,Gordo,4
+elevation,Iguala,2
+elevation,Mayor,2
+elevation,Nieves,2
+elevation,Plata,2
+elevation,Raja,2
+elevation,Viento,2
+island,<NONE>,62
+island,Bledas,2
+island,Galera,2
+island,Horadada,2
+marsh,<NONE>,4
+populated place,<NONE>,1266
+populated place,Abajo,7
+populated place,Adrián,10
+populated place,Alba,2
+populated place,Aliste,2
+populated place,Alto,2
+populated place,Andrés,52
+populated place,Aparecida,2
+populated place,Arriba,7
+populated place,Arroyos,2
+populated place,Bajo,2
+populated place,Barco,2
+populated place,Batán,5
+populated place,Bárbara,6
+populated place,Cadolla,2
+populated place,Campillo,2
+populated place,Campo,2
+populated place,Campos,4
+populated place,Cerrato,2
+populated place,Charcos,2
+populated place,Degollada,2
+populated place,Encina,3
+populated place,Estación,41
+populated place,Fondo,2
+populated place,Franco,2
+populated place,Frontera,2
+populated place,Guareña,2
+populated place,Laguna,2
+populated place,Llorente,3
+populated place,Luna,2
+populated place,Matanzas,2
+populated place,Monte,6
+populated place,Nuevo,2
+populated place,Ojeda,2
+populated place,Oncebreros,2
+populated place,Parte,3
+populated place,Paulenca,2
+populated place,Pedro,4
+populated place,Pedrosillo,2
+populated place,Pinos,4
+populated place,Poyo,2
+populated place,Pozuelo,4
+populated place,Puerto,4
+populated place,Puntal,7
+populated place,Páramo,2
+populated place,Rey,5
+populated place,Rábita,2
+populated place,Salvador,84
+populated place,Santa,2
+populated place,Sierra,2
+populated place,Tajuña,2
+populated place,Tercia,2
+populated place,Valle,2
+populated place,Vega,2
+populated place,Villa,2
+populated place,Viso,4
+populated place,Viña,2
+populated place,Zafra,2
+shoreline,<NONE>,47
+shoreline,Castilla,2
+shoreline,Madera,2
+shoreline,Negrete,2
+shoreline,Servera,2
+strait,<NONE>,2
+stream,<NONE>,688
+stream,Alcalá,2
+stream,Alcázar,2
+stream,Barzones,2
+stream,Batán,4
+stream,Caballo,4
+stream,Cabo,2
+stream,Calzadas,2
+stream,Cambrón,2
+stream,Casas,3
+stream,Cañada,3
+stream,Cañadas,2
+stream,Cañamares,2
+stream,Cañas,4
+stream,Caño,3
+stream,Chorro,3
+stream,Conchas,2
+stream,Cuco,2
+stream,Fraile,3
+stream,Gato,5
+stream,Guirres,2
+stream,Herrero,2
+stream,Higuera,2
+stream,Honda,3
+stream,Horcajo,6
+stream,Hoz,7
+stream,Izcala,2
+stream,Linares,4
+stream,Lobo,2
+stream,María,10
+stream,Matanza,2
+stream,Mesta,2
+stream,Molinos,12
+stream,Monte,2
+stream,Mora,4
+stream,Moro,2
+stream,Navas,4
+stream,Parra,3
+stream,Parrilla,7
+stream,Peces,2
+stream,Pueblo,2
+stream,Puerto,3
+stream,Requejo,2
+stream,Ribera,6
+stream,Rivera,8
+stream,Soto,2
+stream,Teja,2
+stream,Toro,2
+stream,Valles,3
+stream,Vega,31
+stream,Verde,5
+stream,Viso,2
+stream,Viñas,3
+stream,Ñazre,2
+underwater elevation,<NONE>,24

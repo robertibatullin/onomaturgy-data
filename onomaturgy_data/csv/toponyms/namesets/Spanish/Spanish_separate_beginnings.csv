@@ -1,0 +1,136 @@
+place_category,separate_beginning,frequency
+area,<NONE>,3
+area,Llano,5
+area,Llanos,2
+basin,<NONE>,10
+basin,Balsa,6
+basin,Charca,5
+basin,La,2
+basin,Lago,3
+basin,Laguna,52
+basin,Pantano,2
+concave shoreline,<NONE>,9
+concave shoreline,Bahía,11
+concave shoreline,Boca,2
+concave shoreline,Cala,22
+concave shoreline,Caleta,3
+concave shoreline,Ensenada,16
+concave shoreline,Gola,2
+concave shoreline,Puerto,17
+convex shoreline,<NONE>,6
+convex shoreline,Baja,2
+convex shoreline,Cabo,39
+convex shoreline,Cap,3
+convex shoreline,El,4
+convex shoreline,La,5
+convex shoreline,Península,3
+convex shoreline,Punta,251
+convex shoreline,Puntal,2
+convex shoreline,Puntilla,2
+depression,<NONE>,1
+depression,Boca,2
+depression,Collado,12
+depression,Puerto,29
+depression,Valle,9
+elevated area,<NONE>,15
+elevated area,Cordillera,2
+elevated area,Cuerda,2
+elevated area,El,4
+elevated area,Loma,13
+elevated area,Lomas,2
+elevated area,Lomo,2
+elevated area,Los,2
+elevated area,Montaña,3
+elevated area,Montañas,3
+elevated area,Monte,4
+elevated area,Montes,8
+elevated area,Sierra,170
+elevation,<NONE>,66
+elevation,Alto,11
+elevation,Cabeza,5
+elevation,Cerro,46
+elevation,Cruz,3
+elevation,El,6
+elevation,La,15
+elevation,Las,3
+elevation,Loma,11
+elevation,Los,3
+elevation,Mesa,2
+elevation,Montaña,18
+elevation,Monte,30
+elevation,Peña,20
+elevation,Peñón,3
+elevation,Pico,11
+elevation,Piedra,2
+elevation,Punta,3
+elevation,Risco,3
+elevation,Roca,2
+elevation,Rocas,3
+elevation,Roque,6
+elevation,Sierra,25
+island,<NONE>,20
+island,Isla,32
+island,Islas,4
+island,Islote,8
+marsh,<NONE>,4
+populated place,<NONE>,798
+populated place,Aldeanueva,2
+populated place,Algimia,2
+populated place,Alquería,2
+populated place,Barriada,5
+populated place,Barrio,5
+populated place,Casa,6
+populated place,Casas,11
+populated place,Caserío,74
+populated place,Caseríos,2
+populated place,Castrillo,2
+populated place,Castro,2
+populated place,Cañada,2
+populated place,Cortijada,10
+populated place,Cortijo,12
+populated place,Cortijos,2
+populated place,El,47
+populated place,Estación,2
+populated place,Fuente,4
+populated place,Hoya,2
+populated place,La,95
+populated place,Las,6
+populated place,Los,22
+populated place,Mas,2
+populated place,Pobladura,2
+populated place,Porto,2
+populated place,Puerto,8
+populated place,Robledo,2
+populated place,San,177
+populated place,Santa,11
+populated place,Son,2
+populated place,Soto,2
+populated place,Tabanera,2
+populated place,Torre,4
+populated place,Valle,2
+populated place,Vega,2
+populated place,Villanueva,4
+populated place,Villar,9
+shoreline,<NONE>,2
+shoreline,Playa,49
+shoreline,Playas,3
+strait,<NONE>,2
+stream,<NONE>,14
+stream,Arroyo,442
+stream,Barranco,55
+stream,Cañada,4
+stream,Estero,2
+stream,Fuente,8
+stream,Garganta,5
+stream,Manantial,6
+stream,Rambla,50
+stream,Regato,9
+stream,Rio,2
+stream,Rivera,19
+stream,Río,247
+stream,Torrente,3
+underwater elevation,<NONE>,10
+underwater elevation,Bajo,8
+underwater elevation,Banco,2
+underwater elevation,El,2
+underwater elevation,Las,2

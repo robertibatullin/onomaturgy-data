@@ -1,0 +1,129 @@
+place_category,separate_beginning,frequency
+area,<NONE>,1
+area,Plaine,4
+basin,<NONE>,7
+basin,Lac,27
+basin,Le,2
+basin,Étang,48
+concave shoreline,<NONE>,10
+concave shoreline,Anse,14
+concave shoreline,Baie,12
+concave shoreline,Cala,3
+concave shoreline,Conche,2
+concave shoreline,Golfe,4
+concave shoreline,Porh,2
+concave shoreline,Port,19
+convex shoreline,<NONE>,8
+convex shoreline,Beg,5
+convex shoreline,Cap,13
+convex shoreline,Pointe,83
+convex shoreline,Punta,13
+depression,<NONE>,35
+depression,Bassin,2
+depression,Bocca,12
+depression,Brecha,2
+depression,Col,86
+depression,Coll,3
+depression,Collado,4
+depression,Colle,7
+depression,Gorges,2
+depression,Pas,5
+depression,Paso,2
+depression,Port,11
+depression,Portella,2
+depression,Puerto,5
+depression,Vallon,6
+depression,Vallée,6
+elevated area,<NONE>,17
+elevated area,Crête,7
+elevated area,Montagne,4
+elevated area,Monts,2
+elevated area,Rochers,2
+elevation,<NONE>,106
+elevation,Aiguille,13
+elevation,An,2
+elevation,Ar,2
+elevation,Basse,2
+elevation,Capo,11
+elevation,Capu,15
+elevation,Cima,6
+elevation,Cime,14
+elevation,Crêt,2
+elevation,Crête,5
+elevation,Dôme,2
+elevation,Er,2
+elevation,Grand,6
+elevation,Grande,2
+elevation,La,12
+elevation,Le,34
+elevation,Les,18
+elevation,Men,6
+elevation,Mont,67
+elevation,Montagne,27
+elevation,Monte,20
+elevation,Ouille,2
+elevation,Pech,2
+elevation,Petit,2
+elevation,Pic,58
+elevation,Pico,10
+elevation,Pointe,39
+elevation,Puig,3
+elevation,Punta,28
+elevation,Puy,6
+elevation,Roc,5
+elevation,Roche,14
+elevation,Rocher,11
+elevation,Rochers,7
+elevation,Roches,3
+elevation,Roc’h,2
+elevation,Serre,2
+elevation,Sommet,19
+elevation,Truc,2
+elevation,Tête,11
+elevation,Île,4
+glacier,<NONE>,1
+glacier,Glacier,11
+island,<NONE>,10
+island,Le,2
+island,Île,35
+island,Îles,5
+marsh,<NONE>,3
+marsh,Marais,7
+marsh,Étang,3
+populated place,<NONE>,1064
+populated place,Grand,3
+populated place,Grande,2
+populated place,Haute,3
+populated place,La,101
+populated place,Le,66
+populated place,Les,61
+populated place,Petit,2
+populated place,Saint,6
+shoreline,<NONE>,1
+shoreline,Plage,7
+strait,<NONE>,1
+stream,<NONE>,308
+stream,Bras,3
+stream,Gave,2
+stream,Grand,3
+stream,Grande,2
+stream,Jalle,2
+stream,La,137
+stream,Le,90
+stream,Les,3
+stream,Rivière,12
+stream,Ruisseau,140
+stream,Rû,2
+stream,Torrent,16
+stream,la,2
+underwater elevation,<NONE>,17
+underwater elevation,Banc,2
+underwater elevation,Basse,15
+underwater elevation,Kornog,2
+underwater elevation,La,4
+underwater elevation,Le,9
+underwater elevation,Les,7
+underwater elevation,Petite,2
+underwater elevation,Plateau,5
+underwater elevation,Ridins,2
+underwater elevation,Écueil,2

@@ -367,7 +367,12 @@
     "Finnish_separate_endings.csv"
   ],
   "toponyms/namesets/French": [
-    "French.csv"
+    "French.csv",
+    "French_beginnings.csv",
+    "French_cleared.csv",
+    "French_endings.csv",
+    "French_separate_beginnings.csv",
+    "French_separate_endings.csv"
   ],
   "toponyms/namesets/Georgian": [
     "Georgian.csv",
@@ -410,7 +415,12 @@
     "Irish_separate_endings.csv"
   ],
   "toponyms/namesets/Italian": [
-    "Italian.csv"
+    "Italian.csv",
+    "Italian_beginnings.csv",
+    "Italian_cleared.csv",
+    "Italian_endings.csv",
+    "Italian_separate_beginnings.csv",
+    "Italian_separate_endings.csv"
   ],
   "toponyms/namesets/Latvian": [
     "Latvian.csv",
@@ -477,7 +487,12 @@
     "Scottish_separate_endings.csv"
   ],
   "toponyms/namesets/Spanish": [
-    "Spanish.csv"
+    "Spanish.csv",
+    "Spanish_beginnings.csv",
+    "Spanish_cleared.csv",
+    "Spanish_endings.csv",
+    "Spanish_separate_beginnings.csv",
+    "Spanish_separate_endings.csv"
   ],
   "toponyms/namesets/Swedish": [
     "Swedish.csv",

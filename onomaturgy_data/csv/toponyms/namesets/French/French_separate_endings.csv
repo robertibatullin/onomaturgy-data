@@ -1,0 +1,97 @@
+place_category,separate_ending,frequency
+area,<NONE>,4
+basin,<NONE>,84
+concave shoreline,<NONE>,64
+concave shoreline,Sainte-Anne,2
+convex shoreline,<NONE>,115
+convex shoreline,Cappicciolo,2
+convex shoreline,Gautier,2
+convex shoreline,Grouin,3
+convex shoreline,Solche,2
+convex shoreline,d’Enfer,2
+depression,<NONE>,165
+depression,Fau,2
+depression,Porte,2
+depression,Rapari,2
+depression,Saint-Jean,2
+depression,Saleses,2
+depression,de,6
+depression,du,2
+depression,d’,2
+depression,d’Aquitaine,2
+depression,la,2
+depression,l’Albelle,2
+depression,l’Échelle,2
+elevated area,<NONE>,32
+elevation,<NONE>,557
+elevation,Aculone,2
+elevation,Berg,2
+elevation,Blanc,5
+elevation,Boeufs,2
+elevation,Campana,2
+elevation,Chaillol,2
+elevation,Cinto,2
+elevation,Cita,2
+elevation,Colombier,3
+elevation,Frères,2
+elevation,Gastaldi,2
+elevation,Géant,2
+elevation,Lauze,2
+elevation,Longo,2
+elevation,Marte,2
+elevation,Mercure,2
+elevation,Mont,2
+elevation,Morta,2
+elevation,Muro,2
+elevation,Neige,2
+elevation,Pelvas,2
+elevation,Pelvat,2
+elevation,Pierres,5
+elevation,Rossu,2
+elevation,Rouge,3
+elevation,Sorbi,2
+elevation,Stein,2
+elevation,Termes,3
+elevation,Vallon,2
+glacier,<NONE>,12
+island,<NONE>,52
+marsh,<NONE>,13
+populated place,<NONE>,1302
+populated place,Allards,2
+populated place,Bac,2
+populated place,Baux,4
+populated place,Bizots,2
+populated place,Bouillon,2
+populated place,Breuil,2
+populated place,Brosses,15
+populated place,Brunets,3
+populated place,Chabossière,2
+populated place,Didier,4
+populated place,Fare,2
+populated place,Fau,4
+populated place,Foye,3
+populated place,Loch,2
+populated place,Masures,3
+populated place,Motte,2
+populated place,Patrie,2
+populated place,Petit,2
+populated place,Pouge,3
+populated place,Roche,50
+populated place,Rue,2
+populated place,Tremblois,2
+shoreline,<NONE>,8
+strait,<NONE>,1
+stream,<NONE>,447
+stream,Avène,2
+stream,Borne,2
+stream,Parma,2
+stream,River,2
+stream,Rivière,192
+stream,Ruisseau,61
+stream,Torrent,14
+stream,Visandre,2
+underwater elevation,<NONE>,62
+underwater elevation,Braz,3
+underwater elevation,Chats,2
+underwater elevation,Dieppe,2
+underwater elevation,Four,3

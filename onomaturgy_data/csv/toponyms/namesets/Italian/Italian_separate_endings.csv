@@ -1,0 +1,144 @@
+place_category,separate_ending,frequency
+area,<NONE>,12
+basin,<NONE>,73
+basin,Biviere,2
+basin,Lusenzo,2
+basin,Malamocco,2
+basin,Martignano,2
+concave shoreline,<NONE>,74
+concave shoreline,Sant’Erasmo,2
+concave shoreline,Spezia,2
+concave shoreline,Turco,2
+convex shoreline,<NONE>,104
+convex shoreline,Agnadda,2
+convex shoreline,Bianca,3
+convex shoreline,Bianco,2
+convex shoreline,Cavallo,2
+convex shoreline,Colonne,2
+convex shoreline,Falcone,2
+convex shoreline,Levante,3
+convex shoreline,Mannu,2
+convex shoreline,Rosso,2
+convex shoreline,Ruia,2
+convex shoreline,Sardegna,2
+depression,<NONE>,190
+depression,Cisa,2
+depression,Gimont,2
+depression,Inferno,2
+depression,Joch,2
+depression,Maria,2
+depression,Oltra,3
+depression,Pass,2
+depression,Pombi,2
+depression,Tal,2
+depression,Valles,2
+depression,l’Autaret,2
+elevated area,<NONE>,36
+elevated area,Alps,3
+elevated area,Blanc,2
+elevated area,Marchigiano,2
+elevation,<NONE>,534
+elevation,Acuto,8
+elevation,Aguzzo,4
+elevation,Alto,2
+elevation,Argentario,2
+elevation,Bianca,2
+elevation,Camino,2
+elevation,Cani,2
+elevation,Capenardo,2
+elevation,Castello,6
+elevation,Cornacchia,2
+elevation,Croce,3
+elevation,Girard,2
+elevation,Grande,7
+elevation,Ladu,3
+elevation,Lorenzo,2
+elevation,Lungo,3
+elevation,Lupino,2
+elevation,Manna,3
+elevation,Mannu,3
+elevation,Mela,3
+elevation,Menue,2
+elevation,Monte,2
+elevation,Murgueu,2
+elevation,Nera,2
+elevation,Paradiso,2
+elevation,Passo,2
+elevation,Pera,2
+elevation,Pirastu,2
+elevation,Pizzi,3
+elevation,Rocca,3
+elevation,Sella,2
+elevation,Serra,2
+elevation,Stefano,3
+elevation,Vito,2
+elevation,Vittoria,2
+elevation,d’Ambin,2
+glacier,<NONE>,1
+island,<NONE>,61
+island,Formica,2
+island,Nibani,2
+marsh,<NONE>,1
+populated place,<NONE>,1071
+populated place,Bartolomeo,13
+populated place,Campo,2
+populated place,Donnino,2
+populated place,Garibaldi,2
+populated place,Genesio,2
+populated place,Giorgi,2
+populated place,Giácomo,2
+populated place,Inferiore,4
+populated place,Maddalena,2
+populated place,Maggiore,3
+populated place,Mannu,2
+populated place,Mare,2
+populated place,Marina,3
+populated place,Natisone,2
+populated place,Nova,2
+populated place,Nuovo,4
+populated place,Paolo,7
+populated place,Pellegrino,3
+populated place,Po,2
+populated place,Rabbi,2
+populated place,Reale,2
+populated place,Rossa,2
+populated place,Sabba,2
+populated place,Secca,2
+populated place,Sotto,2
+populated place,Superiore,3
+populated place,Taro,2
+populated place,Teverina,2
+populated place,Torri,2
+populated place,Valle,5
+populated place,Vecchia,4
+populated place,Ville,2
+populated place,Vittoria,3
+populated place,d’Adige,2
+shoreline,<NONE>,4
+strait,<NONE>,3
+stream,<NONE>,740
+stream,Almone,2
+stream,Argentina,2
+stream,Bagno,2
+stream,Barca,2
+stream,Bianco,3
+stream,Campo,2
+stream,Catona,2
+stream,Cresia,2
+stream,Figu,2
+stream,Fiumarella,3
+stream,Gadera,2
+stream,Grande,4
+stream,Leo,2
+stream,Maria,3
+stream,Nora,2
+stream,Osento,2
+stream,Pagliara,2
+stream,Perella,2
+stream,Rio,3
+stream,River,3
+stream,Santo,2
+stream,Sant’Antonio,2
+stream,Secco,5
+stream,Uso,2
+underwater elevation,<NONE>,8

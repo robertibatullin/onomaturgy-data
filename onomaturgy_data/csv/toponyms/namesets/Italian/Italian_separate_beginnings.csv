@@ -1,0 +1,168 @@
+place_category,separate_beginning,frequency
+area,<NONE>,8
+area,Pianura,2
+area,Planu,2
+basin,<NONE>,14
+basin,Foce,2
+basin,Lac,2
+basin,Lacus,2
+basin,Lago,40
+basin,Laguna,3
+basin,Lake,2
+basin,Porto,4
+basin,Stagno,6
+basin,Valle,4
+concave shoreline,<NONE>,14
+concave shoreline,Bocca,2
+concave shoreline,Cala,22
+concave shoreline,Foce,4
+concave shoreline,Golfo,12
+concave shoreline,Gulf,2
+concave shoreline,Porticciolo,3
+concave shoreline,Porto,13
+concave shoreline,Rada,2
+concave shoreline,Seno,5
+convex shoreline,<NONE>,7
+convex shoreline,Capo,31
+convex shoreline,Punta,75
+convex shoreline,Punto,2
+depression,<NONE>,55
+depression,Arcu,6
+depression,Bocchetta,12
+depression,Col,16
+depression,Colle,12
+depression,Forcella,10
+depression,Fuorcla,4
+depression,Genna,9
+depression,Giogo,2
+depression,Gran,2
+depression,Pass,6
+depression,Passo,33
+depression,Portella,4
+depression,Scolo,2
+depression,Sella,5
+depression,Vado,2
+depression,Val,8
+depression,Vale,2
+depression,Valle,17
+elevated area,<NONE>,27
+elevated area,Alpe,2
+elevated area,Appennino,3
+elevated area,Monti,5
+elevated area,Serra,4
+elevation,<NONE>,123
+elevation,Aiguille,3
+elevation,Br.cu,2
+elevation,Bruncu,22
+elevation,Cima,13
+elevation,Cime,2
+elevation,Col,6
+elevation,Colle,4
+elevation,Corno,2
+elevation,Croda,2
+elevation,Gran,2
+elevation,Guardia,2
+elevation,La,2
+elevation,Mont,9
+elevation,Montagna,2
+elevation,Monte,293
+elevation,Monti,2
+elevation,Piano,2
+elevation,Pic,2
+elevation,Pierre,2
+elevation,Pitzu,2
+elevation,Pizzo,4
+elevation,Pizzu,2
+elevation,Poggio,12
+elevation,Pranu,2
+elevation,Punta,39
+elevation,Rocca,2
+elevation,Rocce,2
+elevation,Sa,2
+elevation,Scoglio,3
+elevation,Sedda,2
+elevation,Serra,7
+elevation,Su,2
+elevation,Tête,2
+glacier,<NONE>,1
+island,<NONE>,25
+island,Isola,28
+island,Isole,2
+island,Isolotto,3
+island,Scogli,2
+island,Scoglio,3
+marsh,<NONE>,1
+populated place,<NONE>,890
+populated place,Acque,2
+populated place,Alpe,5
+populated place,Baglio,3
+populated place,Bagni,3
+populated place,Borgo,4
+populated place,Ca,5
+populated place,Casa,13
+populated place,Casale,10
+populated place,Cascine,2
+populated place,Case,5
+populated place,Casello,2
+populated place,Casera,4
+populated place,Casere,2
+populated place,Casone,2
+populated place,Castello,2
+populated place,Civitella,2
+populated place,Concordia,2
+populated place,Fossalta,2
+populated place,Grange,3
+populated place,Il,2
+populated place,La,15
+populated place,Le,6
+populated place,Malga,3
+populated place,Marina,2
+populated place,Masseria,2
+populated place,Molino,5
+populated place,Monte,3
+populated place,Nughedu,2
+populated place,Osteria,2
+populated place,Pian,2
+populated place,Pieve,2
+populated place,Poggio,4
+populated place,Ponte,7
+populated place,Porto,4
+populated place,Punta,2
+populated place,Rocca,2
+populated place,San,62
+populated place,Santa,10
+populated place,Sant’Agata,2
+populated place,Sant’Angelo,2
+populated place,Torre,2
+populated place,Vico,2
+populated place,Villa,5
+shoreline,<NONE>,2
+shoreline,Spiaggia,2
+strait,<NONE>,1
+strait,Canale,2
+stream,<NONE>,180
+stream,Accu,2
+stream,Baccu,2
+stream,Borro,5
+stream,Botro,2
+stream,Canale,10
+stream,Dora,3
+stream,Fiumara,26
+stream,Fiume,86
+stream,Fonte,3
+stream,Fosso,96
+stream,Funt.na,3
+stream,Funtana,44
+stream,La,5
+stream,Mitza,3
+stream,Po,3
+stream,Rio,49
+stream,Riu,92
+stream,River,2
+stream,San,2
+stream,Sorgente,2
+stream,Torrente,138
+stream,Valle,2
+underwater elevation,<NONE>,1
+underwater elevation,Banco,2
+underwater elevation,Secca,6
