@@ -24,6 +24,9 @@
     "anglosaxon_m.csv"
   ],
   "names/Arabic": [
+    "algerian_f.csv",
+    "algerian_m.csv",
+    "algerian_s.csv",
     "libyan_f.csv",
     "libyan_m.csv",
     "libyan_s.csv",
@@ -47,6 +50,16 @@
     "burmese_f.csv",
     "burmese_m.csv",
     "burmese_s.csv"
+  ],
+  "names/Cameroonian": [
+    "cameroonian_f.csv",
+    "cameroonian_m.csv",
+    "cameroonian_s.csv"
+  ],
+  "names/Chinese": [
+    "chinese_f.csv",
+    "chinese_m.csv",
+    "chinese_s.csv"
   ],
   "names/Czech": [
     "czech_f.csv",
@@ -141,6 +154,11 @@
     "irish_f.csv",
     "irish_m.csv",
     "irish_s.csv"
+  ],
+  "names/Israeli": [
+    "israeli_f.csv",
+    "israeli_m.csv",
+    "israeli_s.csv"
   ],
   "names/Italian": [
     "italian_f.csv",

@@ -5,6 +5,22 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+
+## [0.2.2] — 2026-05-27
+
+### Added
+- **Arabic/Algerian** personal name corpus (`algerian_f.csv`, `algerian_m.csv`,
+  `algerian_s.csv`) added to the existing `names/Arabic/` directory.
+- **Cameroonian** personal name corpus (`names/Cameroonian/`): given names and
+  surnames for both genders.
+- **Chinese** personal name corpus (`names/Chinese/`): given names and surnames
+  for both genders.
+- **Israeli** personal name corpus (`names/Israeli/`): given names and surnames
+  for both genders.
+- `manifest.json` updated with all new files.
+
+---
+
 ## [0.2.1] — 2026-05-27
 
 ### Removed
