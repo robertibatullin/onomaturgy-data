@@ -1,0 +1,862 @@
+place_category,beginning
+area,Amp
+area,Ampu
+area,Ampur
+area,Ampurd
+area,Cam
+area,Camb
+area,Cambe
+area,Cambel
+area,Mit
+area,Mita
+area,Mitam
+area,Mitamp
+area,Nog
+area,Nogu
+area,Nogue
+area,Noguer
+area,Val
+area,Vall
+area,Vallé
+area,Vallés
+area,del
+basin,Bañ
+basin,Baño
+basin,Bañol
+basin,Bañola
+basin,Con
+basin,Cont
+basin,Contr
+basin,Contra
+basin,Est
+basin,Esta
+basin,Estan
+basin,Estang
+basin,Fre
+basin,Fres
+basin,Fresc
+basin,Fresca
+basin,Lle
+basin,Lleb
+basin,Llebr
+basin,Llebre
+basin,Llo
+basin,Llos
+basin,Llosa
+basin,Llosas
+basin,L’I
+basin,L’Il
+basin,L’Ill
+basin,L’Illo
+basin,Mae
+basin,Maer
+basin,Maeri
+basin,Maerio
+basin,Mai
+basin,Main
+basin,Mainy
+basin,Mainye
+basin,Mar
+basin,May
+basin,Mayo
+basin,Mayor
+basin,Mon
+basin,Monc
+basin,Monca
+basin,Moncas
+basin,Neg
+basin,Negr
+basin,Negra
+basin,Negras
+basin,Negro
+basin,Sab
+basin,Sabu
+basin,Sabur
+basin,Saburó
+basin,Tra
+basin,Tram
+basin,Trame
+basin,Trames
+basin,del
+concave shoreline,Bon
+concave shoreline,Bona
+concave shoreline,Con
+concave shoreline,Conc
+concave shoreline,Conca
+concave shoreline,Fig
+concave shoreline,Figu
+concave shoreline,Figue
+concave shoreline,Figuer
+concave shoreline,Gar
+concave shoreline,Garb
+concave shoreline,Garbe
+concave shoreline,Garbet
+concave shoreline,Jos
+concave shoreline,Jost
+concave shoreline,Joste
+concave shoreline,Jostel
+concave shoreline,Jus
+concave shoreline,Just
+concave shoreline,Juste
+concave shoreline,Justel
+concave shoreline,Los
+concave shoreline,Mon
+concave shoreline,Monj
+concave shoreline,Monjo
+concave shoreline,Monjoy
+concave shoreline,Mont
+concave shoreline,Montj
+concave shoreline,Montjo
+concave shoreline,Pri
+concave shoreline,Prin
+concave shoreline,Princ
+concave shoreline,Princi
+concave shoreline,del
+convex shoreline,Bag
+convex shoreline,Bagu
+convex shoreline,Bagur
+convex shoreline,Boq
+convex shoreline,Boqu
+convex shoreline,Boque
+convex shoreline,Boquer
+convex shoreline,Cap
+convex shoreline,Cap-
+convex shoreline,Cap-R
+convex shoreline,Cap-Ra
+convex shoreline,Cañ
+convex shoreline,Caño
+convex shoreline,Cañon
+convex shoreline,Cañone
+convex shoreline,Con
+convex shoreline,Cone
+convex shoreline,Conel
+convex shoreline,Conell
+convex shoreline,Cre
+convex shoreline,Creu
+convex shoreline,Creus
+convex shoreline,Fal
+convex shoreline,Falc
+convex shoreline,Falco
+convex shoreline,Falcon
+convex shoreline,Falcó
+convex shoreline,Fer
+convex shoreline,Ferr
+convex shoreline,Ferro
+convex shoreline,Ferros
+convex shoreline,Gin
+convex shoreline,Gine
+convex shoreline,Gines
+convex shoreline,Ginest
+convex shoreline,Gor
+convex shoreline,Gord
+convex shoreline,Gorda
+convex shoreline,Gro
+convex shoreline,Gros
+convex shoreline,Grosa
+convex shoreline,Gross
+convex shoreline,Grossa
+convex shoreline,Mor
+convex shoreline,Morr
+convex shoreline,Morre
+convex shoreline,Morrel
+convex shoreline,Mus
+convex shoreline,Musf
+convex shoreline,Musfe
+convex shoreline,Musfer
+convex shoreline,Neg
+convex shoreline,Negr
+convex shoreline,Negre
+convex shoreline,Nor
+convex shoreline,Norf
+convex shoreline,Norfe
+convex shoreline,Norfeo
+convex shoreline,Nèg
+convex shoreline,Nègr
+convex shoreline,Nègre
+convex shoreline,Oli
+convex shoreline,Olig
+convex shoreline,Oligu
+convex shoreline,Oligue
+convex shoreline,Pal
+convex shoreline,Palo
+convex shoreline,Palom
+convex shoreline,Paloma
+convex shoreline,Por
+convex shoreline,Porq
+convex shoreline,Porqu
+convex shoreline,Porque
+convex shoreline,Ras
+convex shoreline,Raso
+convex shoreline,Roi
+convex shoreline,Roig
+convex shoreline,Roq
+convex shoreline,Roqu
+convex shoreline,Roque
+convex shoreline,Roquer
+convex shoreline,Rás
+convex shoreline,Sal
+convex shoreline,Sali
+convex shoreline,Salin
+convex shoreline,Salina
+convex shoreline,Sol
+convex shoreline,Solo
+convex shoreline,Solou
+convex shoreline,Tor
+convex shoreline,Tort
+convex shoreline,Torto
+convex shoreline,Tortos
+convex shoreline,del
+depression,Gel
+depression,Gela
+depression,Gelad
+depression,Gelada
+depression,Pan
+depression,Par
+depression,Pare
+depression,Parel
+depression,Paret
+depression,Rou
+depression,Rouc
+depression,Rouch
+depression,Rouche
+elevated area,Aur
+elevated area,Aura
+elevated area,Aurat
+elevated area,Aurati
+elevated area,Bri
+elevated area,Bris
+elevated area,Brisa
+elevated area,Cab
+elevated area,Caba
+elevated area,Cabal
+elevated area,Caball
+elevated area,Car
+elevated area,Carb
+elevated area,Carbo
+elevated area,Carbon
+elevated area,Cón
+elevated area,Cóni
+elevated area,Cónic
+elevated area,Cónica
+elevated area,Gis
+elevated area,Gisb
+elevated area,Gisbe
+elevated area,Gisber
+elevated area,Gro
+elevated area,Gros
+elevated area,Grosa
+elevated area,Mes
+elevated area,Mest
+elevated area,Mestr
+elevated area,Mestre
+elevated area,Mil
+elevated area,Mila
+elevated area,Milan
+elevated area,Milany
+elevated area,Mon
+elevated area,Mont
+elevated area,Monte
+elevated area,Par
+elevated area,Para
+elevated area,Param
+elevated area,Paramy
+elevated area,Pes
+elevated area,Pese
+elevated area,Pesel
+elevated area,Pesell
+elevated area,del
+elevation,Aum
+elevation,Aume
+elevation,Aumen
+elevation,Aumena
+elevation,Bal
+elevation,Ball
+elevation,Balle
+elevation,Ballen
+elevation,Bar
+elevation,Barr
+elevation,Barra
+elevation,Bes
+elevation,Besó
+elevation,Besón
+elevation,Besóns
+elevation,Bob
+elevation,Bobi
+elevation,Bobin
+elevation,Bobiná
+elevation,Bou
+elevation,Boum
+elevation,Boumo
+elevation,Boumor
+elevation,Bru
+elevation,Brun
+elevation,Bruna
+elevation,Cab
+elevation,Caba
+elevation,Cabal
+elevation,Caball
+elevation,Cad
+elevation,Cadí
+elevation,Cal
+elevation,Calv
+elevation,Calvo
+elevation,Car
+elevation,Carb
+elevation,Carbo
+elevation,Carbon
+elevation,Caro
+elevation,Cas
+elevation,Casi
+elevation,Casib
+elevation,Casibr
+elevation,Cast
+elevation,Caste
+elevation,Castel
+elevation,Cor
+elevation,Corr
+elevation,Corru
+elevation,Corrun
+elevation,Coru
+elevation,Corul
+elevation,Corull
+elevation,Cos
+elevation,Cosc
+elevation,Cosco
+elevation,Coscol
+elevation,Coscu
+elevation,Coscul
+elevation,Elo
+elevation,Eloy
+elevation,Enc
+elevation,Enca
+elevation,Encam
+elevation,Encamá
+elevation,Enco
+elevation,Encos
+elevation,Encosa
+elevation,Era
+elevation,Fal
+elevation,Falc
+elevation,Falcó
+elevation,Falcón
+elevation,For
+elevation,Forc
+elevation,Forca
+elevation,Forcan
+elevation,Gar
+elevation,Garó
+elevation,Garós
+elevation,Gel
+elevation,Gela
+elevation,Gelad
+elevation,Gelada
+elevation,Ger
+elevation,Gero
+elevation,Geron
+elevation,Geroni
+elevation,Geró
+elevation,Gerón
+elevation,Geróni
+elevation,Gro
+elevation,Gros
+elevation,Grosa
+elevation,Gui
+elevation,Guin
+elevation,Guine
+elevation,Guineo
+elevation,Inc
+elevation,Incl
+elevation,Inclu
+elevation,Inclus
+elevation,Jer
+elevation,Jero
+elevation,Jeron
+elevation,Jeroni
+elevation,Lla
+elevation,Llad
+elevation,Lladr
+elevation,Lladra
+elevation,Llo
+elevation,Llor
+elevation,Llore
+elevation,Lloren
+elevation,Mar
+elevation,Marc
+elevation,Marco
+elevation,Marcos
+elevation,Med
+elevation,Mede
+elevation,Medel
+elevation,Medela
+elevation,Mol
+elevation,Mola
+elevation,Molt
+elevation,Molto
+elevation,Mon
+elevation,Monm
+elevation,Monme
+elevation,Monmen
+elevation,Mons
+elevation,Monse
+elevation,Monsec
+elevation,Mont
+elevation,Montj
+elevation,Montju
+elevation,Montl
+elevation,Montlu
+elevation,Monts
+elevation,Montse
+elevation,Muñ
+elevation,Muñi
+elevation,Muñid
+elevation,Muñidó
+elevation,Neg
+elevation,Negr
+elevation,Negra
+elevation,Pag
+elevation,Pagu
+elevation,Pague
+elevation,Paguer
+elevation,Par
+elevation,Parr
+elevation,Parra
+elevation,Parrac
+elevation,Pic
+elevation,Pico
+elevation,Picos
+elevation,Pics
+elevation,Pil
+elevation,Pilá
+elevation,Pilás
+elevation,Pin
+elevation,Pinó
+elevation,Pinós
+elevation,Pom
+elevation,Pome
+elevation,Pomer
+elevation,Pun
+elevation,Puns
+elevation,Punsó
+elevation,Raf
+elevation,Rafo
+elevation,Rafol
+elevation,Rafols
+elevation,Ras
+elevation,Rasa
+elevation,Rod
+elevation,Rodo
+elevation,Rodó
+elevation,Rodós
+elevation,Rou
+elevation,Rour
+elevation,Roure
+elevation,Roured
+elevation,Rub
+elevation,Rubi
+elevation,Rubio
+elevation,Say
+elevation,Saya
+elevation,Sayan
+elevation,Sayans
+elevation,Se-
+elevation,Se-C
+elevation,Se-Ca
+elevation,Se-Cal
+elevation,Sol
+elevation,Sola
+elevation,Solan
+elevation,Solana
+elevation,Solá
+elevation,Solán
+elevation,Soláns
+elevation,Sur
+elevation,Suró
+elevation,Tor
+elevation,Torr
+elevation,Torre
+elevation,Tos
+elevation,Tosa
+elevation,Tosag
+elevation,Tosagr
+elevation,Toss
+elevation,Tossa
+elevation,Ven
+elevation,Vent
+elevation,Ventó
+elevation,Ventós
+elevation,del
+elevation,d’A
+elevation,d’Al
+elevation,d’Alf
+elevation,d’Alfa
+island,Bla
+island,Blan
+island,Blanc
+island,Blanca
+island,Cas
+island,Cast
+island,Caste
+island,Castel
+island,Cla
+island,Clav
+island,Clava
+island,Clavag
+island,Enc
+island,Enca
+island,Encal
+island,Encall
+island,Mas
+island,Mass
+island,Massi
+island,Massin
+island,Neg
+island,Negr
+island,Negra
+island,Ped
+island,Pedr
+island,Pedro
+island,Pedros
+island,Pur
+island,Purt
+island,Purta
+island,Purtal
+island,Roj
+island,Roja
+island,del
+shoreline,Bad
+shoreline,Bada
+shoreline,Badal
+shoreline,Badalo
+shoreline,Mon
+shoreline,Mong
+shoreline,Monga
+shoreline,Mongat
+shoreline,del
+stream,Alm
+stream,Almo
+stream,Almos
+stream,Almost
+stream,Ang
+stream,Angu
+stream,Angue
+stream,Anguer
+stream,Ara
+stream,Arab
+stream,Arabe
+stream,Arabel
+stream,Ari
+stream,Arij
+stream,Arija
+stream,Arn
+stream,Arne
+stream,Arned
+stream,Arneda
+stream,Arner
+stream,Arnera
+stream,Ave
+stream,Aver
+stream,Avern
+stream,Averno
+stream,Bag
+stream,Bage
+stream,Baget
+stream,Bal
+stream,Bala
+stream,Balar
+stream,Balart
+stream,Bel
+stream,Bell
+stream,Bellf
+stream,Bellfo
+stream,Ben
+stream,Bena
+stream,Benau
+stream,Bes
+stream,Besò
+stream,Besòs
+stream,Besó
+stream,Besós
+stream,Boe
+stream,Boel
+stream,Boell
+stream,Boella
+stream,Boi
+stream,Boix
+stream,Bru
+stream,Brug
+stream,Bruge
+stream,Brugen
+stream,Cab
+stream,Cabo
+stream,Cai
+stream,Cair
+stream,Cairo
+stream,Cairot
+stream,Cal
+stream,Cald
+stream,Calda
+stream,Caldas
+stream,Calde
+stream,Calder
+stream,Can
+stream,Cana
+stream,Canal
+stream,Canale
+stream,Cano
+stream,Canov
+stream,Canove
+stream,Car
+stream,Carr
+stream,Carre
+stream,Carreu
+stream,Cas
+stream,Cast
+stream,Caste
+stream,Castel
+stream,Cha
+stream,Chal
+stream,Chala
+stream,Chalan
+stream,Ciu
+stream,Ciur
+stream,Ciura
+stream,Ciuran
+stream,Ció
+stream,Con
+stream,Cong
+stream,Congo
+stream,Congos
+stream,Cor
+stream,Corp
+stream,Cort
+stream,Corti
+stream,Cortie
+stream,Dar
+stream,Daró
+stream,Esb
+stream,Esbl
+stream,Esbla
+stream,Esblad
+stream,Far
+stream,Farf
+stream,Farfa
+stream,Farfañ
+stream,Fla
+stream,Flam
+stream,Flami
+stream,Flamic
+stream,Flamis
+stream,Flu
+stream,Fluv
+stream,Fluvi
+stream,Fluviá
+stream,Foi
+stream,Foix
+stream,Fra
+stream,Fran
+stream,Franc
+stream,Franco
+stream,Fre
+stream,Fres
+stream,Fress
+stream,Fresse
+stream,Fud
+stream,Fuda
+stream,Fudar
+stream,Fudaró
+stream,Gay
+stream,Gayá
+stream,Ges
+stream,Gib
+stream,Gibe
+stream,Giber
+stream,Gibert
+stream,Glo
+stream,Glor
+stream,Glori
+stream,Glorie
+stream,Gra
+stream,Gran
+stream,Grand
+stream,Grande
+stream,Gri
+stream,Grid
+stream,Gride
+stream,Gridel
+stream,Gue
+stream,Guer
+stream,Guerr
+stream,Guerri
+stream,Gur
+stream,Guri
+stream,Gurn
+stream,Las
+stream,Lli
+stream,Llie
+stream,Llier
+stream,Llierc
+stream,Llo
+stream,Llob
+stream,Llobr
+stream,Llobre
+stream,Llov
+stream,Llove
+stream,Llover
+stream,Llé
+stream,Llém
+stream,Lléma
+stream,Lléman
+stream,Maj
+stream,Majo
+stream,Major
+stream,Majó
+stream,Man
+stream,Mano
+stream,Manol
+stream,Many
+stream,Manya
+stream,Manyan
+stream,Mas
+stream,Maso
+stream,Masos
+stream,May
+stream,Mayo
+stream,Mayor
+stream,Mer
+stream,Merd
+stream,Merda
+stream,Merdas
+stream,Moj
+stream,Moje
+stream,Mojen
+stream,Mojent
+stream,Mon
+stream,Mons
+stream,Monsa
+stream,Monsan
+stream,Mont
+stream,Monts
+stream,Montsa
+stream,Nog
+stream,Nogu
+stream,Nogue
+stream,Noguer
+stream,Noy
+stream,Noya
+stream,Ony
+stream,Onya
+stream,Onyar
+stream,Oíx
+stream,Oña
+stream,Oñar
+stream,Pal
+stream,Pall
+stream,Palle
+stream,Paller
+stream,Par
+stream,Pare
+stream,Paret
+stream,Per
+stream,Perl
+stream,Perle
+stream,Perles
+stream,Pin
+stream,Pine
+stream,Pinel
+stream,Pinell
+stream,Rab
+stream,Raba
+stream,Rabas
+stream,Rabasa
+stream,Raj
+stream,Raja
+stream,Rajad
+stream,Rajade
+stream,Ren
+stream,Renc
+stream,Rencu
+stream,Rencul
+stream,Ria
+stream,Rial
+stream,Rialp
+stream,Rid
+stream,Rida
+stream,Ridau
+stream,Ridaur
+stream,Rie
+stream,Rier
+stream,Riera
+stream,Rig
+stream,Riga
+stream,Rigar
+stream,Rigart
+stream,Rip
+stream,Ripo
+stream,Ripol
+stream,Ripoll
+stream,Riu
+stream,Riud
+stream,Riudo
+stream,Riudom
+stream,Riv
+stream,Rive
+stream,River
+stream,Rivera
+stream,Sal
+stream,Sala
+stream,Salad
+stream,Salada
+stream,Salade
+stream,Sald
+stream,Salde
+stream,Saldes
+stream,Salu
+stream,Salud
+stream,Sec
+stream,Sed
+stream,Sel
+stream,Sell
+stream,Selle
+stream,Sellen
+stream,Ser
+stream,Sert
+stream,Sió
+stream,Tam
+stream,Tama
+stream,Tamar
+stream,Tamari
+stream,Ten
+stream,Tena
+stream,Tenas
+stream,Ter
+stream,Terr
+stream,Terri
+stream,Tor
+stream,Tort
+stream,Torá
+stream,Torán
+stream,Toró
+stream,Torón
+stream,Val
+stream,Vald
+stream,Valde
+stream,Valdeb
+stream,Vali
+stream,Valir
+stream,Valiri
+stream,Vall
+stream,Valle
+stream,Valles
+stream,Valli
+stream,Valliv
+stream,Valls
+stream,Vallv
+stream,Vallve
+stream,Valm
+stream,Valmo
+stream,Valmor
+stream,Valmot
+stream,Yño
+stream,Yñol
+stream,Yñola
+stream,del

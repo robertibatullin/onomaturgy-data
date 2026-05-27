@@ -1,0 +1,136 @@
+place_category,separate_ending,frequency
+area,<NONE>,13
+area,Guardida,2
+area,Lloses,2
+basin,<NONE>,39
+basin,Creu,2
+basin,Encañizada,3
+basin,Liat,2
+basin,Murtra,2
+basin,Negro,2
+basin,Platjola,3
+basin,Podrida,3
+basin,Pradot,2
+basin,Remolá,3
+basin,Tancada,3
+concave shoreline,<NONE>,19
+concave shoreline,Alfaques,2
+concave shoreline,Conca,2
+concave shoreline,Jorge,2
+concave shoreline,Llansá,3
+concave shoreline,Norte,2
+concave shoreline,Rosas,3
+concave shoreline,Sur,2
+concave shoreline,Vallcarca,2
+concave shoreline,l’Ebre,2
+convex shoreline,<NONE>,94
+convex shoreline,Baña,2
+convex shoreline,Grosa,2
+convex shoreline,Perro,2
+convex shoreline,Tortosa,2
+convex shoreline,Tossa,2
+depression,<NONE>,25
+depression,Alls,2
+depression,Arcas,2
+depression,Bonaigua,2
+depression,Caralt,2
+depression,Forn,2
+depression,Guixeras,2
+depression,Heras,2
+depression,Juvell,2
+depression,Morta,2
+depression,Pandis,2
+depression,Plujens,2
+depression,Rus,2
+depression,Terradets,2
+elevated area,<NONE>,100
+elevated area,Brisa,2
+elevated area,Calse,2
+elevated area,Caro,2
+elevated area,Monsech,2
+elevation,<NONE>,138
+elevation,Agudas,2
+elevation,Beret,2
+elevation,Calm,2
+elevation,Calma,2
+elevation,Carbonero,2
+elevation,Coll,2
+elevation,Llop,2
+elevation,Marimaña,2
+elevation,Pedruscas,2
+elevation,Serra,2
+elevation,Trona,3
+elevation,l’Home,2
+island,<NONE>,15
+island,Buda,2
+island,Encalladora,2
+island,Mar,2
+island,Oro,2
+shoreline,<NONE>,15
+shoreline,Llorell,2
+shoreline,Salvador,2
+shoreline,Trabucador,2
+stream,<NONE>,336
+stream,Adá,3
+stream,Aliga,2
+stream,Arabell,2
+stream,Bañeras,2
+stream,Boberolas,2
+stream,Brugent,2
+stream,Cairot,2
+stream,Canaleta,2
+stream,Canyellas,2
+stream,Cervera,2
+stream,Chamora,2
+stream,Checa,2
+stream,Chup,2
+stream,Comapruneda,2
+stream,Comas,3
+stream,Compte,2
+stream,Corps,2
+stream,Esblada,2
+stream,Estany,2
+stream,Figueras,2
+stream,Foix,2
+stream,Forques,2
+stream,Francisco,2
+stream,Fusta,2
+stream,Galera,2
+stream,Gandesa,2
+stream,Gene,2
+stream,Gibert,2
+stream,Granada,2
+stream,Grande,2
+stream,Horts,2
+stream,Juan,4
+stream,Lledó,2
+stream,Llobregat,2
+stream,Llosa,3
+stream,Macherri,2
+stream,Masos,2
+stream,Matallonga,2
+stream,Matas,2
+stream,Mayor,7
+stream,Monsant,2
+stream,Montsant,2
+stream,Mora,2
+stream,Negras,2
+stream,Odén,2
+stream,Pastor,2
+stream,Pererola,2
+stream,Pirro,2
+stream,Rajadell,2
+stream,Ribas,2
+stream,Ridaura,2
+stream,Salada,4
+stream,Sec,2
+stream,Sellent,2
+stream,Selva,3
+stream,Sola,2
+stream,Tort,2
+stream,Vallivés,2
+stream,Vianya,2
+stream,Vigas,2
+stream,Vila,2
+stream,Vinaixa,4
+underwater elevation,<NONE>,1

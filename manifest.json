@@ -221,10 +221,6 @@
     "portuguese_m.csv",
     "portuguese_s.csv"
   ],
-  "names/PseudoOldFinnic": [
-    "pseudo_old_finnic_f.csv",
-    "pseudo_old_finnic_m.csv"
-  ],
   "names/Romanian": [
     "romanian_f.csv",
     "romanian_m.csv",
@@ -305,10 +301,20 @@
     "Azerbaijani_separate_endings.csv"
   ],
   "toponyms/namesets/Basque": [
-    "Basque.csv"
+    "Basque.csv",
+    "Basque_beginnings.csv",
+    "Basque_cleared.csv",
+    "Basque_endings.csv",
+    "Basque_separate_beginnings.csv",
+    "Basque_separate_endings.csv"
   ],
   "toponyms/namesets/Catalan": [
-    "Catalan.csv"
+    "Catalan.csv",
+    "Catalan_beginnings.csv",
+    "Catalan_cleared.csv",
+    "Catalan_endings.csv",
+    "Catalan_separate_beginnings.csv",
+    "Catalan_separate_endings.csv"
   ],
   "toponyms/namesets/Croatian": [
     "Croatian.csv",

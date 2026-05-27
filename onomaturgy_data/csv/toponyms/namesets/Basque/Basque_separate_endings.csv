@@ -1,0 +1,42 @@
+place_category,separate_ending,frequency
+basin,<NONE>,2
+concave shoreline,<NONE>,18
+concave shoreline,Bilbao,3
+concave shoreline,Zurriola,2
+convex shoreline,<NONE>,41
+convex shoreline,Catalina,3
+convex shoreline,Galea,3
+convex shoreline,Luzuero,2
+depression,<NONE>,2
+elevated area,<NONE>,20
+elevated area,Jaizquibel,2
+elevated area,Jaizquivel,2
+elevation,<NONE>,33
+elevation,Cruces,3
+island,<NONE>,14
+island,Izaro,2
+island,Villano,2
+populated place,<NONE>,1041
+populated place,Andrés,3
+populated place,Arriba,2
+populated place,Cruz,2
+populated place,Cuartango,2
+populated place,Esteban,2
+populated place,Galdames,2
+populated place,Juan,3
+populated place,Lucía,2
+populated place,Martín,3
+populated place,Mayor,3
+populated place,Menor,2
+populated place,Oca,2
+populated place,Oria,4
+populated place,Ribera,2
+populated place,Sebastián,2
+populated place,Urrechu,2
+populated place,Álava,3
+shoreline,<NONE>,6
+shoreline,Concha,2
+stream,<NONE>,43
+stream,Jaizubia,2
+stream,Nervión,2
+underwater elevation,<NONE>,3

@@ -1,0 +1,53 @@
+place_category,separate_beginning,frequency
+basin,<NONE>,1
+basin,Laguna,2
+concave shoreline,<NONE>,5
+concave shoreline,Concha,2
+concave shoreline,Ensenada,11
+concave shoreline,Puerto,5
+convex shoreline,<NONE>,1
+convex shoreline,Cabo,10
+convex shoreline,Monte,2
+convex shoreline,Peña,2
+convex shoreline,Punta,33
+depression,<NONE>,2
+elevated area,<NONE>,2
+elevated area,Monte,6
+elevated area,Montes,3
+elevated area,Sierra,10
+elevation,<NONE>,8
+elevation,Alto,2
+elevation,Monte,23
+elevation,Pico,3
+island,<NONE>,1
+island,Isla,13
+island,Islote,2
+populated place,<NONE>,946
+populated place,Antezana,2
+populated place,El,9
+populated place,Gamarra,2
+populated place,Hueto,2
+populated place,La,20
+populated place,Las,8
+populated place,Leciñana,2
+populated place,Manzaneda,2
+populated place,Miñano,2
+populated place,Pasajes,2
+populated place,Plaza,3
+populated place,Retes,2
+populated place,Salinas,2
+populated place,San,41
+populated place,Santa,9
+populated place,Urízar,2
+populated place,Villafranca,2
+populated place,Villafrancia,2
+populated place,Zuazo,2
+shoreline,<NONE>,1
+shoreline,Playa,7
+stream,<NONE>,5
+stream,Canal,2
+stream,Fuente,2
+stream,Rio,2
+stream,Río,35
+underwater elevation,<NONE>,1
+underwater elevation,Bancha,2

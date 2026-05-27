@@ -1,0 +1,1143 @@
+place_category,ending
+area,Ampurdán
+area,Cambell
+area,Noguera
+area,Vallés
+area,allés
+area,ambell
+area,amplana
+area,ana
+area,bell
+area,del
+area,dán
+area,ell
+area,era
+area,guera
+area,itamplana
+area,lana
+area,llés
+area,lés
+area,mbell
+area,mplana
+area,mpurdán
+area,oguera
+area,plana
+area,purdán
+area,rdán
+area,tamplana
+area,uera
+area,urdán
+basin,Bañolas
+basin,Contraig
+basin,Frescau
+basin,Illot
+basin,Llebreta
+basin,Llosas
+basin,L’Illot
+basin,Maeriolo
+basin,Mainyera
+basin,Mar
+basin,Mayor
+basin,Moncasan
+basin,Negras
+basin,Negro
+basin,Saburó
+basin,Tramesane
+basin,aburó
+basin,aeriolo
+basin,aig
+basin,ainyera
+basin,amesane
+basin,ane
+basin,angento
+basin,asan
+basin,ayor
+basin,añolas
+basin,breta
+basin,buró
+basin,casan
+basin,cau
+basin,del
+basin,ebreta
+basin,egras
+basin,egro
+basin,ento
+basin,era
+basin,eriolo
+basin,esane
+basin,escau
+basin,eta
+basin,gento
+basin,gras
+basin,gro
+basin,inyera
+basin,iolo
+basin,las
+basin,lebreta
+basin,llot
+basin,losas
+basin,lot
+basin,mesane
+basin,ncasan
+basin,ngento
+basin,nto
+basin,ntraig
+basin,nyera
+basin,olas
+basin,olo
+basin,oncasan
+basin,ontraig
+basin,osas
+basin,raig
+basin,ramesane
+basin,ras
+basin,rescau
+basin,reta
+basin,riolo
+basin,san
+basin,sane
+basin,sas
+basin,scau
+basin,stangento
+basin,tangento
+basin,traig
+basin,uró
+basin,yera
+basin,yor
+basin,ñolas
+basin,’Illot
+concave shoreline,Bona
+concave shoreline,Conca
+concave shoreline,Figuera
+concave shoreline,Garbet
+concave shoreline,Jostell
+concave shoreline,Justell
+concave shoreline,Los
+concave shoreline,Monjoy
+concave shoreline,Montjoys
+concave shoreline,Principal
+concave shoreline,arbet
+concave shoreline,bet
+concave shoreline,cipal
+concave shoreline,del
+concave shoreline,ell
+concave shoreline,era
+concave shoreline,guera
+concave shoreline,iguera
+concave shoreline,incipal
+concave shoreline,ipal
+concave shoreline,joy
+concave shoreline,joys
+concave shoreline,nca
+concave shoreline,ncipal
+concave shoreline,njoy
+concave shoreline,ntjoys
+concave shoreline,ona
+concave shoreline,onca
+concave shoreline,onjoy
+concave shoreline,ontjoys
+concave shoreline,ostell
+concave shoreline,oys
+concave shoreline,pal
+concave shoreline,rbet
+concave shoreline,rincipal
+concave shoreline,stell
+concave shoreline,tell
+concave shoreline,tjoys
+concave shoreline,uera
+concave shoreline,ustell
+convex shoreline,-Ras
+convex shoreline,Bagur
+convex shoreline,Boquera
+convex shoreline,Cap-Ras
+convex shoreline,Cañones
+convex shoreline,Conellas
+convex shoreline,Creus
+convex shoreline,Falconera
+convex shoreline,Falcó
+convex shoreline,Ferrosa
+convex shoreline,Ginestra
+convex shoreline,Gorda
+convex shoreline,Gros
+convex shoreline,Grosa
+convex shoreline,Grossa
+convex shoreline,Morrell
+convex shoreline,Musfera
+convex shoreline,Negre
+convex shoreline,Norfeo
+convex shoreline,Nègre
+convex shoreline,Oliguera
+convex shoreline,Paloma
+convex shoreline,Ras
+convex shoreline,Raso
+convex shoreline,Roig
+convex shoreline,Roquera
+convex shoreline,Rás
+convex shoreline,Salinas
+convex shoreline,Solou
+convex shoreline,Tortosa
+convex shoreline,Tortosam
+convex shoreline,agur
+convex shoreline,alconera
+convex shoreline,alcó
+convex shoreline,alinas
+convex shoreline,aloma
+convex shoreline,ap-Ras
+convex shoreline,aso
+convex shoreline,añones
+convex shoreline,conera
+convex shoreline,del
+convex shoreline,egre
+convex shoreline,ell
+convex shoreline,ellas
+convex shoreline,era
+convex shoreline,erola
+convex shoreline,errosa
+convex shoreline,estra
+convex shoreline,eus
+convex shoreline,feo
+convex shoreline,fera
+convex shoreline,gre
+convex shoreline,guera
+convex shoreline,gur
+convex shoreline,iguera
+convex shoreline,inas
+convex shoreline,inestra
+convex shoreline,las
+convex shoreline,lconera
+convex shoreline,lcó
+convex shoreline,liguera
+convex shoreline,linas
+convex shoreline,llas
+convex shoreline,loma
+convex shoreline,lou
+convex shoreline,nas
+convex shoreline,nellas
+convex shoreline,nera
+convex shoreline,nes
+convex shoreline,nestra
+convex shoreline,oig
+convex shoreline,ola
+convex shoreline,olou
+convex shoreline,oma
+convex shoreline,onellas
+convex shoreline,onera
+convex shoreline,ones
+convex shoreline,oquera
+convex shoreline,orda
+convex shoreline,orfeo
+convex shoreline,orquerola
+convex shoreline,orrell
+convex shoreline,ortosa
+convex shoreline,ortosam
+convex shoreline,osa
+convex shoreline,osam
+convex shoreline,ossa
+convex shoreline,p-Ras
+convex shoreline,quera
+convex shoreline,querola
+convex shoreline,rda
+convex shoreline,rell
+convex shoreline,reus
+convex shoreline,rfeo
+convex shoreline,rola
+convex shoreline,ros
+convex shoreline,rosa
+convex shoreline,rossa
+convex shoreline,rquerola
+convex shoreline,rrell
+convex shoreline,rrosa
+convex shoreline,rtosa
+convex shoreline,rtosam
+convex shoreline,sam
+convex shoreline,sfera
+convex shoreline,ssa
+convex shoreline,stra
+convex shoreline,tosa
+convex shoreline,tosam
+convex shoreline,tra
+convex shoreline,uera
+convex shoreline,uerola
+convex shoreline,usfera
+convex shoreline,ègre
+convex shoreline,ñones
+depression,Gelada
+depression,Pan
+depression,Parel
+depression,Paret
+depression,Rouche
+depression,ada
+depression,arel
+depression,aret
+depression,che
+depression,elada
+depression,lada
+depression,ouche
+depression,rel
+depression,ret
+depression,uche
+elevated area,Aurati
+elevated area,Brisa
+elevated area,Caballera
+elevated area,Carbonera
+elevated area,Cónica
+elevated area,Gisbert
+elevated area,Grosa
+elevated area,Mestreca
+elevated area,Milany
+elevated area,Monte
+elevated area,Paramy
+elevated area,Pesells
+elevated area,aballera
+elevated area,allera
+elevated area,amy
+elevated area,any
+elevated area,aramy
+elevated area,arbonera
+elevated area,ati
+elevated area,ballera
+elevated area,bert
+elevated area,bonera
+elevated area,del
+elevated area,eca
+elevated area,ells
+elevated area,era
+elevated area,ert
+elevated area,esells
+elevated area,estreca
+elevated area,ica
+elevated area,ilany
+elevated area,isa
+elevated area,isbert
+elevated area,lany
+elevated area,lera
+elevated area,llera
+elevated area,lls
+elevated area,nera
+elevated area,nica
+elevated area,nte
+elevated area,onera
+elevated area,onte
+elevated area,osa
+elevated area,ramy
+elevated area,rati
+elevated area,rbonera
+elevated area,reca
+elevated area,risa
+elevated area,rosa
+elevated area,sbert
+elevated area,sells
+elevated area,streca
+elevated area,treca
+elevated area,urati
+elevated area,ónica
+elevation,-Calm
+elevation,Alfa
+elevation,Aumenara
+elevation,Ballena
+elevation,Barra
+elevation,Besóns
+elevation,Bobiná
+elevation,Boumort
+elevation,Bruna
+elevation,Caballé
+elevation,Cadí
+elevation,Calm
+elevation,Calvo
+elevation,Carbonero
+elevation,Caro
+elevation,Casibrós
+elevation,Castella
+elevation,Castellar
+elevation,Castelló
+elevation,Corrunco
+elevation,Corullons
+elevation,Coscollet
+elevation,Eloy
+elevation,Encamá
+elevation,Encosa
+elevation,Era
+elevation,Falcó
+elevation,Falcón
+elevation,Forcanada
+elevation,Garós
+elevation,Gelada
+elevation,Geroni
+elevation,Gerónimo
+elevation,Gros
+elevation,Grosa
+elevation,Guineo
+elevation,Inclusa
+elevation,Jeroni
+elevation,Lladra
+elevation,Llorens
+elevation,Marcos
+elevation,Medela
+elevation,Mola
+elevation,Molto
+elevation,Monmeneu
+elevation,Monsech
+elevation,Montjuic
+elevation,Montjuich
+elevation,Montludó
+elevation,Montseny
+elevation,Muñidó
+elevation,Negra
+elevation,Paguera
+elevation,Parracoll
+elevation,Picos
+elevation,Pics
+elevation,Pilás
+elevation,Pinós
+elevation,Pomer
+elevation,Punsó
+elevation,Rafols
+elevation,Rasa
+elevation,Rodo
+elevation,Rodós
+elevation,Roureda
+elevation,Rubio
+elevation,Sayansa
+elevation,Se-Calm
+elevation,Solana
+elevation,Solanas
+elevation,Soláns
+elevation,Suró
+elevation,Torre
+elevation,Tosa
+elevation,Tosagrosa
+elevation,Tossa
+elevation,Ventós
+elevation,aballé
+elevation,acoll
+elevation,ada
+elevation,adra
+elevation,adí
+elevation,afols
+elevation,agrosa
+elevation,aguera
+elevation,alcó
+elevation,alcón
+elevation,allena
+elevation,allé
+elevation,alm
+elevation,alvo
+elevation,amá
+elevation,ana
+elevation,anada
+elevation,anas
+elevation,ansa
+elevation,ara
+elevation,arbonero
+elevation,arcos
+elevation,aro
+elevation,arra
+elevation,arracoll
+elevation,arós
+elevation,asa
+elevation,asibrós
+elevation,astella
+elevation,astellana
+elevation,astellar
+elevation,astelló
+elevation,ayansa
+elevation,ballé
+elevation,biná
+elevation,bio
+elevation,bonero
+elevation,brós
+elevation,camá
+elevation,canada
+elevation,clusa
+elevation,coll
+elevation,collet
+elevation,collosa
+elevation,cos
+elevation,cosa
+elevation,cullosa
+elevation,cón
+elevation,del
+elevation,dela
+elevation,dra
+elevation,dós
+elevation,d’Alfa
+elevation,e-Calm
+elevation,ech
+elevation,eda
+elevation,edela
+elevation,egra
+elevation,ela
+elevation,elada
+elevation,ella
+elevation,ellana
+elevation,ellar
+elevation,elló
+elevation,ena
+elevation,enara
+elevation,eneu
+elevation,ens
+elevation,entós
+elevation,eny
+elevation,era
+elevation,ero
+elevation,eroni
+elevation,errat
+elevation,erónimo
+elevation,esóns
+elevation,fols
+elevation,gra
+elevation,grosa
+elevation,guera
+elevation,ibrós
+elevation,ich
+elevation,icos
+elevation,ics
+elevation,idó
+elevation,ilás
+elevation,imo
+elevation,ineo
+elevation,iná
+elevation,inós
+elevation,juic
+elevation,juich
+elevation,lada
+elevation,ladra
+elevation,lana
+elevation,lanas
+elevation,lar
+elevation,lcó
+elevation,lcón
+elevation,lena
+elevation,let
+elevation,lfa
+elevation,lla
+elevation,llana
+elevation,llar
+elevation,llena
+elevation,llet
+elevation,llons
+elevation,llosa
+elevation,llé
+elevation,lló
+elevation,lons
+elevation,lorens
+elevation,losa
+elevation,loy
+elevation,lto
+elevation,ludó
+elevation,lusa
+elevation,lvo
+elevation,láns
+elevation,lás
+elevation,menara
+elevation,meneu
+elevation,mer
+elevation,mort
+elevation,nada
+elevation,nara
+elevation,nas
+elevation,ncamá
+elevation,nclusa
+elevation,nco
+elevation,ncosa
+elevation,neo
+elevation,nero
+elevation,neu
+elevation,nimo
+elevation,nmeneu
+elevation,nsa
+elevation,nsech
+elevation,nsó
+elevation,ntjuic
+elevation,ntjuich
+elevation,ntludó
+elevation,ntseny
+elevation,ntserrat
+elevation,ntós
+elevation,nós
+elevation,obiná
+elevation,odo
+elevation,odós
+elevation,ola
+elevation,olana
+elevation,olanas
+elevation,oll
+elevation,ollet
+elevation,ollosa
+elevation,ols
+elevation,olto
+elevation,oláns
+elevation,omer
+elevation,onero
+elevation,oni
+elevation,onmeneu
+elevation,ons
+elevation,onsech
+elevation,ontjuic
+elevation,ontjuich
+elevation,ontludó
+elevation,ontseny
+elevation,ontserrat
+elevation,orcanada
+elevation,orens
+elevation,orre
+elevation,orrunco
+elevation,ort
+elevation,orullons
+elevation,osa
+elevation,osagrosa
+elevation,oscollet
+elevation,oscollosa
+elevation,oscullosa
+elevation,ossa
+elevation,oumort
+elevation,oureda
+elevation,racoll
+elevation,rat
+elevation,rbonero
+elevation,rcanada
+elevation,rcos
+elevation,reda
+elevation,rens
+elevation,roni
+elevation,ros
+elevation,rosa
+elevation,rra
+elevation,rracoll
+elevation,rrat
+elevation,rre
+elevation,rrunco
+elevation,rullons
+elevation,runa
+elevation,runco
+elevation,rónimo
+elevation,rós
+elevation,sagrosa
+elevation,scollet
+elevation,scollosa
+elevation,scullosa
+elevation,sech
+elevation,seny
+elevation,serrat
+elevation,sibrós
+elevation,ssa
+elevation,stella
+elevation,stellana
+elevation,stellar
+elevation,stelló
+elevation,sóns
+elevation,tella
+elevation,tellana
+elevation,tellar
+elevation,telló
+elevation,tjuic
+elevation,tjuich
+elevation,tludó
+elevation,tseny
+elevation,tserrat
+elevation,tós
+elevation,ubio
+elevation,udó
+elevation,uera
+elevation,uic
+elevation,uich
+elevation,uineo
+elevation,ullons
+elevation,ullosa
+elevation,umenara
+elevation,umort
+elevation,una
+elevation,unco
+elevation,unsó
+elevation,ureda
+elevation,uró
+elevation,usa
+elevation,uñidó
+elevation,yansa
+elevation,áns
+elevation,ñidó
+elevation,ónimo
+elevation,óns
+elevation,’Alfa
+island,Blanca
+island,Castellá
+island,Massina
+island,Negra
+island,Pedrosa
+island,Purtaló
+island,Roja
+island,adora
+island,aguera
+island,alladora
+island,aló
+island,anca
+island,assina
+island,astellá
+island,avaguera
+island,calladora
+island,del
+island,dora
+island,drosa
+island,edrosa
+island,egra
+island,ellá
+island,era
+island,gra
+island,guera
+island,ina
+island,ladora
+island,lanca
+island,lavaguera
+island,lladora
+island,llá
+island,nca
+island,oja
+island,ora
+island,osa
+island,rosa
+island,rtaló
+island,sina
+island,ssina
+island,stellá
+island,taló
+island,tellá
+island,uera
+island,urtaló
+island,vaguera
+shoreline,Badalona
+shoreline,Mongat
+shoreline,adalona
+shoreline,alona
+shoreline,dalona
+shoreline,del
+shoreline,gat
+shoreline,lona
+shoreline,ngat
+shoreline,ona
+shoreline,ongat
+stream,Almoster
+stream,Anguera
+stream,Arabell
+stream,Arija
+stream,Arneda
+stream,Arnera
+stream,Averno
+stream,Baget
+stream,Balartias
+stream,Bellfort
+stream,Benau
+stream,Besòs
+stream,Besós
+stream,Boella
+stream,Boix
+stream,Brugent
+stream,Cabo
+stream,Cairot
+stream,Caldas
+stream,Calders
+stream,Canaleta
+stream,Canaletas
+stream,Canoves
+stream,Carreu
+stream,Castelbó
+stream,Castellet
+stream,Chalanera
+stream,Ciurana
+stream,Ció
+stream,Congost
+stream,Corp
+stream,Cortiella
+stream,Daró
+stream,Esblada
+stream,Farfaña
+stream,Flamicell
+stream,Flamisell
+stream,Fluviá
+stream,Foix
+stream,Francolí
+stream,Fresser
+stream,Fudaró
+stream,Gayá
+stream,Ges
+stream,Gibert
+stream,Glorieta
+stream,Grande
+stream,Gridells
+stream,Guerri
+stream,Guri
+stream,Gurn
+stream,Las
+stream,Llierca
+stream,Llobregat
+stream,Llovera
+stream,Lloverola
+stream,Llémana
+stream,Major
+stream,Majó
+stream,Manol
+stream,Manyanet
+stream,Masos
+stream,Mayor
+stream,Merdas
+stream,Mojent
+stream,Monsant
+stream,Montsant
+stream,Noguera
+stream,Noya
+stream,Onyar
+stream,Oíx
+stream,Oñar
+stream,Pallerols
+stream,Paret
+stream,Perles
+stream,Pinell
+stream,Rabasae
+stream,Rajadell
+stream,Rencules
+stream,Rialp
+stream,Ridaura
+stream,Riera
+stream,Rigart
+stream,Ripoll
+stream,Riudoms
+stream,Rivera
+stream,Salada
+stream,Saladenr
+stream,Saldes
+stream,Salud
+stream,Sec
+stream,Sed
+stream,Sellent
+stream,Ser
+stream,Sert
+stream,Sió
+stream,Tamarit
+stream,Tenas
+stream,Terri
+stream,Tort
+stream,Torán
+stream,Torón
+stream,Valiri
+stream,Vallivés
+stream,Valls
+stream,Vallvert
+stream,Valmorta
+stream,Valmote
+stream,Yñola
+stream,abasae
+stream,abell
+stream,abo
+stream,ada
+stream,adell
+stream,adenr
+stream,aget
+stream,airot
+stream,ajadell
+stream,ajor
+stream,ajó
+stream,alada
+stream,aladenr
+stream,alanera
+stream,alartias
+stream,aldas
+stream,alders
+stream,aldes
+stream,aleta
+stream,aletas
+stream,aliri
+stream,allerols
+stream,allivés
+stream,alls
+stream,allvert
+stream,almorta
+stream,almote
+stream,alp
+stream,alud
+stream,amarit
+stream,amicell
+stream,amisell
+stream,ana
+stream,analeta
+stream,analetas
+stream,ancolí
+stream,ande
+stream,anera
+stream,anet
+stream,anol
+stream,anoves
+stream,ant
+stream,anyanet
+stream,aret
+stream,arfaña
+stream,arit
+stream,arreu
+stream,art
+stream,artias
+stream,aró
+stream,asae
+stream,asos
+stream,astelbó
+stream,astellet
+stream,aura
+stream,ayor
+stream,ayá
+stream,aña
+stream,basae
+stream,bell
+stream,belles
+stream,bert
+stream,blada
+stream,bregat
+stream,cell
+stream,colí
+stream,cules
+stream,daró
+stream,das
+stream,daura
+stream,debelles
+stream,del
+stream,dell
+stream,dells
+stream,denr
+stream,ders
+stream,des
+stream,doms
+stream,ebelles
+stream,eda
+stream,egat
+stream,elbó
+stream,ell
+stream,ella
+stream,ellent
+stream,elles
+stream,ellet
+stream,ellfort
+stream,ells
+stream,enas
+stream,enau
+stream,encules
+stream,enr
+stream,ent
+stream,era
+stream,erca
+stream,erdas
+stream,erles
+stream,erno
+stream,erola
+stream,erols
+stream,erri
+stream,ers
+stream,ert
+stream,espinosa
+stream,esser
+stream,esòs
+stream,esós
+stream,eta
+stream,etas
+stream,faña
+stream,fort
+stream,gart
+stream,gat
+stream,gent
+stream,get
+stream,gost
+stream,guera
+stream,halanera
+stream,ialp
+stream,ias
+stream,ibert
+stream,icell
+stream,idaura
+stream,idells
+stream,iella
+stream,iera
+stream,ierca
+stream,ieta
+stream,igart
+stream,ija
+stream,inell
+stream,inosa
+stream,ipoll
+stream,iri
+stream,irot
+stream,isell
+stream,iudoms
+stream,iurana
+stream,ivera
+stream,ivés
+stream,jadell
+stream,jent
+stream,jor
+stream,lada
+stream,ladenr
+stream,lamicell
+stream,lamisell
+stream,lanera
+stream,lartias
+stream,lbó
+stream,ldas
+stream,ldebelles
+stream,lders
+stream,ldes
+stream,lent
+stream,lerols
+stream,les
+stream,lespinosa
+stream,let
+stream,leta
+stream,letas
+stream,lfort
+stream,lierca
+stream,liri
+stream,livés
+stream,lla
+stream,llent
+stream,llerols
+stream,lles
+stream,llet
+stream,llfort
+stream,llivés
+stream,lls
+stream,llvert
+stream,lmorta
+stream,lmoster
+stream,lmote
+stream,lobregat
+stream,lorieta
+stream,lovera
+stream,loverola
+stream,lud
+stream,luviá
+stream,lvert
+stream,lémana
+stream,mana
+stream,marit
+stream,micell
+stream,misell
+stream,morta
+stream,moster
+stream,mote
+stream,naleta
+stream,naletas
+stream,nas
+stream,nau
+stream,ncolí
+stream,ncules
+stream,nde
+stream,neda
+stream,nell
+stream,nera
+stream,net
+stream,ngost
+stream,nguera
+stream,nol
+stream,nosa
+stream,noves
+stream,nsant
+stream,ntsant
+stream,nyanet
+stream,nyar
+stream,obregat
+stream,oella
+stream,oguera
+stream,oix
+stream,ojent
+stream,ola
+stream,oll
+stream,ols
+stream,olí
+stream,oms
+stream,ongost
+stream,onsant
+stream,ontsant
+stream,orieta
+stream,orp
+stream,ort
+stream,orta
+stream,ortiella
+stream,orán
+stream,orón
+stream,osa
+stream,ost
+stream,oster
+stream,ote
+stream,overa
+stream,overola
+stream,oves
+stream,oya
+stream,pinosa
+stream,poll
+stream,rabell
+stream,rana
+stream,rancolí
+stream,rande
+stream,rca
+stream,rdas
+stream,regat
+stream,resser
+stream,ret
+stream,reu
+stream,rfaña
+stream,ridells
+stream,rieta
+stream,rija
+stream,rit
+stream,rles
+stream,rneda
+stream,rnera
+stream,rno
+stream,rola
+stream,rols
+stream,rot
+stream,rreu
+stream,rri
+stream,rta
+stream,rtias
+stream,rtiella
+stream,rugent
+stream,rán
+stream,rón
+stream,sae
+stream,sant
+stream,sblada
+stream,sell
+stream,ser
+stream,sos
+stream,spinosa
+stream,sser
+stream,stelbó
+stream,stellet
+stream,ster
+stream,sòs
+stream,sós
+stream,tas
+stream,telbó
+stream,tellet
+stream,ter
+stream,tias
+stream,tiella
+stream,tsant
+stream,udaró
+stream,udoms
+stream,uera
+stream,uerri
+stream,ugent
+stream,ules
+stream,ura
+stream,urana
+stream,uri
+stream,urn
+stream,uviá
+stream,vera
+stream,verno
+stream,verola
+stream,vert
+stream,ves
+stream,viá
+stream,vés
+stream,yanet
+stream,yar
+stream,yor
+stream,émana
+stream,ñar
+stream,ñola

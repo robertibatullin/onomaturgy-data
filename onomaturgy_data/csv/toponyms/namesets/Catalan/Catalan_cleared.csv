@@ -1,0 +1,882 @@
+name,place_category,frequency
+Almoster,stream,1
+Alto de la,elevation,1
+Ampurdán,area,2
+Anguera,stream,1
+Arabell,stream,1
+Arija,stream,1
+Arneda,stream,1
+Arnera,stream,1
+Aumenara,elevation,1
+Aurati,elevated area,1
+Averno,stream,1
+Badalona,shoreline,1
+Baget,stream,1
+Bagur,convex shoreline,1
+Balartias,stream,1
+Ballena,elevation,1
+Banco de Santa Susana,underwater elevation,1
+Barra,elevation,1
+Bañolas,basin,1
+Bellfort,stream,1
+Benau,stream,1
+Besòs,stream,1
+Besóns,elevation,1
+Besós,stream,1
+Blanca,island,1
+Bobiná,elevation,1
+Boella,stream,1
+Boix,stream,1
+Bona,concave shoreline,1
+Boquera,convex shoreline,1
+Boumort,elevation,1
+Brazo del Sur,stream,1
+Brisa,elevated area,1
+Brugent,stream,2
+Bruna,elevation,1
+Buen del Collar,elevation,1
+Caballera,elevated area,1
+Caballé,elevation,1
+Cabo,stream,1
+Cadí,elevation,1
+Cairot,stream,1
+Caldas,stream,1
+Calders,stream,1
+Caleta de,concave shoreline,1
+Calvo,elevation,1
+Cambell,area,1
+Canaleta,stream,1
+Canaletas,stream,1
+Canoves,stream,1
+Cap de Terme,stream,1
+Cap-Ras,convex shoreline,1
+Carbonera,elevated area,1
+Carbonero,elevation,2
+Caro,elevation,1
+Carreu,stream,1
+Casibrós,elevation,1
+Castelbó,stream,1
+Castella,elevation,1
+Castellana,elevation,1
+Castellar,elevation,1
+Castellet,stream,1
+Castellá,island,1
+Castelló,elevation,1
+Cañones,convex shoreline,1
+Cerras de la Piedad,elevated area,1
+Chalanera,stream,1
+Ciurana,stream,1
+Ció,stream,1
+Clavaguera,island,1
+Clot de,depression,1
+Clot d’en,stream,1
+Collet de,depression,1
+Conca,concave shoreline,1
+Conellas,convex shoreline,1
+Congost,stream,1
+Contraig,basin,1
+Cordillera de Pilás,elevated area,1
+Corp,stream,1
+Corrunco,elevation,1
+Cortiella,stream,1
+Corullons,elevation,1
+Coscollet,elevation,1
+Coscollosa,elevation,1
+Coscullosa,elevation,1
+Creus,convex shoreline,1
+Cónica,elevated area,1
+Daró,stream,1
+El,elevated area,1
+Eloy,elevation,1
+Encalladora,island,1
+Encamá,elevation,1
+Encosa,elevation,1
+Era,elevation,1
+Esblada,stream,2
+Estangento,basin,1
+Falconera,convex shoreline,1
+Falcó,convex shoreline,1
+Falcó,elevation,1
+Falcón,elevation,1
+Fallada de Malpás,elevation,1
+Farfaña,stream,1
+Ferrosa,convex shoreline,1
+Figuera,concave shoreline,1
+Flamicell,stream,1
+Flamisell,stream,1
+Fluviá,stream,1
+Foix,stream,2
+Forcanada,elevation,1
+Francolí,stream,1
+Frescau,basin,1
+Fresser,stream,1
+Fudaró,stream,1
+Garbet,concave shoreline,1
+Garós,elevation,1
+Gayá,stream,1
+Gelada,depression,1
+Gelada,elevation,1
+Geroni,elevation,1
+Gerónimo,elevation,1
+Ges,stream,1
+Gibert,stream,1
+Ginestra,convex shoreline,1
+Gisbert,elevated area,1
+Glorieta,stream,1
+Gorda,convex shoreline,1
+Grande,stream,1
+Gridells,stream,1
+Gros,convex shoreline,1
+Gros,elevation,1
+Grosa,convex shoreline,2
+Grosa,elevated area,1
+Grosa,elevation,1
+Grossa,convex shoreline,1
+Guerri,stream,1
+Guineo,elevation,1
+Guri,stream,1
+Gurn,stream,1
+Hauteur de la,elevation,1
+Hocico de,convex shoreline,1
+Inclusa,elevation,1
+Islas Medas,island,1
+Isletas Massinas,island,1
+Islote El Castellá de Llansá,island,1
+Islotes de la Farriola,island,1
+Jeroni,elevation,1
+Jostell,concave shoreline,1
+Justell,concave shoreline,1
+La,basin,1
+La,island,1
+La Desenrocada,convex shoreline,1
+La Deseurocada,convex shoreline,1
+La Gola Meridional,concave shoreline,1
+La Noguera,area,1
+La Punta,convex shoreline,1
+Lagos de Colomés,basin,1
+Las,stream,1
+Las Planas,elevation,1
+Les Pinerets,elevated area,1
+Lladra,elevation,1
+Llano de,area,1
+Llano de la,elevation,1
+Llanos de Urgel,area,1
+Llebreta,basin,1
+Llierca,stream,1
+Llobregat,stream,2
+Llorens,elevation,1
+Llosas,basin,1
+Llovera,stream,1
+Lloverola,stream,1
+Llémana,stream,1
+Lo,shoreline,1
+Los,concave shoreline,1
+Los Pallés,elevated area,1
+L’Illot,basin,1
+Macizo de,elevation,1
+Maeriolo,basin,1
+Mainyera,basin,1
+Major,stream,1
+Majó,stream,1
+Manol,stream,1
+Manyanet,stream,1
+Mar,basin,1
+Marcos,elevation,1
+Mas Carbo,stream,1
+Masa de,island,1
+Masos,stream,1
+Massina,island,1
+Mayor,basin,1
+Mayor,stream,3
+Maza de,island,1
+Mazizo de,elevation,1
+Medela,elevation,1
+Merdas,stream,1
+Mestreca,elevated area,1
+Milany,elevated area,1
+Mitamplana,area,1
+Mitj Jorn,stream,1
+Mojent,stream,1
+Mola,elevation,1
+Molto,elevation,1
+Moncasan,basin,1
+Mongat,shoreline,1
+Monjoy,concave shoreline,1
+Monmeneu,elevation,1
+Monsant,stream,1
+Monsech,elevation,1
+Mont Pedrós,elevation,1
+Monte,elevated area,1
+Montes Gavarras,elevated area,1
+Montjoys,concave shoreline,1
+Montjuic,elevation,1
+Montjuich,elevation,1
+Montludó,elevation,1
+Montsant,stream,1
+Montseny,elevation,1
+Montserrat,elevation,1
+Morrell,convex shoreline,1
+Musfera,convex shoreline,1
+Muñidó,elevation,1
+Negra,elevation,1
+Negra,island,1
+Negras,basin,1
+Negre,convex shoreline,1
+Negro,basin,2
+Noguera,area,1
+Noguera,stream,1
+Noguera Pallaresa,stream,1
+Noguera de Tor,stream,1
+Noguera de Vall Farrera,stream,1
+Norfeo,convex shoreline,1
+Norte de,concave shoreline,1
+Noya,stream,1
+Nègre,convex shoreline,1
+Oliguera,convex shoreline,1
+Onyar,stream,1
+Oíx,stream,1
+Oñar,stream,1
+Paguera,elevation,1
+Pallerols,stream,1
+Paloma,convex shoreline,1
+Pan,depression,1
+Paramy,elevated area,1
+Parel,depression,1
+Paret,depression,1
+Paret,stream,1
+Parracoll,elevation,2
+Pas de Pancha Blanca,depression,1
+Paso de los,depression,1
+Pedro Martir,elevation,1
+Pedrosa,island,1
+Pelat de Talltendre,elevation,1
+Perles,stream,1
+Pesells,elevated area,1
+Peñas Altas,elevation,1
+Pico Camp,elevated area,1
+Picos,elevation,1
+Pics,elevation,1
+Pilás,elevation,1
+Pinell,stream,1
+Pinós,elevation,1
+Pla de,area,1
+Plan del Estañs,elevation,1
+Planas del,area,1
+Planet des Barrancs,elevation,1
+Planhèth des Estanhòns,elevation,1
+Plat de Meda,stream,1
+Pomer,elevation,1
+Pont de la,stream,1
+Porquerola,convex shoreline,1
+Port Fangós,basin,1
+Port del Comte,elevated area,1
+Port dels Alfacs,concave shoreline,1
+Portelles dells,depression,1
+Portezuelo de la,depression,1
+Principal,concave shoreline,1
+Punsó,elevation,1
+Purtaló,island,1
+Rabasae,stream,1
+Rafols,elevation,1
+Rajadell,stream,1
+Ras,convex shoreline,1
+Rasa,elevation,1
+Rasa de Pira,stream,1
+Raso,convex shoreline,1
+Regus Salad,stream,1
+Rencules,stream,1
+Rialp,stream,1
+Ridaura,stream,1
+Riera,stream,1
+Rigart,stream,1
+Rincón de Salou,concave shoreline,1
+Ripoll,stream,1
+Riudoms,stream,1
+Rivera,stream,1
+Rodo,elevation,1
+Rodós,elevation,1
+Roig,convex shoreline,1
+Roja,island,1
+Roquera,convex shoreline,1
+Rouche,depression,1
+Roureda,elevation,1
+Rubio,elevation,1
+Rás,convex shoreline,1
+Rí Cortella,stream,1
+Sa,elevation,1
+Saburó,basin,1
+Salada,stream,2
+Saladenr,stream,1
+Saldes,stream,1
+Salinas,convex shoreline,1
+Salud,stream,1
+San Salvador,elevated area,1
+San Vicens,elevation,1
+Santa Magdalena de Cambrils,elevated area,1
+Sayansa,elevation,1
+Se Cahn,elevation,1
+Se-Calm,elevation,1
+Sec,stream,2
+Sed,stream,1
+Sellent,stream,1
+Ser,stream,1
+Serral de las,elevation,1
+Sert,stream,1
+Sierra de las Concas,elevation,1
+Sierras de Cardó,elevated area,1
+Sincal de Cavas,stream,1
+Sió,stream,1
+Solana,elevation,1
+Solanas,elevation,1
+Solou,convex shoreline,1
+Soláns,elevation,1
+Suró,elevation,1
+Tamarit,stream,1
+Tenas,stream,1
+Terri,stream,1
+Testa de la,convex shoreline,1
+Torre,elevation,1
+Torrent de Vallmoll,stream,1
+Torrentes de,stream,1
+Tort,stream,1
+Tortosa,convex shoreline,1
+Tortosam,convex shoreline,1
+Torán,stream,1
+Torón,stream,1
+Tosa,elevation,1
+Tosagrosa,elevation,1
+Tossa,elevation,1
+Tossal Bovinar,elevation,1
+Tramesane,basin,1
+Turó Negre,elevation,1
+Val de la,stream,1
+Valdebelles,stream,1
+Valiri,stream,1
+Vall Comas de,stream,1
+Vall de,stream,3
+Vall de Comas de,stream,1
+Vall de la,stream,1
+Vallespinosa,stream,1
+Vallivés,stream,1
+Valls,stream,1
+Vallvert,stream,1
+Vallés,area,2
+Valmorta,stream,1
+Valmote,stream,1
+Ventós,elevation,1
+Vieta Point,convex shoreline,1
+Yñola,stream,1
+de,basin,4
+de,concave shoreline,8
+de,convex shoreline,3
+de,depression,18
+de,elevated area,2
+de,elevation,6
+de,island,3
+de,shoreline,2
+de,stream,43
+de Abella,stream,1
+de Adan,stream,1
+de Aguila,area,1
+de Albet,stream,1
+de Albiol,stream,1
+de Alfa,elevation,1
+de Alforja,stream,1
+de Alforjas,stream,1
+de Algerri,stream,1
+de Alp,elevation,1
+de Altés,stream,1
+de Ambiure,stream,1
+de Anfacadas,basin,1
+de Arbucias,stream,1
+de Arcabell,elevated area,1
+de Arenys,stream,1
+de Atalaya,elevated area,1
+de Auchs,stream,1
+de Bagá,stream,1
+de Banibla,elevation,1
+de Baniblá,elevation,1
+de Banys,convex shoreline,1
+de Barball,stream,1
+de Barracomica,depression,1
+de Benat,elevated area,1
+de Berasti,stream,1
+de Bescarán,stream,1
+de Bimet,depression,1
+de Blancafort,elevated area,1
+de Boella,stream,1
+de Boet,convex shoreline,1
+de Bolelleres,stream,1
+de Boratuna,elevated area,1
+de Boumort,elevated area,1
+de Burgemant,stream,1
+de Caballs,elevated area,1
+de Cabó,stream,1
+de Cala Bona,convex shoreline,1
+de Cala Morisca,convex shoreline,1
+de Cala Moscas,convex shoreline,1
+de Cala Nans,convex shoreline,1
+de Cala Naos,convex shoreline,1
+de Cala Naus,convex shoreline,1
+de Cala de Bea,convex shoreline,1
+de Cala de Oca,convex shoreline,1
+de Calafat,convex shoreline,1
+de Camarles,stream,1
+de Camilo,stream,1
+de Can Colomé,elevated area,1
+de Can Pares,elevated area,1
+de Canellas,shoreline,1
+de Canovas,elevated area,1
+de Canuto,stream,1
+de Cap-Ras,concave shoreline,1
+de Caregné,stream,1
+de Carralala,stream,1
+de Carreu,elevated area,1
+de Cartró,stream,1
+de Casa,stream,1
+de Casanovas,stream,1
+de Casas Novas,stream,1
+de Castellbó,stream,1
+de Chalamera,stream,1
+de Clot d’en,stream,1
+de Coma Roja,elevated area,1
+de Coma de Parros,elevation,1
+de Coma de Parrós,elevation,1
+de Coma de Vacas,stream,1
+de Comas Lobas,elevated area,1
+de Comas de Maldá,stream,1
+de Comas-Juntas,elevation,1
+de Comicha,depression,1
+de Conglens,depression,1
+de Conques,stream,1
+de Contesa,elevation,1
+de Creixell,shoreline,1
+de Delqué,stream,1
+de Dona,depression,1
+de Edllet,elevated area,1
+de Entrescaballos,elevation,1
+de Erillavall,depression,1
+de Escobedo,elevation,1
+de Esplugafreda,stream,1
+de Falps Biure,stream,1
+de Fanals,shoreline,1
+de Farrubío,stream,1
+de Feitus,elevated area,1
+de Fenals,shoreline,1
+de Flamisella,elevation,1
+de Forn,concave shoreline,1
+de Fraixanet,stream,1
+de Gabarra,elevated area,1
+de Garceran,stream,1
+de Geltrú,elevation,1
+de Godall,stream,1
+de Gorraptes,elevated area,1
+de Gorraptes,stream,1
+de Gos,convex shoreline,1
+de Gotelleres,stream,1
+de Graciá,island,1
+de Greixa,stream,1
+de Guarbes,elevated area,1
+de Guardiola,stream,1
+de Jafra,stream,1
+de Jou,depression,1
+de Juncosa,stream,1
+de La,basin,4
+de La,stream,2
+de Las Serras,elevation,1
+de Lassole,basin,1
+de Liébana,stream,1
+de Lladorre,stream,1
+de Llanera,stream,1
+de Llebreta,stream,1
+de Lleriola,stream,1
+de Lloret,shoreline,1
+de Lloret de Mar,shoreline,1
+de Llusanés,stream,1
+de Los,stream,1
+de Luna,stream,1
+de L’Ull L’Asma,stream,1
+de L’Uls,stream,1
+de Majó de Vall del’s,stream,1
+de Malfurat,elevated area,1
+de Manega,depression,1
+de Manlleu,stream,1
+de Marellas,stream,1
+de Mariola,elevation,1
+de Mas,stream,2
+de Mas Calbó,stream,1
+de Mas del Roviru,stream,1
+de Masacola,stream,1
+de Masaloca,stream,1
+de Maspujols,stream,1
+de Matas,elevated area,1
+de Merola,stream,1
+de Migjorn,concave shoreline,1
+de Mitjana,elevated area,1
+de Mola,stream,1
+de Mompius,elevation,1
+de Mongó,concave shoreline,1
+de Monserrat,elevated area,1
+de Mont,elevation,1
+de Montagut,depression,1
+de Montalt,elevated area,1
+de Montaspre,elevation,1
+de Montasprede,elevation,1
+de Montbellet,stream,1
+de Monteixo,elevated area,1
+de Montjuich,elevation,1
+de Montnegre,elevated area,1
+de Montsant,elevated area,1
+de Montserrat,elevated area,1
+de Montsiá,elevated area,1
+de Moredo,elevation,1
+de Moreu,elevated area,1
+de Musilló,stream,1
+de Navel,stream,1
+de Navet,stream,1
+de Novés,stream,1
+de Odén,elevated area,1
+de Oliana,elevated area,1
+de Orpinell,elevation,1
+de Ourrit,stream,1
+de Palomas,elevated area,1
+de Pals,shoreline,1
+de Pandals,elevated area,1
+de Pandols,elevated area,1
+de Pavet,stream,1
+de Peranera,stream,1
+de Piñol-Riu,stream,1
+de Planellas,stream,1
+de Pomèro,elevation,1
+de Ponquerisa,stream,1
+de Pontons,stream,1
+de Portaulet,stream,1
+de Prada,elevated area,1
+de Pradet,basin,1
+de Puig Estela,elevated area,1
+de Puigfred,elevated area,1
+de Raconet,stream,1
+de Reca,stream,1
+de Rech Devals,stream,1
+de Redó,depression,1
+de Renau,stream,1
+de Ribereta,basin,1
+de Ribona,stream,1
+de Rifá,shoreline,1
+de Rios,basin,1
+de Riu,stream,1
+de Riu de Llastres,convex shoreline,1
+de Riu de Llastres,stream,1
+de Riudaura,stream,1
+de Riudecañas,stream,1
+de Riudecols,stream,1
+de Riudevitlle,stream,1
+de Riudevitlles,stream,1
+de Rius,basin,1
+de Roca Rossa,elevated area,1
+de Roda,elevated area,1
+de Rosario,elevation,1
+de Rubí,stream,1
+de Ruda,stream,1
+de Rumanil,stream,1
+de Saladern,stream,1
+de Salións,convex shoreline,1
+de Sallent,stream,1
+de Salou,convex shoreline,1
+de Salás,elevated area,1
+de San,concave shoreline,2
+de San,shoreline,1
+de San,stream,6
+de San Antonio,stream,1
+de San Cugat,stream,1
+de San Gervasio,convex shoreline,1
+de San Gervás,elevated area,1
+de San Ginés,convex shoreline,1
+de San Jerónimo,elevation,1
+de San Jordí,concave shoreline,1
+de San Jorge,convex shoreline,1
+de San Juan,elevated area,1
+de San Magin,stream,1
+de San Mamed,elevated area,1
+de San Mamet,elevated area,1
+de San Marcos,elevated area,1
+de San Mateo,elevated area,1
+de San Mauricio,basin,1
+de San Mauricio,stream,1
+de San Miguel,elevated area,1
+de San Nicolás,stream,1
+de San Pedro,convex shoreline,1
+de San Pol,convex shoreline,1
+de San Sebastián,convex shoreline,1
+de San Vicente,stream,1
+de Sanahuja,stream,1
+de Sant,shoreline,1
+de Santa Cristina,convex shoreline,1
+de Santa Eulalia,stream,1
+de Santa Susana,convex shoreline,1
+de Santa Susana,shoreline,1
+de Santas Creus,stream,1
+de Sarroca,stream,1
+de Segur,shoreline,1
+de Sellente,depression,1
+de Senet,depression,1
+de Serelles,depression,1
+de Serradell,stream,1
+de Serradillo,stream,1
+de Sillerels,stream,1
+de Solanell,stream,1
+de Tamariu,concave shoreline,1
+de Teyá,stream,1
+de Tiana,stream,1
+de Tornés,stream,1
+de Torreblanca,stream,1
+de Tost,stream,1
+de Trentinyá,elevated area,1
+de Tudores,stream,1
+de Utxafaba,basin,1
+de Val de,stream,1
+de Vall,stream,3
+de Vall Escorres,stream,1
+de Vall Orega,stream,1
+de Vall de,stream,2
+de Vall de Artés,stream,1
+de Vall de Melóns,stream,1
+de Vall des Olives,stream,1
+de Vallcansada,stream,1
+de Valldebons,stream,1
+de Valle,stream,3
+de Vallebrera,stream,1
+de Vallfogona,stream,1
+de Vallibierna,stream,1
+de Vallmala,stream,1
+de Vallplana,elevated area,1
+de Vandellós,stream,1
+de Ventolao,elevation,1
+de Vic,area,1
+de Vich,area,1
+de Viella,depression,1
+de Vilach,elevated area,1
+de Vilanova,stream,1
+de Vilans,stream,1
+de Vilovi,stream,1
+de Viure,stream,1
+de Víu,stream,1
+de la,basin,11
+de la,convex shoreline,1
+de la,depression,1
+de la,elevated area,1
+de la,elevation,3
+de la,stream,12
+de la Agulla,area,1
+de la Arena,basin,1
+de la Argentera,stream,1
+de la Baorada,stream,1
+de la Batalla,elevated area,1
+de la Batería,convex shoreline,1
+de la Bisbal,stream,1
+de la Blancals,convex shoreline,1
+de la Canonja,shoreline,1
+de la Cirera,depression,1
+de la Cisquella,stream,1
+de la Cisqueta,stream,1
+de la Coma de Forn,elevation,1
+de la Conca,elevated area,1
+de la Creu,convex shoreline,1
+de la Cuadra,stream,1
+de la Cunca,stream,1
+de la Dona,depression,1
+de la Entecada,elevation,1
+de la Facina,stream,1
+de la Fatarella,elevated area,1
+de la Fembra Morta,elevated area,1
+de la Femosa,stream,1
+de la Figuera,convex shoreline,1
+de la Flora,basin,1
+de la Fo,stream,1
+de la Fon del,stream,1
+de la Fonollosa,stream,1
+de la Font del,stream,1
+de la Fullota,stream,1
+de la Garrancha,stream,1
+de la Goita,convex shoreline,1
+de la Grallera,stream,1
+de la Greu,elevated area,1
+de la Mansera,stream,1
+de la Mina,stream,1
+de la Monedera,concave shoreline,1
+de la Mora,convex shoreline,1
+de la Mora,elevated area,1
+de la Mota,depression,1
+de la Musara,elevated area,1
+de la Pale de la Goute,elevation,1
+de la Palma Marina,convex shoreline,1
+de la Piedad,convex shoreline,1
+de la Pietat,elevated area,1
+de la Pinatellas,stream,1
+de la Pixerota,convex shoreline,1
+de la Plalchola,basin,1
+de la Platchola,basin,1
+de la Poncella,convex shoreline,1
+de la Ponsella,convex shoreline,1
+de la Porquerola,stream,1
+de la Rabasao,stream,1
+de la Restanca,basin,1
+de la Riera,stream,1
+de la Riera de Riudecañas,convex shoreline,1
+de la Rota,elevation,1
+de la Sardana,stream,1
+de la Sigala,convex shoreline,1
+de la Sisca,stream,1
+de la Solana,elevated area,1
+de la Sucarrada,stream,1
+de la Vaca,elevated area,1
+de la Vall,stream,1
+de la Vansa,stream,1
+de la Velleta,elevated area,1
+de la Victoria,stream,1
+de las,elevation,3
+de las,stream,5
+de las Cabras,elevation,1
+de las Canales,stream,1
+de las Cansadas,stream,1
+de las Capsadas,stream,1
+de las Carboneras,stream,1
+de las Cobas,stream,1
+de las Comes,stream,1
+de las Covas,stream,2
+de las Esclotas de Seguras,stream,1
+de las Escolas,stream,1
+de las Fuentes,stream,1
+de las Gabarras,elevated area,1
+de las Garrigas,elevated area,1
+de las Huertas,stream,1
+de las Medas,elevated area,1
+de las Ollas,basin,1
+de las Pedratetes,stream,1
+de las Rocas,convex shoreline,1
+de las Roujos,elevation,1
+de las Valls Volá,stream,1
+de las Venas,depression,1
+de las Voltas,stream,1
+de las Ánimas,stream,1
+de les Aufacades,basin,1
+de les Pedraletes,stream,1
+de les Valls de las,stream,1
+de los,concave shoreline,1
+de los Bribones,stream,1
+de los Cinco Caminos,stream,1
+de los Clots,stream,1
+de los Mangranés,stream,1
+de los Mases,stream,1
+de los Molinos,stream,1
+de los Negros,elevation,1
+de los Pechines,stream,1
+de l’Arena,basin,1
+de l’Encanyissada,basin,1
+de l’Illot,basin,1
+del,area,1
+del,basin,3
+del,concave shoreline,4
+del,convex shoreline,1
+del,elevated area,1
+del,elevation,2
+del,island,1
+del,shoreline,1
+del,stream,1
+del Aliga,elevation,1
+del Ausell,convex shoreline,1
+del Avellanar,stream,1
+del Avellá,stream,1
+del Balsa,stream,1
+del Besós,shoreline,1
+del Bif,elevation,1
+del Boix,elevated area,1
+del Cap de Termes,stream,1
+del Castellar,elevated area,1
+del Catllar,elevated area,1
+del Chaco,stream,1
+del Clarena,elevated area,1
+del Clot,depression,1
+del Clot de las,stream,1
+del Clot de l’Eura,depression,1
+del Coll de Vaques,stream,1
+del Comú,stream,1
+del Coso,depression,1
+del Escorial,stream,1
+del Estany Gelat,stream,1
+del Esteve,elevated area,1
+del Estret,stream,1
+del Fangal,convex shoreline,1
+del Fangar,convex shoreline,1
+del Fango,convex shoreline,1
+del Galacho,convex shoreline,1
+del Galatxo,convex shoreline,1
+del Grebol,elevation,1
+del Herrero,convex shoreline,1
+del Ilón,stream,1
+del Lavall de la Torre,elevated area,1
+del Llobregat,convex shoreline,1
+del Llop,stream,1
+del Llop de Chebeli,stream,1
+del Mar,elevated area,1
+del Marqués,elevation,1
+del Mas de,stream,1
+del Milagro,convex shoreline,1
+del Miracle,convex shoreline,1
+del Moli,stream,1
+del Montsech,elevated area,1
+del Muelle,convex shoreline,1
+del Murrot,convex shoreline,1
+del Padró,elevated area,1
+del Pall,basin,1
+del Papiolet,stream,1
+del Picador,stream,1
+del Pitillo,elevation,1
+del Pixador,stream,1
+del Pont,stream,1
+del Pont de Erta,stream,1
+del Porroc,convex shoreline,1
+del Port del Conte,elevated area,1
+del Portet,elevation,1
+del Pubill,elevated area,1
+del Puente de la,stream,1
+del Purroch,convex shoreline,1
+del Regué,stream,1
+del Remolar,basin,1
+del Rifá,stream,1
+del Rincón,shoreline,1
+del Rio,convex shoreline,1
+del Robelló,elevated area,1
+del Ros,elevation,1
+del Rubials,stream,1
+del Río Tordera,convex shoreline,1
+del Seca,stream,1
+del Siscal,stream,1
+del Sur de,concave shoreline,1
+del Term,convex shoreline,1
+del Tibidabo,elevation,1
+del Tormo,elevated area,1
+del Torreno,stream,1
+del Torrent de,stream,1
+del Torrent del Pi,stream,1
+del Tosal Gros,stream,1
+del Turp,elevated area,1
+del Turull,stream,1
+del Término,convex shoreline,1
+del Vall de Bus,stream,1
+del Viudo,stream,1
+del la,stream,1
+del Águila,elevation,1
+dels Bribons,stream,1
+dels Canals,elevated area,1
+dels Estrets,stream,1
+dels Pañals,convex shoreline,1
+dels Peñals,convex shoreline,1
+dera Sèrra,elevation,1
+d’Alfa,elevation,1
+d’en Gràcia,island,1
+d’en Sitja,elevated area,1
+el Tosal,elevation,1
+la,stream,1
+la Ginesta,convex shoreline,1
+se,elevation,1

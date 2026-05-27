@@ -1,0 +1,78 @@
+place_category,separate_beginning,frequency
+area,<NONE>,9
+area,El,2
+area,Plana,4
+area,Planell,2
+basin,<NONE>,2
+basin,Balsa,12
+basin,Bassa,6
+basin,Estanque,2
+basin,Estany,9
+basin,Lago,20
+basin,Laguna,9
+basin,Lagunas,2
+concave shoreline,<NONE>,5
+concave shoreline,Bahía,3
+concave shoreline,Boca,2
+concave shoreline,Cala,14
+concave shoreline,Ensenada,2
+concave shoreline,Gola,6
+concave shoreline,Golfo,4
+concave shoreline,Puerto,2
+convex shoreline,<NONE>,4
+convex shoreline,Cabo,17
+convex shoreline,Cap,4
+convex shoreline,Morro,3
+convex shoreline,Punta,73
+depression,<NONE>,6
+depression,Coll,22
+depression,Collada,2
+depression,Collado,18
+depression,Puerto,3
+elevated area,<NONE>,10
+elevated area,Serra,2
+elevated area,Serrat,2
+elevated area,Sierra,93
+elevation,<NONE>,47
+elevation,Cabeza,5
+elevation,Cap,8
+elevation,Cerro,4
+elevation,El,4
+elevation,La,6
+elevation,Mola,3
+elevation,Montaña,4
+elevation,Monte,3
+elevation,Pic,6
+elevation,Pico,25
+elevation,Pla,3
+elevation,Plana,2
+elevation,Puig,17
+elevation,Punt,2
+elevation,Punta,2
+elevation,Roca,5
+elevation,San,5
+elevation,Sant,2
+elevation,Serra,2
+elevation,Serrat,2
+elevation,Tosal,2
+elevation,Tres,2
+island,<NONE>,4
+island,Illa,3
+island,Isla,13
+island,Isleta,2
+shoreline,<NONE>,1
+shoreline,Platja,3
+shoreline,Playa,17
+stream,<NONE>,10
+stream,Arroyo,71
+stream,Barranco,177
+stream,Reguera,2
+stream,Ribera,2
+stream,Riera,38
+stream,Rio,2
+stream,Riu,5
+stream,Río,103
+stream,Torrente,18
+stream,Vall,17
+stream,Valle,3
+underwater elevation,<NONE>,1
