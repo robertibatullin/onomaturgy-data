@@ -82,6 +82,9 @@
     "early_byzantine_m.csv"
   ],
   "names/English": [
+    "american_f.csv",
+    "american_m.csv",
+    "american_s.csv",
     "british_f.csv",
     "british_m.csv",
     "british_s.csv"
@@ -145,6 +148,11 @@
     "sri_lankan_m.csv",
     "sri_lankan_s.csv"
   ],
+  "names/Indonesian": [
+    "indonesian_f.csv",
+    "indonesian_m.csv",
+    "indonesian_s.csv"
+  ],
   "names/Iranian": [
     "iranian_f.csv",
     "iranian_m.csv",
@@ -165,6 +173,11 @@
     "italian_m.csv",
     "italian_s.csv"
   ],
+  "names/Japanese": [
+    "japanese_f.csv",
+    "japanese_m.csv",
+    "japanese_s.csv"
+  ],
   "names/Kazakh": [
     "kazakh_f.csv",
     "kazakh_m.csv",
@@ -175,6 +188,11 @@
     "khmer_f.csv",
     "khmer_m.csv",
     "khmer_s.csv"
+  ],
+  "names/Korean": [
+    "south_korean_f.csv",
+    "south_korean_m.csv",
+    "south_korean_s.csv"
   ],
   "names/Laotian": [
     "laotian_f.csv",

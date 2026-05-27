@@ -6,6 +6,21 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [0.2.3] — 2026-05-27
+
+### Added
+- **English/American** personal name corpus (`american_f.csv`, `american_m.csv`,
+  `american_s.csv`) added to the existing `names/English/` directory.
+- **Indonesian** personal name corpus (`names/Indonesian/`): given names and
+  surnames for both genders.
+- **Japanese** personal name corpus (`names/Japanese/`): given names and
+  surnames for both genders.
+- **Korean** personal name corpus (`names/Korean/`): South Korean given names
+  and surnames for both genders.
+- `manifest.json` updated with all new files.
+
+---
+
 ## [0.2.2] — 2026-05-27
 
 ### Added
