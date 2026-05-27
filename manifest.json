@@ -396,14 +396,6 @@
     "German_separate_beginnings.csv",
     "German_separate_endings.csv"
   ],
-  "toponyms/namesets/Gothic": [
-    "Gothic.csv",
-    "Gothic_beginnings.csv",
-    "Gothic_cleared.csv",
-    "Gothic_endings.csv",
-    "Gothic_separate_beginnings.csv",
-    "Gothic_separate_endings.csv"
-  ],
   "toponyms/namesets/Icelandic": [
     "Icelandic.csv",
     "Icelandic_beginnings.csv",

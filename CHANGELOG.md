@@ -5,6 +5,12 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+## [0.2.1] — 2026-05-27
+
+### Removed
+- **`Gothic`** toponym dataset and its `manifest.json` entry.
+
+---
 
 ## [0.2.0] — 2026-05-27
 
