@@ -94,6 +94,11 @@
     "estonian_m.csv",
     "estonian_s.csv"
   ],
+  "names/Ethiopian": [
+    "ethiopian_f.csv",
+    "ethiopian_m.csv",
+    "ethiopian_s.csv"
+  ],
   "names/Faeroese": [
     "faeroese_f.csv",
     "faeroese_m.csv",

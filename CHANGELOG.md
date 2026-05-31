@@ -6,6 +6,15 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [0.2.4] — 2026-05-31
+
+### Added
+- **Ethiopian** personal name corpus (`names/Ethiopian/`): `ethiopian_f.csv`,
+  `ethiopian_m.csv`, `ethiopian_s.csv`.
+- `manifest.json` updated with all new files.
+
+---
+
 ## [0.2.3] — 2026-05-27
 
 ### Added

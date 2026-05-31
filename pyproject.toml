@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "onomaturgy-data"
-version = "0.2.3"
+version = "0.2.4"
 description = "CSV corpus data for the onomaturgy name generator"
 requires-python = ">=3.10"
 
