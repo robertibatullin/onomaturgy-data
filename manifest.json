@@ -548,5 +548,101 @@
     "Welsh_endings.csv",
     "Welsh_separate_beginnings.csv",
     "Welsh_separate_endings.csv"
+  ],
+  "companies/namesets/AL": [
+    "AL.csv",
+    "AL_beginnings.csv",
+    "AL_cleared.csv",
+    "AL_endings.csv",
+    "AL_separate_beginnings.csv",
+    "AL_separate_endings.csv"
+  ],
+  "companies/namesets/AT": [
+    "AT.csv",
+    "AT_beginnings.csv",
+    "AT_cleared.csv",
+    "AT_endings.csv",
+    "AT_separate_beginnings.csv",
+    "AT_separate_endings.csv"
+  ],
+  "companies/namesets/BA": [
+    "BA.csv",
+    "BA_beginnings.csv",
+    "BA_cleared.csv",
+    "BA_endings.csv",
+    "BA_separate_beginnings.csv",
+    "BA_separate_endings.csv"
+  ],
+  "companies/namesets/CZ": [
+    "CZ.csv",
+    "CZ_beginnings.csv",
+    "CZ_cleared.csv",
+    "CZ_endings.csv",
+    "CZ_separate_beginnings.csv",
+    "CZ_separate_endings.csv"
+  ],
+  "companies/namesets/DE": [
+    "DE.csv",
+    "DE_beginnings.csv",
+    "DE_cleared.csv",
+    "DE_endings.csv",
+    "DE_separate_beginnings.csv",
+    "DE_separate_endings.csv"
+  ],
+  "companies/namesets/HR": [
+    "HR.csv",
+    "HR_beginnings.csv",
+    "HR_cleared.csv",
+    "HR_endings.csv",
+    "HR_separate_beginnings.csv",
+    "HR_separate_endings.csv"
+  ],
+  "companies/namesets/HU": [
+    "HU.csv",
+    "HU_beginnings.csv",
+    "HU_cleared.csv",
+    "HU_endings.csv",
+    "HU_separate_beginnings.csv",
+    "HU_separate_endings.csv"
+  ],
+  "companies/namesets/RO": [
+    "RO.csv",
+    "RO_beginnings.csv",
+    "RO_cleared.csv",
+    "RO_endings.csv",
+    "RO_separate_beginnings.csv",
+    "RO_separate_endings.csv"
+  ],
+  "companies/namesets/RS": [
+    "RS.csv",
+    "RS_beginnings.csv",
+    "RS_cleared.csv",
+    "RS_endings.csv",
+    "RS_separate_beginnings.csv",
+    "RS_separate_endings.csv"
+  ],
+  "companies/namesets/RU": [
+    "RU.csv",
+    "RU_beginnings.csv",
+    "RU_cleared.csv",
+    "RU_endings.csv",
+    "RU_separate_beginnings.csv",
+    "RU_separate_endings.csv"
+  ],
+  "companies/namesets/SK": [
+    "SK.csv",
+    "SK_beginnings.csv",
+    "SK_cleared.csv",
+    "SK_endings.csv",
+    "SK_separate_beginnings.csv",
+    "SK_separate_endings.csv"
+  ],
+  "companies/namesets/UA": [
+    "UA.csv",
+    "UA_beginnings.csv",
+    "UA_cleared.csv",
+    "UA_endings.csv",
+    "UA_separate_beginnings.csv",
+    "UA_separate_endings.csv"
   ]
 }

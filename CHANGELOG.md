@@ -6,6 +6,17 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [0.3.0] — 2026-06-04
+
+### Added
+- **Company name corpora** — 12 country namesets under
+  `onomaturgy_data/csv/companies/namesets/`: AL, AT, BA, CZ, DE, HR, HU, RO,
+  RS, RU, SK, UA. Each nameset contains the raw CSV (`name,industry`) plus
+  five derived files compiled with `MIN_FREQ=10`.
+- `manifest.json` updated with all 72 new files (6 per country).
+
+---
+
 ## [0.2.4] — 2026-05-31
 
 ### Added
