@@ -6,6 +6,13 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [0.4.0] — 2026-06-06
+
+Version bump to stay in sync with the `onomaturgy` code package (0.4.0 adds a
+web UI; no data changes in this release).
+
+---
+
 ## [0.3.0] — 2026-06-04
 
 ### Added
