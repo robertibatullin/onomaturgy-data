@@ -247,6 +247,12 @@
     "old_welsh_f.csv",
     "old_welsh_m.csv"
   ],
+  "names/Pannonian": [
+    "panninian_f.csv",
+    "panninian_m.csv",
+    "panninian_sf.csv",
+    "panninian_sm.csv"
+  ],
   "names/Polish": [
     "polish_f.csv",
     "polish_m.csv",
