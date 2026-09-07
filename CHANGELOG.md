@@ -6,6 +6,15 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [0.4.1] — 2026-09-07
+
+### Added
+- **Pannonian personal-name corpus** — `onomaturgy_data/csv/names/Pannonian/`:
+  `pannonian_f.csv`, `pannonian_m.csv`, `pannonian_sf.csv`, `pannonian_sm.csv`
+  (given names and gendered surnames). Registered in `manifest.json`.
+
+---
+
 ## [0.4.0] — 2026-06-06
 
 Version bump to stay in sync with the `onomaturgy` code package (0.4.0 adds a
