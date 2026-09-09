@@ -6,6 +6,14 @@ This project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [0.4.2] — 2026-09-09
+
+Version bump to stay in sync with the `onomaturgy` code package (0.4.2 adds a
+sibling-repo resolution tier to `data_manager`; no data changes in this
+release).
+
+---
+
 ## [0.4.1] — 2026-09-07
 
 ### Added
